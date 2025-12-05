@@ -10,13 +10,20 @@ for (let i = 0; i < NUM_RECORDS; i++) {
     const machine = MACHINES[Math.floor(Math.random() * MACHINES.length)];
 
     // assuming higher temp, lower yield
-    let baseTemp = machine.includes('Oven') ? 220 : 150;
+    let baseTemp;
+    if (machine.includes('Oven')) {
+        baseTemp = 225;
+    } else if (machine.includes('Mixer')) {
+        baseTemp = 185;
+    } else {
+        baseTemp = 145;
+    }
     let temp = baseTemp + (Math.random() * 50 - 25);
-    let yieldPenalty = (temp - 130) * 0.002;
+    let yieldPenalty = (temp - 120) * 0.0018;
     if (yieldPenalty < 0) yieldPenalty = 0;
 
     // noise
-    let yieldRate = 0.98 - yieldPenalty + (Math.random() * 0.05 - 0.025);
+    let yieldRate = 0.99 - yieldPenalty + (Math.random() * 0.04 - 0.02);
     yieldRate = Math.max(0.7, Math.min(1.0, yieldRate));
 
     data.push({

@@ -1,4002 +1,4002 @@
 [
   {
     "id": "RUN-1000",
-    "timestamp": "2025-10-09T21:51:08.999Z",
-    "machine_id": "Press-B",
-    "temperature_c": 158.9,
-    "yield_rate": 0.944,
-    "defect_count": 56
+    "timestamp": "2025-11-02T06:56:03.997Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 198.4,
+    "yield_rate": 0.836,
+    "defect_count": 164
   },
   {
     "id": "RUN-1001",
-    "timestamp": "2025-11-30T21:04:51.630Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 125.2,
-    "yield_rate": 0.969,
-    "defect_count": 30
+    "timestamp": "2025-09-12T03:44:46.725Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 223.8,
+    "yield_rate": 0.801,
+    "defect_count": 198
   },
   {
     "id": "RUN-1002",
-    "timestamp": "2025-12-02T01:58:24.231Z",
-    "machine_id": "Press-B",
-    "temperature_c": 138.8,
-    "yield_rate": 0.957,
-    "defect_count": 42
-  },
-  {
-    "id": "RUN-1003",
-    "timestamp": "2025-09-26T10:43:47.112Z",
-    "machine_id": "Press-A",
-    "temperature_c": 138.1,
-    "yield_rate": 0.969,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1004",
-    "timestamp": "2025-10-02T22:14:33.984Z",
+    "timestamp": "2025-10-31T13:35:47.073Z",
     "machine_id": "Oven-2",
-    "temperature_c": 237.1,
-    "yield_rate": 0.788,
-    "defect_count": 212
-  },
-  {
-    "id": "RUN-1005",
-    "timestamp": "2025-11-18T02:18:35.201Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 234.2,
-    "yield_rate": 0.782,
-    "defect_count": 218
-  },
-  {
-    "id": "RUN-1006",
-    "timestamp": "2025-12-02T17:44:07.461Z",
-    "machine_id": "Press-B",
-    "temperature_c": 140,
-    "yield_rate": 0.946,
-    "defect_count": 54
-  },
-  {
-    "id": "RUN-1007",
-    "timestamp": "2025-08-15T00:02:03.608Z",
-    "machine_id": "Press-A",
-    "temperature_c": 174.9,
-    "yield_rate": 0.887,
-    "defect_count": 112
-  },
-  {
-    "id": "RUN-1008",
-    "timestamp": "2025-09-25T08:13:12.733Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 197.1,
-    "yield_rate": 0.871,
-    "defect_count": 129
-  },
-  {
-    "id": "RUN-1009",
-    "timestamp": "2025-08-29T00:31:17.348Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 218.9,
-    "yield_rate": 0.808,
-    "defect_count": 191
-  },
-  {
-    "id": "RUN-1010",
-    "timestamp": "2025-08-24T19:10:51.697Z",
-    "machine_id": "Press-A",
-    "temperature_c": 162.3,
-    "yield_rate": 0.913,
-    "defect_count": 87
-  },
-  {
-    "id": "RUN-1011",
-    "timestamp": "2025-10-24T16:36:38.713Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 208.4,
-    "yield_rate": 0.806,
-    "defect_count": 193
-  },
-  {
-    "id": "RUN-1012",
-    "timestamp": "2025-10-28T17:21:14.077Z",
-    "machine_id": "Press-B",
-    "temperature_c": 146.5,
-    "yield_rate": 0.952,
-    "defect_count": 48
-  },
-  {
-    "id": "RUN-1013",
-    "timestamp": "2025-10-06T13:50:04.660Z",
-    "machine_id": "Press-B",
-    "temperature_c": 151.3,
-    "yield_rate": 0.918,
-    "defect_count": 82
-  },
-  {
-    "id": "RUN-1014",
-    "timestamp": "2025-09-08T15:58:54.563Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 215.7,
-    "yield_rate": 0.806,
-    "defect_count": 194
-  },
-  {
-    "id": "RUN-1015",
-    "timestamp": "2025-08-14T00:07:19.687Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 234.6,
-    "yield_rate": 0.791,
-    "defect_count": 209
-  },
-  {
-    "id": "RUN-1016",
-    "timestamp": "2025-11-18T14:13:56.664Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 156.4,
-    "yield_rate": 0.939,
-    "defect_count": 60
-  },
-  {
-    "id": "RUN-1017",
-    "timestamp": "2025-10-14T23:50:01.487Z",
-    "machine_id": "Press-A",
-    "temperature_c": 136.1,
-    "yield_rate": 0.967,
-    "defect_count": 32
-  },
-  {
-    "id": "RUN-1018",
-    "timestamp": "2025-11-23T23:38:56.986Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 241,
-    "yield_rate": 0.746,
-    "defect_count": 253
-  },
-  {
-    "id": "RUN-1019",
-    "timestamp": "2025-09-25T12:45:23.636Z",
-    "machine_id": "Press-B",
-    "temperature_c": 133,
-    "yield_rate": 0.981,
-    "defect_count": 18
-  },
-  {
-    "id": "RUN-1020",
-    "timestamp": "2025-11-20T15:59:20.786Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 223,
-    "yield_rate": 0.802,
-    "defect_count": 198
-  },
-  {
-    "id": "RUN-1021",
-    "timestamp": "2025-08-26T00:32:15.661Z",
-    "machine_id": "Press-A",
-    "temperature_c": 156.9,
-    "yield_rate": 0.917,
-    "defect_count": 83
-  },
-  {
-    "id": "RUN-1022",
-    "timestamp": "2025-11-17T15:37:57.174Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 148.6,
-    "yield_rate": 0.959,
-    "defect_count": 40
-  },
-  {
-    "id": "RUN-1023",
-    "timestamp": "2025-09-14T01:45:18.556Z",
-    "machine_id": "Press-A",
-    "temperature_c": 128.9,
-    "yield_rate": 0.961,
-    "defect_count": 38
-  },
-  {
-    "id": "RUN-1024",
-    "timestamp": "2025-08-24T04:42:40.682Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 217.7,
-    "yield_rate": 0.822,
-    "defect_count": 177
-  },
-  {
-    "id": "RUN-1025",
-    "timestamp": "2025-11-28T01:25:42.419Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 158.9,
-    "yield_rate": 0.927,
-    "defect_count": 72
-  },
-  {
-    "id": "RUN-1026",
-    "timestamp": "2025-11-11T02:35:00.492Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 144.5,
-    "yield_rate": 0.953,
-    "defect_count": 46
-  },
-  {
-    "id": "RUN-1027",
-    "timestamp": "2025-09-02T19:28:57.364Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 133.1,
-    "yield_rate": 0.982,
-    "defect_count": 17
-  },
-  {
-    "id": "RUN-1028",
-    "timestamp": "2025-11-19T03:54:37.564Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 127.7,
-    "yield_rate": 0.999,
-    "defect_count": 1
-  },
-  {
-    "id": "RUN-1029",
-    "timestamp": "2025-09-06T05:19:21.709Z",
-    "machine_id": "Press-B",
-    "temperature_c": 141,
-    "yield_rate": 0.978,
-    "defect_count": 22
-  },
-  {
-    "id": "RUN-1030",
-    "timestamp": "2025-11-28T04:25:26.488Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 155.2,
-    "yield_rate": 0.923,
-    "defect_count": 77
-  },
-  {
-    "id": "RUN-1031",
-    "timestamp": "2025-12-01T17:44:10.412Z",
-    "machine_id": "Press-B",
-    "temperature_c": 166.6,
-    "yield_rate": 0.895,
-    "defect_count": 104
-  },
-  {
-    "id": "RUN-1032",
-    "timestamp": "2025-08-12T16:05:04.522Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 227.7,
-    "yield_rate": 0.792,
-    "defect_count": 208
-  },
-  {
-    "id": "RUN-1033",
-    "timestamp": "2025-09-30T06:05:24.222Z",
-    "machine_id": "Press-B",
-    "temperature_c": 128,
-    "yield_rate": 0.993,
-    "defect_count": 7
-  },
-  {
-    "id": "RUN-1034",
-    "timestamp": "2025-11-18T09:54:47.892Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 167.6,
-    "yield_rate": 0.906,
-    "defect_count": 93
-  },
-  {
-    "id": "RUN-1035",
-    "timestamp": "2025-08-26T19:22:53.995Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 225,
-    "yield_rate": 0.785,
-    "defect_count": 214
-  },
-  {
-    "id": "RUN-1036",
-    "timestamp": "2025-09-26T15:21:00.222Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 204.3,
-    "yield_rate": 0.847,
-    "defect_count": 152
-  },
-  {
-    "id": "RUN-1037",
-    "timestamp": "2025-10-16T10:48:36.094Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 211.5,
-    "yield_rate": 0.809,
-    "defect_count": 190
-  },
-  {
-    "id": "RUN-1038",
-    "timestamp": "2025-11-06T14:00:46.346Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 209.2,
-    "yield_rate": 0.802,
-    "defect_count": 198
-  },
-  {
-    "id": "RUN-1039",
-    "timestamp": "2025-10-05T04:35:35.971Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 234.5,
-    "yield_rate": 0.758,
-    "defect_count": 242
-  },
-  {
-    "id": "RUN-1040",
-    "timestamp": "2025-08-23T01:25:59.177Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 128.8,
-    "yield_rate": 0.973,
-    "defect_count": 27
-  },
-  {
-    "id": "RUN-1041",
-    "timestamp": "2025-08-21T22:15:43.484Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 132.8,
-    "yield_rate": 0.981,
-    "defect_count": 18
-  },
-  {
-    "id": "RUN-1042",
-    "timestamp": "2025-09-14T19:41:31.568Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 240,
-    "yield_rate": 0.764,
-    "defect_count": 236
-  },
-  {
-    "id": "RUN-1043",
-    "timestamp": "2025-09-22T03:45:08.692Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 217.2,
-    "yield_rate": 0.818,
-    "defect_count": 182
-  },
-  {
-    "id": "RUN-1044",
-    "timestamp": "2025-08-22T08:07:38.133Z",
-    "machine_id": "Press-B",
-    "temperature_c": 171.5,
-    "yield_rate": 0.9,
-    "defect_count": 99
-  },
-  {
-    "id": "RUN-1045",
-    "timestamp": "2025-11-08T00:54:44.089Z",
-    "machine_id": "Press-B",
-    "temperature_c": 164.4,
-    "yield_rate": 0.913,
-    "defect_count": 86
-  },
-  {
-    "id": "RUN-1046",
-    "timestamp": "2025-09-23T23:12:29.039Z",
-    "machine_id": "Press-B",
-    "temperature_c": 130.4,
-    "yield_rate": 0.955,
-    "defect_count": 44
-  },
-  {
-    "id": "RUN-1047",
-    "timestamp": "2025-10-18T17:25:49.587Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 211.8,
-    "yield_rate": 0.816,
-    "defect_count": 184
-  },
-  {
-    "id": "RUN-1048",
-    "timestamp": "2025-10-31T01:48:49.076Z",
-    "machine_id": "Press-A",
-    "temperature_c": 161,
-    "yield_rate": 0.895,
-    "defect_count": 105
-  },
-  {
-    "id": "RUN-1049",
-    "timestamp": "2025-09-03T08:30:44.340Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 211.3,
-    "yield_rate": 0.817,
-    "defect_count": 183
-  },
-  {
-    "id": "RUN-1050",
-    "timestamp": "2025-11-16T11:38:52.651Z",
-    "machine_id": "Press-A",
-    "temperature_c": 136.2,
-    "yield_rate": 0.953,
-    "defect_count": 46
-  },
-  {
-    "id": "RUN-1051",
-    "timestamp": "2025-09-12T19:32:55.812Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 196.1,
-    "yield_rate": 0.834,
-    "defect_count": 166
-  },
-  {
-    "id": "RUN-1052",
-    "timestamp": "2025-11-21T19:00:17.822Z",
-    "machine_id": "Press-B",
-    "temperature_c": 139.2,
-    "yield_rate": 0.974,
-    "defect_count": 26
-  },
-  {
-    "id": "RUN-1053",
-    "timestamp": "2025-08-13T06:05:14.894Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 196.3,
-    "yield_rate": 0.838,
-    "defect_count": 162
-  },
-  {
-    "id": "RUN-1054",
-    "timestamp": "2025-09-17T11:34:38.838Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 222,
-    "yield_rate": 0.788,
-    "defect_count": 211
-  },
-  {
-    "id": "RUN-1055",
-    "timestamp": "2025-09-28T01:41:11.713Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 165.6,
-    "yield_rate": 0.923,
-    "defect_count": 77
-  },
-  {
-    "id": "RUN-1056",
-    "timestamp": "2025-10-15T14:35:46.742Z",
-    "machine_id": "Press-B",
-    "temperature_c": 161.2,
-    "yield_rate": 0.916,
-    "defect_count": 84
-  },
-  {
-    "id": "RUN-1057",
-    "timestamp": "2025-12-03T01:26:15.281Z",
-    "machine_id": "Press-A",
-    "temperature_c": 128.8,
-    "yield_rate": 0.989,
-    "defect_count": 11
-  },
-  {
-    "id": "RUN-1058",
-    "timestamp": "2025-10-05T04:55:37.951Z",
-    "machine_id": "Press-B",
-    "temperature_c": 129.7,
-    "yield_rate": 0.989,
-    "defect_count": 11
-  },
-  {
-    "id": "RUN-1059",
-    "timestamp": "2025-11-08T23:53:51.589Z",
-    "machine_id": "Press-B",
-    "temperature_c": 164.6,
-    "yield_rate": 0.895,
-    "defect_count": 105
-  },
-  {
-    "id": "RUN-1060",
-    "timestamp": "2025-10-31T07:11:27.811Z",
-    "machine_id": "Press-A",
-    "temperature_c": 138.5,
-    "yield_rate": 0.974,
-    "defect_count": 26
-  },
-  {
-    "id": "RUN-1061",
-    "timestamp": "2025-10-28T17:13:48.185Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 199.8,
-    "yield_rate": 0.859,
-    "defect_count": 140
-  },
-  {
-    "id": "RUN-1062",
-    "timestamp": "2025-11-28T02:33:51.285Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 148.8,
-    "yield_rate": 0.93,
-    "defect_count": 70
-  },
-  {
-    "id": "RUN-1063",
-    "timestamp": "2025-09-27T22:54:18.820Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 242.9,
-    "yield_rate": 0.758,
-    "defect_count": 242
-  },
-  {
-    "id": "RUN-1064",
-    "timestamp": "2025-10-27T19:37:06.579Z",
-    "machine_id": "Press-A",
-    "temperature_c": 151.9,
-    "yield_rate": 0.948,
-    "defect_count": 52
-  },
-  {
-    "id": "RUN-1065",
-    "timestamp": "2025-11-13T00:18:01.360Z",
-    "machine_id": "Press-B",
-    "temperature_c": 149.9,
-    "yield_rate": 0.922,
-    "defect_count": 77
-  },
-  {
-    "id": "RUN-1066",
-    "timestamp": "2025-08-23T19:50:16.462Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 143.2,
-    "yield_rate": 0.964,
-    "defect_count": 36
-  },
-  {
-    "id": "RUN-1067",
-    "timestamp": "2025-10-14T22:05:35.105Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 128.2,
-    "yield_rate": 0.991,
-    "defect_count": 9
-  },
-  {
-    "id": "RUN-1068",
-    "timestamp": "2025-10-23T00:36:01.874Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 203,
-    "yield_rate": 0.822,
-    "defect_count": 177
-  },
-  {
-    "id": "RUN-1069",
-    "timestamp": "2025-09-02T20:07:25.313Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 237.9,
-    "yield_rate": 0.756,
-    "defect_count": 243
-  },
-  {
-    "id": "RUN-1070",
-    "timestamp": "2025-09-21T16:31:24.345Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 156.6,
-    "yield_rate": 0.941,
-    "defect_count": 59
-  },
-  {
-    "id": "RUN-1071",
-    "timestamp": "2025-11-20T07:34:44.423Z",
-    "machine_id": "Press-B",
-    "temperature_c": 142.2,
-    "yield_rate": 0.973,
-    "defect_count": 27
-  },
-  {
-    "id": "RUN-1072",
-    "timestamp": "2025-10-25T03:48:26.373Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 197.4,
-    "yield_rate": 0.869,
-    "defect_count": 130
-  },
-  {
-    "id": "RUN-1073",
-    "timestamp": "2025-09-10T18:29:54.920Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 233.9,
-    "yield_rate": 0.756,
-    "defect_count": 244
-  },
-  {
-    "id": "RUN-1074",
-    "timestamp": "2025-08-12T03:29:48.923Z",
-    "machine_id": "Press-A",
-    "temperature_c": 139.9,
-    "yield_rate": 0.974,
-    "defect_count": 26
-  },
-  {
-    "id": "RUN-1075",
-    "timestamp": "2025-12-01T22:09:36.103Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 145.3,
-    "yield_rate": 0.938,
-    "defect_count": 61
-  },
-  {
-    "id": "RUN-1076",
-    "timestamp": "2025-11-14T00:51:55.459Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 218.1,
-    "yield_rate": 0.817,
-    "defect_count": 182
-  },
-  {
-    "id": "RUN-1077",
-    "timestamp": "2025-09-19T18:52:04.650Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 170.1,
-    "yield_rate": 0.924,
-    "defect_count": 76
-  },
-  {
-    "id": "RUN-1078",
-    "timestamp": "2025-09-26T01:02:30.980Z",
-    "machine_id": "Press-A",
-    "temperature_c": 147.8,
-    "yield_rate": 0.948,
-    "defect_count": 51
-  },
-  {
-    "id": "RUN-1079",
-    "timestamp": "2025-09-30T00:27:03.933Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 223.8,
-    "yield_rate": 0.792,
-    "defect_count": 208
-  },
-  {
-    "id": "RUN-1080",
-    "timestamp": "2025-11-24T15:17:42.599Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 227,
-    "yield_rate": 0.806,
-    "defect_count": 193
-  },
-  {
-    "id": "RUN-1081",
-    "timestamp": "2025-09-01T02:25:02.139Z",
-    "machine_id": "Press-A",
-    "temperature_c": 165.7,
-    "yield_rate": 0.907,
-    "defect_count": 92
-  },
-  {
-    "id": "RUN-1082",
-    "timestamp": "2025-11-24T20:15:13.566Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 203.9,
-    "yield_rate": 0.849,
-    "defect_count": 150
-  },
-  {
-    "id": "RUN-1083",
-    "timestamp": "2025-12-03T10:35:11.285Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 242.2,
-    "yield_rate": 0.733,
-    "defect_count": 267
-  },
-  {
-    "id": "RUN-1084",
-    "timestamp": "2025-10-25T06:38:12.363Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 222,
-    "yield_rate": 0.814,
-    "defect_count": 186
-  },
-  {
-    "id": "RUN-1085",
-    "timestamp": "2025-10-31T09:47:20.802Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 144.4,
-    "yield_rate": 0.974,
-    "defect_count": 25
-  },
-  {
-    "id": "RUN-1086",
-    "timestamp": "2025-10-30T20:11:53.796Z",
-    "machine_id": "Press-A",
-    "temperature_c": 127.4,
-    "yield_rate": 0.982,
-    "defect_count": 18
-  },
-  {
-    "id": "RUN-1087",
-    "timestamp": "2025-11-22T04:40:16.055Z",
-    "machine_id": "Press-A",
-    "temperature_c": 130.7,
-    "yield_rate": 0.956,
-    "defect_count": 44
-  },
-  {
-    "id": "RUN-1088",
-    "timestamp": "2025-11-07T09:37:10.163Z",
-    "machine_id": "Press-A",
-    "temperature_c": 140.1,
-    "yield_rate": 0.954,
-    "defect_count": 46
-  },
-  {
-    "id": "RUN-1089",
-    "timestamp": "2025-11-10T09:41:18.119Z",
-    "machine_id": "Press-A",
-    "temperature_c": 154,
-    "yield_rate": 0.955,
-    "defect_count": 44
-  },
-  {
-    "id": "RUN-1090",
-    "timestamp": "2025-11-21T01:38:52.178Z",
-    "machine_id": "Press-B",
-    "temperature_c": 173.9,
-    "yield_rate": 0.889,
-    "defect_count": 110
-  },
-  {
-    "id": "RUN-1091",
-    "timestamp": "2025-11-18T21:54:18.195Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 218.2,
-    "yield_rate": 0.818,
-    "defect_count": 182
-  },
-  {
-    "id": "RUN-1092",
-    "timestamp": "2025-09-28T18:14:26.870Z",
-    "machine_id": "Press-A",
-    "temperature_c": 146.7,
-    "yield_rate": 0.946,
-    "defect_count": 54
-  },
-  {
-    "id": "RUN-1093",
-    "timestamp": "2025-11-08T13:16:22.282Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 172.3,
-    "yield_rate": 0.894,
-    "defect_count": 105
-  },
-  {
-    "id": "RUN-1094",
-    "timestamp": "2025-10-23T11:04:37.550Z",
-    "machine_id": "Press-A",
-    "temperature_c": 137.3,
-    "yield_rate": 0.976,
-    "defect_count": 23
-  },
-  {
-    "id": "RUN-1095",
-    "timestamp": "2025-08-12T18:19:02.730Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 244.3,
-    "yield_rate": 0.729,
-    "defect_count": 270
-  },
-  {
-    "id": "RUN-1096",
-    "timestamp": "2025-10-05T07:23:18.049Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 218.8,
-    "yield_rate": 0.786,
-    "defect_count": 213
-  },
-  {
-    "id": "RUN-1097",
-    "timestamp": "2025-10-14T11:05:49.782Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 203.6,
-    "yield_rate": 0.818,
-    "defect_count": 181
-  },
-  {
-    "id": "RUN-1098",
-    "timestamp": "2025-11-29T08:27:44.049Z",
-    "machine_id": "Press-B",
-    "temperature_c": 163.6,
-    "yield_rate": 0.915,
-    "defect_count": 85
-  },
-  {
-    "id": "RUN-1099",
-    "timestamp": "2025-10-18T10:48:16.146Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 210.6,
-    "yield_rate": 0.832,
-    "defect_count": 168
-  },
-  {
-    "id": "RUN-1100",
-    "timestamp": "2025-09-03T20:07:58.139Z",
-    "machine_id": "Press-B",
-    "temperature_c": 125.3,
-    "yield_rate": 1,
-    "defect_count": 0
-  },
-  {
-    "id": "RUN-1101",
-    "timestamp": "2025-08-23T12:58:33.669Z",
-    "machine_id": "Press-B",
-    "temperature_c": 158.1,
-    "yield_rate": 0.902,
-    "defect_count": 98
-  },
-  {
-    "id": "RUN-1102",
-    "timestamp": "2025-08-22T10:47:53.092Z",
-    "machine_id": "Press-B",
-    "temperature_c": 127.4,
-    "yield_rate": 0.961,
-    "defect_count": 39
-  },
-  {
-    "id": "RUN-1103",
-    "timestamp": "2025-09-09T11:37:48.244Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 201.2,
-    "yield_rate": 0.862,
-    "defect_count": 138
-  },
-  {
-    "id": "RUN-1104",
-    "timestamp": "2025-11-07T21:03:04.473Z",
-    "machine_id": "Press-A",
-    "temperature_c": 125.5,
-    "yield_rate": 0.976,
-    "defect_count": 24
-  },
-  {
-    "id": "RUN-1105",
-    "timestamp": "2025-08-19T18:50:43.277Z",
-    "machine_id": "Press-A",
-    "temperature_c": 172.9,
-    "yield_rate": 0.901,
-    "defect_count": 98
-  },
-  {
-    "id": "RUN-1106",
-    "timestamp": "2025-10-29T18:14:10.730Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 206.1,
-    "yield_rate": 0.81,
-    "defect_count": 190
-  },
-  {
-    "id": "RUN-1107",
-    "timestamp": "2025-10-04T11:13:36.457Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 237.7,
-    "yield_rate": 0.788,
-    "defect_count": 211
-  },
-  {
-    "id": "RUN-1108",
-    "timestamp": "2025-09-04T04:32:52.885Z",
-    "machine_id": "Press-A",
-    "temperature_c": 138.7,
-    "yield_rate": 0.968,
-    "defect_count": 32
-  },
-  {
-    "id": "RUN-1109",
-    "timestamp": "2025-10-09T19:46:53.135Z",
-    "machine_id": "Press-B",
-    "temperature_c": 159.8,
-    "yield_rate": 0.914,
-    "defect_count": 85
-  },
-  {
-    "id": "RUN-1110",
-    "timestamp": "2025-11-19T13:56:16.792Z",
-    "machine_id": "Press-B",
-    "temperature_c": 174.1,
-    "yield_rate": 0.886,
-    "defect_count": 113
-  },
-  {
-    "id": "RUN-1111",
-    "timestamp": "2025-09-03T20:08:13.498Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 217.5,
-    "yield_rate": 0.83,
-    "defect_count": 170
-  },
-  {
-    "id": "RUN-1112",
-    "timestamp": "2025-11-05T18:04:22.155Z",
-    "machine_id": "Press-B",
-    "temperature_c": 139,
-    "yield_rate": 0.937,
-    "defect_count": 62
-  },
-  {
-    "id": "RUN-1113",
-    "timestamp": "2025-08-17T17:55:52.740Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 216,
-    "yield_rate": 0.816,
-    "defect_count": 183
-  },
-  {
-    "id": "RUN-1114",
-    "timestamp": "2025-11-18T23:46:40.120Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 196.6,
-    "yield_rate": 0.834,
-    "defect_count": 165
-  },
-  {
-    "id": "RUN-1115",
-    "timestamp": "2025-11-19T12:50:14.701Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 164.4,
-    "yield_rate": 0.913,
-    "defect_count": 86
-  },
-  {
-    "id": "RUN-1116",
-    "timestamp": "2025-11-22T22:05:26.248Z",
-    "machine_id": "Press-A",
-    "temperature_c": 161.9,
-    "yield_rate": 0.906,
-    "defect_count": 94
-  },
-  {
-    "id": "RUN-1117",
-    "timestamp": "2025-11-14T02:59:42.346Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 233.4,
-    "yield_rate": 0.793,
-    "defect_count": 207
-  },
-  {
-    "id": "RUN-1118",
-    "timestamp": "2025-12-04T10:32:21.512Z",
-    "machine_id": "Press-B",
-    "temperature_c": 150.7,
-    "yield_rate": 0.931,
-    "defect_count": 69
-  },
-  {
-    "id": "RUN-1119",
-    "timestamp": "2025-09-10T01:39:11.985Z",
-    "machine_id": "Press-B",
-    "temperature_c": 170.9,
-    "yield_rate": 0.874,
-    "defect_count": 125
-  },
-  {
-    "id": "RUN-1120",
-    "timestamp": "2025-08-24T16:08:14.457Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 206.1,
-    "yield_rate": 0.807,
-    "defect_count": 193
-  },
-  {
-    "id": "RUN-1121",
-    "timestamp": "2025-11-07T03:25:45.960Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 209.6,
-    "yield_rate": 0.802,
-    "defect_count": 198
-  },
-  {
-    "id": "RUN-1122",
-    "timestamp": "2025-11-01T02:58:50.146Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 203.4,
-    "yield_rate": 0.817,
-    "defect_count": 183
-  },
-  {
-    "id": "RUN-1123",
-    "timestamp": "2025-09-08T05:29:33.991Z",
-    "machine_id": "Press-A",
-    "temperature_c": 130.9,
-    "yield_rate": 0.973,
-    "defect_count": 27
-  },
-  {
-    "id": "RUN-1124",
-    "timestamp": "2025-11-23T07:08:51.537Z",
-    "machine_id": "Press-B",
-    "temperature_c": 162.2,
-    "yield_rate": 0.902,
-    "defect_count": 98
-  },
-  {
-    "id": "RUN-1125",
-    "timestamp": "2025-10-26T19:34:15.669Z",
-    "machine_id": "Press-A",
-    "temperature_c": 144.1,
-    "yield_rate": 0.949,
-    "defect_count": 51
-  },
-  {
-    "id": "RUN-1126",
-    "timestamp": "2025-08-14T03:10:25.629Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 239.3,
-    "yield_rate": 0.747,
-    "defect_count": 253
-  },
-  {
-    "id": "RUN-1127",
-    "timestamp": "2025-09-20T04:04:24.824Z",
-    "machine_id": "Press-B",
-    "temperature_c": 170.6,
-    "yield_rate": 0.923,
-    "defect_count": 77
-  },
-  {
-    "id": "RUN-1128",
-    "timestamp": "2025-12-01T11:08:25.299Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 167.2,
-    "yield_rate": 0.912,
-    "defect_count": 88
-  },
-  {
-    "id": "RUN-1129",
-    "timestamp": "2025-09-13T19:52:23.025Z",
-    "machine_id": "Press-A",
-    "temperature_c": 164.1,
-    "yield_rate": 0.92,
-    "defect_count": 80
-  },
-  {
-    "id": "RUN-1130",
-    "timestamp": "2025-10-20T10:07:46.699Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 218.7,
-    "yield_rate": 0.819,
-    "defect_count": 180
-  },
-  {
-    "id": "RUN-1131",
-    "timestamp": "2025-09-15T10:41:21.424Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 201,
-    "yield_rate": 0.834,
-    "defect_count": 166
-  },
-  {
-    "id": "RUN-1132",
-    "timestamp": "2025-11-24T15:58:13.623Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 218.4,
-    "yield_rate": 0.803,
-    "defect_count": 197
-  },
-  {
-    "id": "RUN-1133",
-    "timestamp": "2025-10-06T22:57:01.515Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 131.7,
-    "yield_rate": 1,
-    "defect_count": 0
-  },
-  {
-    "id": "RUN-1134",
-    "timestamp": "2025-12-01T17:30:53.599Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 234.5,
-    "yield_rate": 0.784,
-    "defect_count": 216
-  },
-  {
-    "id": "RUN-1135",
-    "timestamp": "2025-10-08T14:03:11.170Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 226.4,
-    "yield_rate": 0.766,
-    "defect_count": 233
-  },
-  {
-    "id": "RUN-1136",
-    "timestamp": "2025-09-19T10:32:44.272Z",
-    "machine_id": "Press-B",
-    "temperature_c": 130.8,
-    "yield_rate": 1,
-    "defect_count": 0
-  },
-  {
-    "id": "RUN-1137",
-    "timestamp": "2025-09-16T17:07:38.580Z",
-    "machine_id": "Press-B",
-    "temperature_c": 157,
-    "yield_rate": 0.943,
-    "defect_count": 56
-  },
-  {
-    "id": "RUN-1138",
-    "timestamp": "2025-09-02T18:28:16.431Z",
-    "machine_id": "Press-A",
-    "temperature_c": 140.6,
-    "yield_rate": 0.936,
-    "defect_count": 64
-  },
-  {
-    "id": "RUN-1139",
-    "timestamp": "2025-12-05T07:15:14.835Z",
-    "machine_id": "Press-A",
-    "temperature_c": 166,
-    "yield_rate": 0.927,
-    "defect_count": 72
-  },
-  {
-    "id": "RUN-1140",
-    "timestamp": "2025-11-21T16:41:28.618Z",
-    "machine_id": "Press-A",
-    "temperature_c": 163.4,
-    "yield_rate": 0.896,
-    "defect_count": 103
-  },
-  {
-    "id": "RUN-1141",
-    "timestamp": "2025-10-21T12:28:47.694Z",
-    "machine_id": "Press-B",
-    "temperature_c": 141,
-    "yield_rate": 0.966,
-    "defect_count": 33
-  },
-  {
-    "id": "RUN-1142",
-    "timestamp": "2025-09-12T18:42:57.895Z",
-    "machine_id": "Press-B",
-    "temperature_c": 125.1,
-    "yield_rate": 0.997,
-    "defect_count": 2
-  },
-  {
-    "id": "RUN-1143",
-    "timestamp": "2025-10-15T18:18:24.586Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 147.9,
-    "yield_rate": 0.937,
-    "defect_count": 62
-  },
-  {
-    "id": "RUN-1144",
-    "timestamp": "2025-09-19T03:09:58.970Z",
-    "machine_id": "Press-A",
-    "temperature_c": 173.2,
-    "yield_rate": 0.905,
-    "defect_count": 95
-  },
-  {
-    "id": "RUN-1145",
-    "timestamp": "2025-08-29T17:01:12.882Z",
-    "machine_id": "Press-B",
-    "temperature_c": 135.1,
-    "yield_rate": 0.958,
-    "defect_count": 42
-  },
-  {
-    "id": "RUN-1146",
-    "timestamp": "2025-09-09T10:32:39.631Z",
-    "machine_id": "Press-A",
-    "temperature_c": 166.3,
-    "yield_rate": 0.932,
-    "defect_count": 67
-  },
-  {
-    "id": "RUN-1147",
-    "timestamp": "2025-09-28T04:24:56.892Z",
-    "machine_id": "Press-B",
-    "temperature_c": 131.2,
-    "yield_rate": 0.956,
-    "defect_count": 43
-  },
-  {
-    "id": "RUN-1148",
-    "timestamp": "2025-10-24T18:46:17.924Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 233.4,
-    "yield_rate": 0.754,
-    "defect_count": 246
-  },
-  {
-    "id": "RUN-1149",
-    "timestamp": "2025-11-29T01:19:39.503Z",
-    "machine_id": "Press-A",
-    "temperature_c": 158.3,
-    "yield_rate": 0.931,
-    "defect_count": 68
-  },
-  {
-    "id": "RUN-1150",
-    "timestamp": "2025-11-27T20:20:23.202Z",
-    "machine_id": "Press-B",
-    "temperature_c": 133.8,
-    "yield_rate": 0.964,
-    "defect_count": 36
-  },
-  {
-    "id": "RUN-1151",
-    "timestamp": "2025-08-26T14:20:20.610Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 203,
-    "yield_rate": 0.846,
-    "defect_count": 154
-  },
-  {
-    "id": "RUN-1152",
-    "timestamp": "2025-10-15T04:11:30.177Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 216.1,
-    "yield_rate": 0.81,
-    "defect_count": 189
-  },
-  {
-    "id": "RUN-1153",
-    "timestamp": "2025-11-28T23:31:20.848Z",
-    "machine_id": "Press-A",
-    "temperature_c": 154.8,
-    "yield_rate": 0.952,
-    "defect_count": 48
-  },
-  {
-    "id": "RUN-1154",
-    "timestamp": "2025-09-10T17:42:26.549Z",
-    "machine_id": "Press-A",
-    "temperature_c": 126,
-    "yield_rate": 0.956,
-    "defect_count": 44
-  },
-  {
-    "id": "RUN-1155",
-    "timestamp": "2025-10-26T03:01:13.864Z",
-    "machine_id": "Press-B",
-    "temperature_c": 156,
-    "yield_rate": 0.949,
-    "defect_count": 51
-  },
-  {
-    "id": "RUN-1156",
-    "timestamp": "2025-10-31T20:17:55.425Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 165.6,
-    "yield_rate": 0.902,
-    "defect_count": 97
-  },
-  {
-    "id": "RUN-1157",
-    "timestamp": "2025-11-22T18:37:24.224Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 135.3,
-    "yield_rate": 0.982,
-    "defect_count": 18
-  },
-  {
-    "id": "RUN-1158",
-    "timestamp": "2025-11-08T15:41:10.277Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 139.6,
-    "yield_rate": 0.978,
-    "defect_count": 21
-  },
-  {
-    "id": "RUN-1159",
-    "timestamp": "2025-11-29T16:54:18.258Z",
-    "machine_id": "Press-A",
-    "temperature_c": 147.3,
-    "yield_rate": 0.958,
-    "defect_count": 41
-  },
-  {
-    "id": "RUN-1160",
-    "timestamp": "2025-09-27T18:04:45.688Z",
-    "machine_id": "Press-B",
-    "temperature_c": 133.3,
-    "yield_rate": 0.952,
-    "defect_count": 47
-  },
-  {
-    "id": "RUN-1161",
-    "timestamp": "2025-09-21T03:59:49.260Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 152.2,
-    "yield_rate": 0.93,
-    "defect_count": 69
-  },
-  {
-    "id": "RUN-1162",
-    "timestamp": "2025-09-05T22:56:02.026Z",
-    "machine_id": "Press-A",
-    "temperature_c": 172.2,
-    "yield_rate": 0.882,
-    "defect_count": 117
-  },
-  {
-    "id": "RUN-1163",
-    "timestamp": "2025-09-18T17:38:24.825Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 133.7,
-    "yield_rate": 0.968,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1164",
-    "timestamp": "2025-11-21T10:17:12.094Z",
-    "machine_id": "Press-B",
-    "temperature_c": 140.6,
-    "yield_rate": 0.958,
-    "defect_count": 42
-  },
-  {
-    "id": "RUN-1165",
-    "timestamp": "2025-11-08T20:33:39.957Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 195.1,
-    "yield_rate": 0.864,
-    "defect_count": 136
-  },
-  {
-    "id": "RUN-1166",
-    "timestamp": "2025-11-20T10:18:01.750Z",
-    "machine_id": "Press-A",
-    "temperature_c": 160,
-    "yield_rate": 0.921,
-    "defect_count": 78
-  },
-  {
-    "id": "RUN-1167",
-    "timestamp": "2025-09-09T10:24:31.564Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 214.6,
-    "yield_rate": 0.835,
-    "defect_count": 164
-  },
-  {
-    "id": "RUN-1168",
-    "timestamp": "2025-10-03T02:24:15.329Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 212.8,
-    "yield_rate": 0.824,
-    "defect_count": 176
-  },
-  {
-    "id": "RUN-1169",
-    "timestamp": "2025-11-24T15:43:37.735Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 199.6,
-    "yield_rate": 0.859,
-    "defect_count": 140
-  },
-  {
-    "id": "RUN-1170",
-    "timestamp": "2025-09-10T06:47:37.718Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 158.2,
-    "yield_rate": 0.924,
-    "defect_count": 76
-  },
-  {
-    "id": "RUN-1171",
-    "timestamp": "2025-11-22T22:38:03.739Z",
-    "machine_id": "Press-B",
-    "temperature_c": 125.2,
-    "yield_rate": 0.993,
-    "defect_count": 6
-  },
-  {
-    "id": "RUN-1172",
-    "timestamp": "2025-10-21T12:45:01.120Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 210.9,
-    "yield_rate": 0.804,
-    "defect_count": 195
-  },
-  {
-    "id": "RUN-1173",
-    "timestamp": "2025-09-20T13:28:55.724Z",
-    "machine_id": "Press-A",
-    "temperature_c": 152.8,
-    "yield_rate": 0.954,
-    "defect_count": 45
-  },
-  {
-    "id": "RUN-1174",
-    "timestamp": "2025-09-09T17:11:21.959Z",
-    "machine_id": "Press-A",
-    "temperature_c": 136.3,
-    "yield_rate": 0.972,
-    "defect_count": 28
-  },
-  {
-    "id": "RUN-1175",
-    "timestamp": "2025-08-26T18:00:10.649Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 134.7,
-    "yield_rate": 0.958,
-    "defect_count": 41
-  },
-  {
-    "id": "RUN-1176",
-    "timestamp": "2025-10-10T13:47:25.420Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 227.8,
-    "yield_rate": 0.796,
-    "defect_count": 203
-  },
-  {
-    "id": "RUN-1177",
-    "timestamp": "2025-09-30T09:29:34.214Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 130.4,
-    "yield_rate": 0.997,
-    "defect_count": 2
-  },
-  {
-    "id": "RUN-1178",
-    "timestamp": "2025-11-03T03:01:00.937Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 171.1,
-    "yield_rate": 0.914,
-    "defect_count": 85
-  },
-  {
-    "id": "RUN-1179",
-    "timestamp": "2025-09-24T18:53:44.604Z",
-    "machine_id": "Press-B",
-    "temperature_c": 135.3,
-    "yield_rate": 0.978,
-    "defect_count": 22
-  },
-  {
-    "id": "RUN-1180",
-    "timestamp": "2025-08-21T22:01:56.235Z",
-    "machine_id": "Press-A",
-    "temperature_c": 151.2,
-    "yield_rate": 0.915,
-    "defect_count": 84
-  },
-  {
-    "id": "RUN-1181",
-    "timestamp": "2025-08-22T12:47:47.971Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 225.9,
-    "yield_rate": 0.766,
-    "defect_count": 233
-  },
-  {
-    "id": "RUN-1182",
-    "timestamp": "2025-11-07T10:53:49.128Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 168.3,
-    "yield_rate": 0.919,
-    "defect_count": 81
-  },
-  {
-    "id": "RUN-1183",
-    "timestamp": "2025-08-26T07:12:28.916Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 234.6,
-    "yield_rate": 0.768,
-    "defect_count": 232
-  },
-  {
-    "id": "RUN-1184",
-    "timestamp": "2025-10-25T15:13:33.272Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 212.1,
-    "yield_rate": 0.827,
-    "defect_count": 173
-  },
-  {
-    "id": "RUN-1185",
-    "timestamp": "2025-11-19T03:17:19.158Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 216,
-    "yield_rate": 0.827,
-    "defect_count": 172
-  },
-  {
-    "id": "RUN-1186",
-    "timestamp": "2025-11-23T06:10:48.221Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 212.8,
-    "yield_rate": 0.833,
-    "defect_count": 166
-  },
-  {
-    "id": "RUN-1187",
-    "timestamp": "2025-09-13T18:16:01.136Z",
-    "machine_id": "Press-B",
-    "temperature_c": 151,
-    "yield_rate": 0.924,
-    "defect_count": 75
-  },
-  {
-    "id": "RUN-1188",
-    "timestamp": "2025-09-20T22:49:02.316Z",
-    "machine_id": "Press-B",
-    "temperature_c": 130.3,
-    "yield_rate": 0.966,
-    "defect_count": 33
-  },
-  {
-    "id": "RUN-1189",
-    "timestamp": "2025-10-02T14:17:47.372Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 163.1,
-    "yield_rate": 0.935,
-    "defect_count": 64
-  },
-  {
-    "id": "RUN-1190",
-    "timestamp": "2025-10-03T20:33:31.734Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 208.7,
-    "yield_rate": 0.833,
-    "defect_count": 166
-  },
-  {
-    "id": "RUN-1191",
-    "timestamp": "2025-10-22T08:49:23.503Z",
-    "machine_id": "Press-A",
-    "temperature_c": 164,
-    "yield_rate": 0.905,
-    "defect_count": 94
-  },
-  {
-    "id": "RUN-1192",
-    "timestamp": "2025-09-26T04:36:41.943Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 237.6,
-    "yield_rate": 0.744,
-    "defect_count": 255
-  },
-  {
-    "id": "RUN-1193",
-    "timestamp": "2025-10-14T07:38:53.126Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 127,
-    "yield_rate": 0.967,
-    "defect_count": 32
-  },
-  {
-    "id": "RUN-1194",
-    "timestamp": "2025-10-07T13:14:31.518Z",
-    "machine_id": "Press-A",
-    "temperature_c": 127.4,
-    "yield_rate": 0.979,
-    "defect_count": 21
-  },
-  {
-    "id": "RUN-1195",
-    "timestamp": "2025-10-11T08:53:06.670Z",
-    "machine_id": "Press-B",
-    "temperature_c": 125.8,
-    "yield_rate": 0.976,
-    "defect_count": 23
-  },
-  {
-    "id": "RUN-1196",
-    "timestamp": "2025-09-03T04:13:17.069Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 224.4,
-    "yield_rate": 0.799,
-    "defect_count": 201
-  },
-  {
-    "id": "RUN-1197",
-    "timestamp": "2025-08-12T04:54:50.268Z",
-    "machine_id": "Press-A",
-    "temperature_c": 150.4,
-    "yield_rate": 0.932,
-    "defect_count": 67
-  },
-  {
-    "id": "RUN-1198",
-    "timestamp": "2025-09-02T12:02:16.332Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 222.5,
-    "yield_rate": 0.82,
-    "defect_count": 180
-  },
-  {
-    "id": "RUN-1199",
-    "timestamp": "2025-11-13T06:20:35.894Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 146.4,
-    "yield_rate": 0.934,
-    "defect_count": 65
-  },
-  {
-    "id": "RUN-1200",
-    "timestamp": "2025-12-05T12:16:55.224Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 217.8,
-    "yield_rate": 0.781,
-    "defect_count": 218
-  },
-  {
-    "id": "RUN-1201",
-    "timestamp": "2025-10-10T12:43:37.871Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 126.8,
-    "yield_rate": 0.968,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1202",
-    "timestamp": "2025-09-30T11:56:41.710Z",
-    "machine_id": "Press-A",
-    "temperature_c": 145.2,
-    "yield_rate": 0.962,
-    "defect_count": 37
-  },
-  {
-    "id": "RUN-1203",
-    "timestamp": "2025-09-13T12:02:39.167Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 217.9,
-    "yield_rate": 0.823,
-    "defect_count": 176
-  },
-  {
-    "id": "RUN-1204",
-    "timestamp": "2025-12-01T18:49:05.315Z",
-    "machine_id": "Press-B",
-    "temperature_c": 162.6,
-    "yield_rate": 0.92,
-    "defect_count": 80
-  },
-  {
-    "id": "RUN-1205",
-    "timestamp": "2025-11-09T00:57:15.193Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 209.8,
-    "yield_rate": 0.813,
-    "defect_count": 186
-  },
-  {
-    "id": "RUN-1206",
-    "timestamp": "2025-09-06T05:20:41.774Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 219.3,
-    "yield_rate": 0.822,
-    "defect_count": 178
-  },
-  {
-    "id": "RUN-1207",
-    "timestamp": "2025-11-15T08:46:19.888Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 221.8,
-    "yield_rate": 0.802,
-    "defect_count": 198
-  },
-  {
-    "id": "RUN-1208",
-    "timestamp": "2025-12-01T05:38:21.525Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 166.4,
-    "yield_rate": 0.924,
-    "defect_count": 76
-  },
-  {
-    "id": "RUN-1209",
-    "timestamp": "2025-09-24T11:04:56.979Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 144.2,
-    "yield_rate": 0.969,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1210",
-    "timestamp": "2025-11-19T16:05:48.939Z",
-    "machine_id": "Press-A",
-    "temperature_c": 126.8,
-    "yield_rate": 0.997,
-    "defect_count": 2
-  },
-  {
-    "id": "RUN-1211",
-    "timestamp": "2025-11-09T12:22:40.299Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 139.7,
-    "yield_rate": 0.966,
-    "defect_count": 33
-  },
-  {
-    "id": "RUN-1212",
-    "timestamp": "2025-09-25T01:02:54.471Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 163.1,
-    "yield_rate": 0.89,
-    "defect_count": 110
-  },
-  {
-    "id": "RUN-1213",
-    "timestamp": "2025-10-02T23:12:36.966Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 159.3,
-    "yield_rate": 0.936,
-    "defect_count": 63
-  },
-  {
-    "id": "RUN-1214",
-    "timestamp": "2025-09-10T00:45:26.942Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 128.3,
-    "yield_rate": 0.955,
-    "defect_count": 44
-  },
-  {
-    "id": "RUN-1215",
-    "timestamp": "2025-10-14T04:55:42.629Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 214.4,
-    "yield_rate": 0.788,
-    "defect_count": 211
-  },
-  {
-    "id": "RUN-1216",
-    "timestamp": "2025-11-28T18:20:17.349Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 208.1,
-    "yield_rate": 0.837,
-    "defect_count": 163
-  },
-  {
-    "id": "RUN-1217",
-    "timestamp": "2025-10-25T08:15:05.097Z",
-    "machine_id": "Press-A",
-    "temperature_c": 166.9,
-    "yield_rate": 0.904,
-    "defect_count": 95
-  },
-  {
-    "id": "RUN-1218",
-    "timestamp": "2025-08-25T02:05:47.172Z",
-    "machine_id": "Press-A",
-    "temperature_c": 168.5,
-    "yield_rate": 0.898,
-    "defect_count": 102
-  },
-  {
-    "id": "RUN-1219",
-    "timestamp": "2025-11-02T22:25:23.991Z",
-    "machine_id": "Press-A",
-    "temperature_c": 158.1,
-    "yield_rate": 0.912,
-    "defect_count": 87
-  },
-  {
-    "id": "RUN-1220",
-    "timestamp": "2025-11-03T12:36:39.064Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 155.3,
-    "yield_rate": 0.911,
-    "defect_count": 89
-  },
-  {
-    "id": "RUN-1221",
-    "timestamp": "2025-11-26T03:11:05.727Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 227.9,
-    "yield_rate": 0.775,
-    "defect_count": 224
-  },
-  {
-    "id": "RUN-1222",
-    "timestamp": "2025-10-04T16:38:27.755Z",
-    "machine_id": "Press-A",
-    "temperature_c": 167.3,
-    "yield_rate": 0.905,
-    "defect_count": 95
-  },
-  {
-    "id": "RUN-1223",
-    "timestamp": "2025-09-15T15:35:19.736Z",
-    "machine_id": "Press-A",
-    "temperature_c": 153.7,
-    "yield_rate": 0.936,
-    "defect_count": 64
-  },
-  {
-    "id": "RUN-1224",
-    "timestamp": "2025-08-15T12:03:48.923Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 212.4,
-    "yield_rate": 0.836,
-    "defect_count": 164
-  },
-  {
-    "id": "RUN-1225",
-    "timestamp": "2025-11-15T05:41:51.315Z",
-    "machine_id": "Press-A",
-    "temperature_c": 152.7,
-    "yield_rate": 0.94,
-    "defect_count": 59
-  },
-  {
-    "id": "RUN-1226",
-    "timestamp": "2025-11-09T22:35:20.093Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 230.4,
-    "yield_rate": 0.76,
-    "defect_count": 239
-  },
-  {
-    "id": "RUN-1227",
-    "timestamp": "2025-11-29T02:25:16.909Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 234.6,
-    "yield_rate": 0.786,
-    "defect_count": 213
-  },
-  {
-    "id": "RUN-1228",
-    "timestamp": "2025-10-19T14:04:02.593Z",
-    "machine_id": "Press-A",
-    "temperature_c": 144.4,
-    "yield_rate": 0.965,
-    "defect_count": 34
-  },
-  {
-    "id": "RUN-1229",
-    "timestamp": "2025-11-09T09:20:17.249Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 152.4,
-    "yield_rate": 0.918,
-    "defect_count": 81
-  },
-  {
-    "id": "RUN-1230",
-    "timestamp": "2025-11-23T03:25:12.276Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 240,
-    "yield_rate": 0.759,
-    "defect_count": 240
-  },
-  {
-    "id": "RUN-1231",
-    "timestamp": "2025-08-13T05:40:57.619Z",
-    "machine_id": "Press-A",
-    "temperature_c": 148,
-    "yield_rate": 0.953,
-    "defect_count": 46
-  },
-  {
-    "id": "RUN-1232",
-    "timestamp": "2025-10-06T11:08:47.330Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 240.6,
-    "yield_rate": 0.753,
-    "defect_count": 246
-  },
-  {
-    "id": "RUN-1233",
-    "timestamp": "2025-08-28T02:40:58.648Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 136,
-    "yield_rate": 0.968,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1234",
-    "timestamp": "2025-11-28T12:54:53.829Z",
-    "machine_id": "Press-B",
-    "temperature_c": 157.9,
-    "yield_rate": 0.933,
-    "defect_count": 67
-  },
-  {
-    "id": "RUN-1235",
-    "timestamp": "2025-11-22T03:07:34.865Z",
-    "machine_id": "Press-B",
-    "temperature_c": 169.4,
-    "yield_rate": 0.921,
-    "defect_count": 79
-  },
-  {
-    "id": "RUN-1236",
-    "timestamp": "2025-11-19T18:15:27.165Z",
-    "machine_id": "Press-B",
-    "temperature_c": 129.8,
-    "yield_rate": 0.961,
-    "defect_count": 38
-  },
-  {
-    "id": "RUN-1237",
-    "timestamp": "2025-12-01T01:49:45.741Z",
-    "machine_id": "Press-B",
-    "temperature_c": 129.8,
-    "yield_rate": 0.992,
-    "defect_count": 7
-  },
-  {
-    "id": "RUN-1238",
-    "timestamp": "2025-10-08T17:49:47.219Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 162.7,
-    "yield_rate": 0.903,
-    "defect_count": 97
-  },
-  {
-    "id": "RUN-1239",
-    "timestamp": "2025-09-06T16:49:44.144Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 126.8,
-    "yield_rate": 0.96,
-    "defect_count": 39
-  },
-  {
-    "id": "RUN-1240",
-    "timestamp": "2025-11-11T04:12:11.155Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 243.8,
-    "yield_rate": 0.75,
-    "defect_count": 249
-  },
-  {
-    "id": "RUN-1241",
-    "timestamp": "2025-09-21T07:07:13.721Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 148.2,
-    "yield_rate": 0.923,
-    "defect_count": 77
-  },
-  {
-    "id": "RUN-1242",
-    "timestamp": "2025-10-11T18:33:17.319Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 209.8,
-    "yield_rate": 0.844,
-    "defect_count": 155
-  },
-  {
-    "id": "RUN-1243",
-    "timestamp": "2025-09-25T05:42:00.405Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 232.3,
-    "yield_rate": 0.799,
-    "defect_count": 201
-  },
-  {
-    "id": "RUN-1244",
-    "timestamp": "2025-11-01T17:57:42.317Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 172.3,
-    "yield_rate": 0.873,
-    "defect_count": 126
-  },
-  {
-    "id": "RUN-1245",
-    "timestamp": "2025-10-30T02:50:22.758Z",
-    "machine_id": "Press-B",
-    "temperature_c": 138.7,
-    "yield_rate": 0.938,
-    "defect_count": 61
-  },
-  {
-    "id": "RUN-1246",
-    "timestamp": "2025-11-09T09:16:55.705Z",
-    "machine_id": "Press-B",
-    "temperature_c": 132.3,
-    "yield_rate": 0.985,
-    "defect_count": 15
-  },
-  {
-    "id": "RUN-1247",
-    "timestamp": "2025-08-24T03:19:22.260Z",
-    "machine_id": "Press-B",
-    "temperature_c": 164.1,
-    "yield_rate": 0.908,
-    "defect_count": 92
-  },
-  {
-    "id": "RUN-1248",
-    "timestamp": "2025-10-30T15:45:45.251Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 205.2,
-    "yield_rate": 0.821,
-    "defect_count": 178
-  },
-  {
-    "id": "RUN-1249",
-    "timestamp": "2025-09-18T19:49:12.134Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 204.8,
-    "yield_rate": 0.831,
-    "defect_count": 168
-  },
-  {
-    "id": "RUN-1250",
-    "timestamp": "2025-11-19T07:29:08.998Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 239.6,
-    "yield_rate": 0.755,
-    "defect_count": 245
-  },
-  {
-    "id": "RUN-1251",
-    "timestamp": "2025-10-23T04:59:37.356Z",
-    "machine_id": "Press-A",
-    "temperature_c": 158.2,
-    "yield_rate": 0.937,
-    "defect_count": 62
-  },
-  {
-    "id": "RUN-1252",
-    "timestamp": "2025-11-15T22:48:33.387Z",
-    "machine_id": "Press-A",
-    "temperature_c": 131,
-    "yield_rate": 0.983,
-    "defect_count": 16
-  },
-  {
-    "id": "RUN-1253",
-    "timestamp": "2025-08-24T16:11:18.567Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 156.7,
-    "yield_rate": 0.905,
-    "defect_count": 95
-  },
-  {
-    "id": "RUN-1254",
-    "timestamp": "2025-09-11T19:54:25.036Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 230.6,
-    "yield_rate": 0.788,
-    "defect_count": 212
-  },
-  {
-    "id": "RUN-1255",
-    "timestamp": "2025-09-14T23:30:14.671Z",
-    "machine_id": "Press-A",
-    "temperature_c": 126.6,
-    "yield_rate": 0.969,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1256",
-    "timestamp": "2025-08-16T15:09:21.528Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 160.3,
-    "yield_rate": 0.907,
-    "defect_count": 92
-  },
-  {
-    "id": "RUN-1257",
-    "timestamp": "2025-09-03T09:24:53.953Z",
-    "machine_id": "Press-A",
-    "temperature_c": 163.5,
-    "yield_rate": 0.934,
-    "defect_count": 65
-  },
-  {
-    "id": "RUN-1258",
-    "timestamp": "2025-11-09T03:24:56.695Z",
-    "machine_id": "Press-A",
-    "temperature_c": 140.7,
-    "yield_rate": 0.981,
-    "defect_count": 18
-  },
-  {
-    "id": "RUN-1259",
-    "timestamp": "2025-09-09T06:05:04.167Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 199.5,
-    "yield_rate": 0.862,
-    "defect_count": 137
-  },
-  {
-    "id": "RUN-1260",
-    "timestamp": "2025-08-15T11:23:24.044Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 231.8,
-    "yield_rate": 0.76,
-    "defect_count": 239
-  },
-  {
-    "id": "RUN-1261",
-    "timestamp": "2025-09-05T02:23:05.202Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 145.8,
-    "yield_rate": 0.969,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1262",
-    "timestamp": "2025-10-21T22:07:20.538Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 153.2,
-    "yield_rate": 0.937,
-    "defect_count": 62
-  },
-  {
-    "id": "RUN-1263",
-    "timestamp": "2025-10-07T14:31:36.108Z",
-    "machine_id": "Press-B",
-    "temperature_c": 150.7,
-    "yield_rate": 0.942,
-    "defect_count": 57
-  },
-  {
-    "id": "RUN-1264",
-    "timestamp": "2025-12-03T08:53:54.958Z",
-    "machine_id": "Press-A",
-    "temperature_c": 166.8,
-    "yield_rate": 0.926,
-    "defect_count": 74
-  },
-  {
-    "id": "RUN-1265",
-    "timestamp": "2025-09-28T16:25:00.514Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 242.7,
-    "yield_rate": 0.762,
-    "defect_count": 238
-  },
-  {
-    "id": "RUN-1266",
-    "timestamp": "2025-09-27T11:42:21.232Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 219.7,
-    "yield_rate": 0.786,
-    "defect_count": 214
-  },
-  {
-    "id": "RUN-1267",
-    "timestamp": "2025-12-02T02:30:12.472Z",
-    "machine_id": "Press-A",
-    "temperature_c": 147.6,
-    "yield_rate": 0.924,
-    "defect_count": 75
-  },
-  {
-    "id": "RUN-1268",
-    "timestamp": "2025-09-16T17:44:44.458Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 241.7,
-    "yield_rate": 0.771,
-    "defect_count": 229
-  },
-  {
-    "id": "RUN-1269",
-    "timestamp": "2025-09-02T06:28:44.661Z",
-    "machine_id": "Press-B",
-    "temperature_c": 127.7,
-    "yield_rate": 0.979,
-    "defect_count": 21
-  },
-  {
-    "id": "RUN-1270",
-    "timestamp": "2025-11-13T18:51:40.031Z",
-    "machine_id": "Press-B",
-    "temperature_c": 144.4,
-    "yield_rate": 0.953,
-    "defect_count": 46
-  },
-  {
-    "id": "RUN-1271",
-    "timestamp": "2025-11-25T00:08:34.253Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 201.2,
-    "yield_rate": 0.827,
-    "defect_count": 172
-  },
-  {
-    "id": "RUN-1272",
-    "timestamp": "2025-10-13T19:37:31.174Z",
-    "machine_id": "Press-A",
-    "temperature_c": 146.5,
-    "yield_rate": 0.963,
-    "defect_count": 36
-  },
-  {
-    "id": "RUN-1273",
-    "timestamp": "2025-11-11T12:42:15.384Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 232.4,
-    "yield_rate": 0.776,
-    "defect_count": 223
-  },
-  {
-    "id": "RUN-1274",
-    "timestamp": "2025-11-08T00:51:23.141Z",
-    "machine_id": "Press-A",
-    "temperature_c": 141.1,
-    "yield_rate": 0.952,
-    "defect_count": 48
-  },
-  {
-    "id": "RUN-1275",
-    "timestamp": "2025-08-31T05:03:45.850Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 210.4,
-    "yield_rate": 0.813,
-    "defect_count": 186
-  },
-  {
-    "id": "RUN-1276",
-    "timestamp": "2025-10-15T16:39:34.338Z",
-    "machine_id": "Press-B",
-    "temperature_c": 154.2,
-    "yield_rate": 0.95,
-    "defect_count": 49
-  },
-  {
-    "id": "RUN-1277",
-    "timestamp": "2025-11-25T23:45:16.861Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 141.5,
-    "yield_rate": 0.964,
-    "defect_count": 35
-  },
-  {
-    "id": "RUN-1278",
-    "timestamp": "2025-10-15T11:54:36.150Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 240.9,
-    "yield_rate": 0.764,
-    "defect_count": 235
-  },
-  {
-    "id": "RUN-1279",
-    "timestamp": "2025-10-21T01:43:41.397Z",
-    "machine_id": "Press-A",
-    "temperature_c": 129.6,
-    "yield_rate": 0.987,
-    "defect_count": 13
-  },
-  {
-    "id": "RUN-1280",
-    "timestamp": "2025-08-20T18:46:07.113Z",
-    "machine_id": "Press-A",
-    "temperature_c": 150,
-    "yield_rate": 0.951,
-    "defect_count": 48
-  },
-  {
-    "id": "RUN-1281",
-    "timestamp": "2025-11-17T10:14:21.167Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 198.4,
-    "yield_rate": 0.865,
-    "defect_count": 135
-  },
-  {
-    "id": "RUN-1282",
-    "timestamp": "2025-11-05T22:57:28.609Z",
-    "machine_id": "Press-A",
-    "temperature_c": 167.5,
-    "yield_rate": 0.928,
-    "defect_count": 72
-  },
-  {
-    "id": "RUN-1283",
-    "timestamp": "2025-11-05T12:15:52.749Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 215.9,
-    "yield_rate": 0.793,
-    "defect_count": 207
-  },
-  {
-    "id": "RUN-1284",
-    "timestamp": "2025-09-14T18:04:53.874Z",
-    "machine_id": "Press-B",
-    "temperature_c": 130,
-    "yield_rate": 0.985,
-    "defect_count": 15
-  },
-  {
-    "id": "RUN-1285",
-    "timestamp": "2025-10-18T14:26:56.817Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 225.4,
-    "yield_rate": 0.789,
-    "defect_count": 211
-  },
-  {
-    "id": "RUN-1286",
-    "timestamp": "2025-08-21T20:59:16.440Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 229.2,
-    "yield_rate": 0.76,
-    "defect_count": 239
-  },
-  {
-    "id": "RUN-1287",
-    "timestamp": "2025-10-27T02:52:33.854Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 208.4,
-    "yield_rate": 0.836,
-    "defect_count": 164
-  },
-  {
-    "id": "RUN-1288",
-    "timestamp": "2025-08-31T23:37:37.220Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 239.2,
-    "yield_rate": 0.784,
-    "defect_count": 216
-  },
-  {
-    "id": "RUN-1289",
-    "timestamp": "2025-11-12T10:35:18.381Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 219.9,
-    "yield_rate": 0.793,
-    "defect_count": 207
-  },
-  {
-    "id": "RUN-1290",
-    "timestamp": "2025-09-29T19:40:37.641Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 239.7,
-    "yield_rate": 0.74,
-    "defect_count": 260
-  },
-  {
-    "id": "RUN-1291",
-    "timestamp": "2025-09-14T09:59:54.468Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 244.7,
-    "yield_rate": 0.764,
-    "defect_count": 235
-  },
-  {
-    "id": "RUN-1292",
-    "timestamp": "2025-11-27T01:03:34.435Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 231.9,
-    "yield_rate": 0.756,
-    "defect_count": 244
-  },
-  {
-    "id": "RUN-1293",
-    "timestamp": "2025-09-16T16:25:36.734Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 236.3,
-    "yield_rate": 0.75,
-    "defect_count": 250
-  },
-  {
-    "id": "RUN-1294",
-    "timestamp": "2025-09-16T19:36:05.901Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 210.3,
-    "yield_rate": 0.805,
-    "defect_count": 195
-  },
-  {
-    "id": "RUN-1295",
-    "timestamp": "2025-10-11T23:22:09.491Z",
-    "machine_id": "Press-A",
-    "temperature_c": 132.9,
-    "yield_rate": 0.99,
-    "defect_count": 9
-  },
-  {
-    "id": "RUN-1296",
-    "timestamp": "2025-08-20T14:52:57.969Z",
-    "machine_id": "Press-B",
-    "temperature_c": 125.7,
-    "yield_rate": 0.963,
-    "defect_count": 36
-  },
-  {
-    "id": "RUN-1297",
-    "timestamp": "2025-12-05T14:23:55.703Z",
-    "machine_id": "Press-A",
-    "temperature_c": 157.6,
-    "yield_rate": 0.918,
-    "defect_count": 81
-  },
-  {
-    "id": "RUN-1298",
-    "timestamp": "2025-09-26T08:29:22.725Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 158.6,
-    "yield_rate": 0.904,
-    "defect_count": 96
-  },
-  {
-    "id": "RUN-1299",
-    "timestamp": "2025-09-06T16:14:31.455Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 210.4,
-    "yield_rate": 0.825,
-    "defect_count": 175
-  },
-  {
-    "id": "RUN-1300",
-    "timestamp": "2025-10-23T23:03:46.088Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 216.6,
-    "yield_rate": 0.784,
-    "defect_count": 216
-  },
-  {
-    "id": "RUN-1301",
-    "timestamp": "2025-11-01T23:12:04.942Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 216.9,
-    "yield_rate": 0.818,
-    "defect_count": 181
-  },
-  {
-    "id": "RUN-1302",
-    "timestamp": "2025-09-06T14:08:24.293Z",
-    "machine_id": "Press-B",
-    "temperature_c": 134.5,
-    "yield_rate": 0.951,
-    "defect_count": 49
-  },
-  {
-    "id": "RUN-1303",
-    "timestamp": "2025-11-26T15:51:42.549Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 145.3,
-    "yield_rate": 0.951,
-    "defect_count": 48
-  },
-  {
-    "id": "RUN-1304",
-    "timestamp": "2025-11-20T04:34:32.856Z",
-    "machine_id": "Press-A",
-    "temperature_c": 158.8,
-    "yield_rate": 0.928,
-    "defect_count": 71
-  },
-  {
-    "id": "RUN-1305",
-    "timestamp": "2025-10-27T16:13:42.256Z",
-    "machine_id": "Press-A",
-    "temperature_c": 150.9,
-    "yield_rate": 0.96,
-    "defect_count": 39
-  },
-  {
-    "id": "RUN-1306",
-    "timestamp": "2025-09-22T11:33:43.473Z",
-    "machine_id": "Press-A",
-    "temperature_c": 146.3,
-    "yield_rate": 0.963,
-    "defect_count": 37
-  },
-  {
-    "id": "RUN-1307",
-    "timestamp": "2025-09-16T12:02:34.543Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 213.2,
-    "yield_rate": 0.825,
-    "defect_count": 174
-  },
-  {
-    "id": "RUN-1308",
-    "timestamp": "2025-09-22T19:28:23.914Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 148.8,
-    "yield_rate": 0.929,
-    "defect_count": 70
-  },
-  {
-    "id": "RUN-1309",
-    "timestamp": "2025-10-04T09:33:17.570Z",
-    "machine_id": "Press-A",
-    "temperature_c": 127.6,
-    "yield_rate": 0.963,
-    "defect_count": 36
-  },
-  {
-    "id": "RUN-1310",
-    "timestamp": "2025-09-24T00:54:13.830Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 242.2,
-    "yield_rate": 0.78,
-    "defect_count": 220
-  },
-  {
-    "id": "RUN-1311",
-    "timestamp": "2025-10-06T19:07:37.500Z",
-    "machine_id": "Press-B",
-    "temperature_c": 168.3,
-    "yield_rate": 0.886,
-    "defect_count": 113
-  },
-  {
-    "id": "RUN-1312",
-    "timestamp": "2025-10-20T02:57:45.626Z",
-    "machine_id": "Press-A",
-    "temperature_c": 146.5,
-    "yield_rate": 0.935,
-    "defect_count": 64
-  },
-  {
-    "id": "RUN-1313",
-    "timestamp": "2025-10-21T10:06:36.883Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 226.8,
-    "yield_rate": 0.764,
-    "defect_count": 235
-  },
-  {
-    "id": "RUN-1314",
-    "timestamp": "2025-09-09T13:32:22.851Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 226.6,
-    "yield_rate": 0.771,
-    "defect_count": 228
-  },
-  {
-    "id": "RUN-1315",
-    "timestamp": "2025-09-26T17:28:51.830Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 166,
-    "yield_rate": 0.919,
-    "defect_count": 81
-  },
-  {
-    "id": "RUN-1316",
-    "timestamp": "2025-08-30T12:23:14.481Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 222.4,
-    "yield_rate": 0.804,
-    "defect_count": 196
-  },
-  {
-    "id": "RUN-1317",
-    "timestamp": "2025-10-24T00:36:59.198Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 223.3,
-    "yield_rate": 0.802,
-    "defect_count": 197
-  },
-  {
-    "id": "RUN-1318",
-    "timestamp": "2025-11-12T20:19:06.066Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 204.4,
-    "yield_rate": 0.842,
-    "defect_count": 157
-  },
-  {
-    "id": "RUN-1319",
-    "timestamp": "2025-11-29T14:54:59.953Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 157.9,
-    "yield_rate": 0.909,
-    "defect_count": 90
-  },
-  {
-    "id": "RUN-1320",
-    "timestamp": "2025-10-25T14:13:43.724Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 213.6,
-    "yield_rate": 0.829,
-    "defect_count": 171
-  },
-  {
-    "id": "RUN-1321",
-    "timestamp": "2025-11-19T09:25:10.535Z",
-    "machine_id": "Press-B",
-    "temperature_c": 172,
-    "yield_rate": 0.873,
-    "defect_count": 127
-  },
-  {
-    "id": "RUN-1322",
-    "timestamp": "2025-11-12T05:51:13.169Z",
-    "machine_id": "Press-A",
-    "temperature_c": 159,
-    "yield_rate": 0.908,
-    "defect_count": 91
-  },
-  {
-    "id": "RUN-1323",
-    "timestamp": "2025-11-20T09:47:12.727Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 206.8,
-    "yield_rate": 0.812,
-    "defect_count": 187
-  },
-  {
-    "id": "RUN-1324",
-    "timestamp": "2025-10-28T20:24:10.916Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 198.6,
-    "yield_rate": 0.86,
-    "defect_count": 139
-  },
-  {
-    "id": "RUN-1325",
-    "timestamp": "2025-08-27T18:48:20.673Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 168.2,
-    "yield_rate": 0.918,
-    "defect_count": 82
-  },
-  {
-    "id": "RUN-1326",
-    "timestamp": "2025-08-31T23:19:12.471Z",
-    "machine_id": "Press-B",
-    "temperature_c": 155.6,
-    "yield_rate": 0.913,
-    "defect_count": 86
-  },
-  {
-    "id": "RUN-1327",
-    "timestamp": "2025-10-18T13:07:27.571Z",
-    "machine_id": "Press-B",
-    "temperature_c": 145.5,
-    "yield_rate": 0.939,
-    "defect_count": 61
-  },
-  {
-    "id": "RUN-1328",
-    "timestamp": "2025-09-24T08:40:21.710Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 226.3,
-    "yield_rate": 0.788,
-    "defect_count": 212
-  },
-  {
-    "id": "RUN-1329",
-    "timestamp": "2025-11-23T09:33:06.402Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 212.5,
-    "yield_rate": 0.796,
-    "defect_count": 203
-  },
-  {
-    "id": "RUN-1330",
-    "timestamp": "2025-12-04T09:10:53.739Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 243.1,
-    "yield_rate": 0.777,
-    "defect_count": 223
-  },
-  {
-    "id": "RUN-1331",
-    "timestamp": "2025-11-29T11:26:15.447Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 226,
-    "yield_rate": 0.785,
-    "defect_count": 214
-  },
-  {
-    "id": "RUN-1332",
-    "timestamp": "2025-09-24T01:02:03.543Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 233.1,
-    "yield_rate": 0.788,
-    "defect_count": 212
-  },
-  {
-    "id": "RUN-1333",
-    "timestamp": "2025-11-15T01:44:43.585Z",
-    "machine_id": "Press-B",
-    "temperature_c": 171.7,
-    "yield_rate": 0.9,
-    "defect_count": 100
-  },
-  {
-    "id": "RUN-1334",
-    "timestamp": "2025-11-28T10:00:35.799Z",
-    "machine_id": "Press-B",
-    "temperature_c": 152.4,
-    "yield_rate": 0.933,
-    "defect_count": 67
-  },
-  {
-    "id": "RUN-1335",
-    "timestamp": "2025-08-20T12:42:25.860Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 169.2,
-    "yield_rate": 0.919,
-    "defect_count": 80
-  },
-  {
-    "id": "RUN-1336",
-    "timestamp": "2025-08-23T21:13:10.613Z",
-    "machine_id": "Press-B",
-    "temperature_c": 166.4,
-    "yield_rate": 0.9,
-    "defect_count": 99
-  },
-  {
-    "id": "RUN-1337",
-    "timestamp": "2025-10-02T11:22:24.459Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 237.5,
-    "yield_rate": 0.775,
-    "defect_count": 224
-  },
-  {
-    "id": "RUN-1338",
-    "timestamp": "2025-10-03T00:51:53.580Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 207.8,
-    "yield_rate": 0.844,
-    "defect_count": 156
-  },
-  {
-    "id": "RUN-1339",
-    "timestamp": "2025-09-05T11:42:31.358Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 156.2,
-    "yield_rate": 0.935,
-    "defect_count": 65
-  },
-  {
-    "id": "RUN-1340",
-    "timestamp": "2025-10-23T05:20:18.669Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 232.9,
-    "yield_rate": 0.769,
-    "defect_count": 230
-  },
-  {
-    "id": "RUN-1341",
-    "timestamp": "2025-08-31T05:56:54.201Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 231.8,
-    "yield_rate": 0.755,
-    "defect_count": 245
-  },
-  {
-    "id": "RUN-1342",
-    "timestamp": "2025-10-06T20:54:50.187Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 135.4,
-    "yield_rate": 0.988,
-    "defect_count": 11
-  },
-  {
-    "id": "RUN-1343",
-    "timestamp": "2025-10-28T02:12:02.648Z",
-    "machine_id": "Press-B",
-    "temperature_c": 174.3,
-    "yield_rate": 0.871,
-    "defect_count": 128
-  },
-  {
-    "id": "RUN-1344",
-    "timestamp": "2025-10-18T05:07:38.285Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 131.4,
-    "yield_rate": 0.963,
-    "defect_count": 37
-  },
-  {
-    "id": "RUN-1345",
-    "timestamp": "2025-09-29T15:26:36.442Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 208.5,
-    "yield_rate": 0.82,
-    "defect_count": 179
-  },
-  {
-    "id": "RUN-1346",
-    "timestamp": "2025-12-03T13:10:38.123Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 233.3,
-    "yield_rate": 0.79,
-    "defect_count": 209
-  },
-  {
-    "id": "RUN-1347",
-    "timestamp": "2025-09-02T12:16:07.436Z",
-    "machine_id": "Press-B",
-    "temperature_c": 148.2,
-    "yield_rate": 0.96,
-    "defect_count": 40
-  },
-  {
-    "id": "RUN-1348",
-    "timestamp": "2025-08-13T06:13:42.523Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 211.8,
-    "yield_rate": 0.815,
-    "defect_count": 185
-  },
-  {
-    "id": "RUN-1349",
-    "timestamp": "2025-08-24T13:26:11.225Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 137.9,
-    "yield_rate": 0.97,
-    "defect_count": 29
-  },
-  {
-    "id": "RUN-1350",
-    "timestamp": "2025-08-28T02:41:03.704Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 216.2,
-    "yield_rate": 0.812,
-    "defect_count": 188
-  },
-  {
-    "id": "RUN-1351",
-    "timestamp": "2025-11-11T05:35:24.234Z",
-    "machine_id": "Press-A",
-    "temperature_c": 125.9,
-    "yield_rate": 0.958,
-    "defect_count": 42
-  },
-  {
-    "id": "RUN-1352",
-    "timestamp": "2025-11-27T13:13:16.076Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 128.8,
-    "yield_rate": 0.956,
-    "defect_count": 43
-  },
-  {
-    "id": "RUN-1353",
-    "timestamp": "2025-08-26T11:56:51.739Z",
-    "machine_id": "Press-B",
-    "temperature_c": 126.8,
-    "yield_rate": 0.956,
-    "defect_count": 43
-  },
-  {
-    "id": "RUN-1354",
-    "timestamp": "2025-08-19T12:14:25.305Z",
-    "machine_id": "Press-B",
-    "temperature_c": 161.5,
-    "yield_rate": 0.914,
-    "defect_count": 85
-  },
-  {
-    "id": "RUN-1355",
-    "timestamp": "2025-11-18T23:36:56.369Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 243,
-    "yield_rate": 0.732,
-    "defect_count": 267
-  },
-  {
-    "id": "RUN-1356",
-    "timestamp": "2025-08-20T02:54:29.285Z",
-    "machine_id": "Press-A",
-    "temperature_c": 170.9,
-    "yield_rate": 0.92,
-    "defect_count": 79
-  },
-  {
-    "id": "RUN-1357",
-    "timestamp": "2025-09-14T08:06:56.129Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 195.9,
-    "yield_rate": 0.828,
-    "defect_count": 172
-  },
-  {
-    "id": "RUN-1358",
-    "timestamp": "2025-09-25T18:19:54.961Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 204.6,
-    "yield_rate": 0.839,
-    "defect_count": 161
-  },
-  {
-    "id": "RUN-1359",
-    "timestamp": "2025-09-30T05:14:10.667Z",
-    "machine_id": "Press-A",
-    "temperature_c": 155.2,
-    "yield_rate": 0.939,
-    "defect_count": 61
-  },
-  {
-    "id": "RUN-1360",
-    "timestamp": "2025-09-07T00:03:50.894Z",
-    "machine_id": "Press-A",
-    "temperature_c": 173.7,
-    "yield_rate": 0.868,
-    "defect_count": 131
-  },
-  {
-    "id": "RUN-1361",
-    "timestamp": "2025-11-30T01:14:49.398Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 131.9,
-    "yield_rate": 0.996,
-    "defect_count": 4
-  },
-  {
-    "id": "RUN-1362",
-    "timestamp": "2025-11-24T18:54:59.644Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 195.1,
-    "yield_rate": 0.825,
-    "defect_count": 174
-  },
-  {
-    "id": "RUN-1363",
-    "timestamp": "2025-11-19T00:52:28.468Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 234.7,
-    "yield_rate": 0.751,
-    "defect_count": 249
-  },
-  {
-    "id": "RUN-1364",
-    "timestamp": "2025-09-08T22:28:03.704Z",
-    "machine_id": "Press-B",
-    "temperature_c": 157.1,
-    "yield_rate": 0.916,
-    "defect_count": 84
-  },
-  {
-    "id": "RUN-1365",
-    "timestamp": "2025-08-20T10:13:48.331Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 237.7,
-    "yield_rate": 0.756,
-    "defect_count": 244
-  },
-  {
-    "id": "RUN-1366",
-    "timestamp": "2025-11-03T17:08:12.411Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 235.7,
-    "yield_rate": 0.768,
-    "defect_count": 231
-  },
-  {
-    "id": "RUN-1367",
-    "timestamp": "2025-11-23T16:23:15.792Z",
-    "machine_id": "Press-A",
-    "temperature_c": 169.7,
-    "yield_rate": 0.899,
-    "defect_count": 101
-  },
-  {
-    "id": "RUN-1368",
-    "timestamp": "2025-08-20T22:40:03.344Z",
-    "machine_id": "Press-A",
-    "temperature_c": 133.3,
-    "yield_rate": 0.98,
-    "defect_count": 19
-  },
-  {
-    "id": "RUN-1369",
-    "timestamp": "2025-08-19T02:19:22.681Z",
-    "machine_id": "Press-B",
-    "temperature_c": 153.5,
-    "yield_rate": 0.948,
-    "defect_count": 51
-  },
-  {
-    "id": "RUN-1370",
-    "timestamp": "2025-09-27T15:29:14.252Z",
-    "machine_id": "Press-A",
-    "temperature_c": 139.3,
-    "yield_rate": 0.972,
-    "defect_count": 27
-  },
-  {
-    "id": "RUN-1371",
-    "timestamp": "2025-09-23T20:08:23.750Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 215.1,
-    "yield_rate": 0.833,
-    "defect_count": 167
-  },
-  {
-    "id": "RUN-1372",
-    "timestamp": "2025-08-19T07:43:38.644Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 241.6,
-    "yield_rate": 0.774,
-    "defect_count": 226
-  },
-  {
-    "id": "RUN-1373",
-    "timestamp": "2025-09-22T03:00:58.863Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 155.7,
-    "yield_rate": 0.905,
-    "defect_count": 95
-  },
-  {
-    "id": "RUN-1374",
-    "timestamp": "2025-11-09T12:45:36.665Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 242.3,
-    "yield_rate": 0.759,
-    "defect_count": 241
-  },
-  {
-    "id": "RUN-1375",
-    "timestamp": "2025-11-29T10:04:36.288Z",
-    "machine_id": "Press-A",
-    "temperature_c": 160.3,
-    "yield_rate": 0.901,
-    "defect_count": 98
-  },
-  {
-    "id": "RUN-1376",
-    "timestamp": "2025-09-14T15:36:58.659Z",
-    "machine_id": "Press-A",
-    "temperature_c": 162,
-    "yield_rate": 0.907,
-    "defect_count": 93
-  },
-  {
-    "id": "RUN-1377",
-    "timestamp": "2025-11-25T17:23:51.069Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 134.2,
-    "yield_rate": 0.99,
-    "defect_count": 10
-  },
-  {
-    "id": "RUN-1378",
-    "timestamp": "2025-09-07T03:58:50.577Z",
-    "machine_id": "Press-A",
-    "temperature_c": 160.9,
-    "yield_rate": 0.943,
-    "defect_count": 57
-  },
-  {
-    "id": "RUN-1379",
-    "timestamp": "2025-08-15T11:51:08.228Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 165.4,
-    "yield_rate": 0.9,
-    "defect_count": 100
-  },
-  {
-    "id": "RUN-1380",
-    "timestamp": "2025-08-13T17:53:08.951Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 244.3,
-    "yield_rate": 0.77,
-    "defect_count": 229
-  },
-  {
-    "id": "RUN-1381",
-    "timestamp": "2025-10-20T11:14:10.511Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 221.2,
-    "yield_rate": 0.775,
-    "defect_count": 224
-  },
-  {
-    "id": "RUN-1382",
-    "timestamp": "2025-11-01T20:33:34.188Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 197.3,
-    "yield_rate": 0.848,
-    "defect_count": 152
-  },
-  {
-    "id": "RUN-1383",
-    "timestamp": "2025-08-13T14:34:10.369Z",
-    "machine_id": "Press-A",
-    "temperature_c": 164.1,
-    "yield_rate": 0.914,
-    "defect_count": 85
-  },
-  {
-    "id": "RUN-1384",
-    "timestamp": "2025-09-28T22:05:26.014Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 222.5,
-    "yield_rate": 0.806,
-    "defect_count": 193
-  },
-  {
-    "id": "RUN-1385",
-    "timestamp": "2025-11-27T18:13:48.872Z",
-    "machine_id": "Press-A",
-    "temperature_c": 147,
-    "yield_rate": 0.94,
-    "defect_count": 59
-  },
-  {
-    "id": "RUN-1386",
-    "timestamp": "2025-10-05T17:48:33.347Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 223.6,
-    "yield_rate": 0.8,
-    "defect_count": 199
-  },
-  {
-    "id": "RUN-1387",
-    "timestamp": "2025-08-26T08:39:50.256Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 229.6,
-    "yield_rate": 0.797,
-    "defect_count": 202
-  },
-  {
-    "id": "RUN-1388",
-    "timestamp": "2025-11-03T07:40:13.021Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 144.9,
-    "yield_rate": 0.971,
-    "defect_count": 29
-  },
-  {
-    "id": "RUN-1389",
-    "timestamp": "2025-09-13T15:55:16.851Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 159.7,
-    "yield_rate": 0.926,
-    "defect_count": 74
-  },
-  {
-    "id": "RUN-1390",
-    "timestamp": "2025-11-18T18:53:02.499Z",
-    "machine_id": "Press-B",
-    "temperature_c": 142.8,
-    "yield_rate": 0.964,
-    "defect_count": 35
-  },
-  {
-    "id": "RUN-1391",
-    "timestamp": "2025-10-09T07:16:31.836Z",
-    "machine_id": "Press-B",
-    "temperature_c": 141.7,
-    "yield_rate": 0.953,
-    "defect_count": 47
-  },
-  {
-    "id": "RUN-1392",
-    "timestamp": "2025-09-23T06:14:21.384Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 223.4,
-    "yield_rate": 0.816,
-    "defect_count": 183
-  },
-  {
-    "id": "RUN-1393",
-    "timestamp": "2025-08-16T23:17:33.976Z",
-    "machine_id": "Press-A",
-    "temperature_c": 129,
-    "yield_rate": 0.972,
-    "defect_count": 28
-  },
-  {
-    "id": "RUN-1394",
-    "timestamp": "2025-08-22T21:10:02.830Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 195.2,
-    "yield_rate": 0.846,
-    "defect_count": 153
-  },
-  {
-    "id": "RUN-1395",
-    "timestamp": "2025-10-09T14:49:42.451Z",
-    "machine_id": "Press-B",
-    "temperature_c": 167.6,
-    "yield_rate": 0.906,
-    "defect_count": 94
-  },
-  {
-    "id": "RUN-1396",
-    "timestamp": "2025-09-05T14:24:36.763Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 236.6,
-    "yield_rate": 0.777,
-    "defect_count": 223
-  },
-  {
-    "id": "RUN-1397",
-    "timestamp": "2025-11-11T15:56:51.009Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 205.8,
-    "yield_rate": 0.844,
-    "defect_count": 155
-  },
-  {
-    "id": "RUN-1398",
-    "timestamp": "2025-10-08T19:09:19.279Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 217.7,
-    "yield_rate": 0.786,
-    "defect_count": 214
-  },
-  {
-    "id": "RUN-1399",
-    "timestamp": "2025-11-02T13:09:15.800Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 211.3,
-    "yield_rate": 0.842,
-    "defect_count": 157
-  },
-  {
-    "id": "RUN-1400",
-    "timestamp": "2025-09-26T04:06:13.963Z",
-    "machine_id": "Press-B",
-    "temperature_c": 163.5,
-    "yield_rate": 0.932,
-    "defect_count": 67
-  },
-  {
-    "id": "RUN-1401",
-    "timestamp": "2025-10-20T09:00:14.678Z",
-    "machine_id": "Press-A",
-    "temperature_c": 126.5,
-    "yield_rate": 0.992,
-    "defect_count": 7
-  },
-  {
-    "id": "RUN-1402",
-    "timestamp": "2025-09-15T12:12:28.722Z",
-    "machine_id": "Press-B",
-    "temperature_c": 148.1,
-    "yield_rate": 0.956,
-    "defect_count": 44
-  },
-  {
-    "id": "RUN-1403",
-    "timestamp": "2025-09-11T23:43:35.494Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 146.9,
-    "yield_rate": 0.928,
-    "defect_count": 72
-  },
-  {
-    "id": "RUN-1404",
-    "timestamp": "2025-10-09T16:46:53.093Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 170.3,
-    "yield_rate": 0.922,
-    "defect_count": 78
-  },
-  {
-    "id": "RUN-1405",
-    "timestamp": "2025-11-29T07:01:42.052Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 196.3,
-    "yield_rate": 0.846,
-    "defect_count": 153
-  },
-  {
-    "id": "RUN-1406",
-    "timestamp": "2025-10-08T23:20:51.158Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 199.2,
-    "yield_rate": 0.842,
-    "defect_count": 157
-  },
-  {
-    "id": "RUN-1407",
-    "timestamp": "2025-10-16T21:44:35.022Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 241.6,
-    "yield_rate": 0.743,
-    "defect_count": 257
-  },
-  {
-    "id": "RUN-1408",
-    "timestamp": "2025-09-14T10:27:45.345Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 232.1,
-    "yield_rate": 0.796,
-    "defect_count": 204
-  },
-  {
-    "id": "RUN-1409",
-    "timestamp": "2025-11-23T08:38:40.790Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 158.5,
-    "yield_rate": 0.922,
-    "defect_count": 78
-  },
-  {
-    "id": "RUN-1410",
-    "timestamp": "2025-09-19T21:00:25.045Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 136.4,
-    "yield_rate": 0.978,
-    "defect_count": 21
-  },
-  {
-    "id": "RUN-1411",
-    "timestamp": "2025-09-07T19:33:04.116Z",
-    "machine_id": "Press-B",
-    "temperature_c": 174.5,
-    "yield_rate": 0.88,
-    "defect_count": 119
-  },
-  {
-    "id": "RUN-1412",
-    "timestamp": "2025-11-19T01:14:19.403Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 135.3,
-    "yield_rate": 0.961,
-    "defect_count": 39
-  },
-  {
-    "id": "RUN-1413",
-    "timestamp": "2025-09-02T22:47:49.960Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 213.1,
-    "yield_rate": 0.792,
-    "defect_count": 207
-  },
-  {
-    "id": "RUN-1414",
-    "timestamp": "2025-11-16T18:20:35.172Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 218.6,
-    "yield_rate": 0.787,
-    "defect_count": 213
-  },
-  {
-    "id": "RUN-1415",
-    "timestamp": "2025-09-05T11:22:12.396Z",
-    "machine_id": "Press-B",
-    "temperature_c": 169.5,
-    "yield_rate": 0.893,
-    "defect_count": 107
-  },
-  {
-    "id": "RUN-1416",
-    "timestamp": "2025-09-13T05:56:22.466Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 207.2,
-    "yield_rate": 0.805,
-    "defect_count": 195
-  },
-  {
-    "id": "RUN-1417",
-    "timestamp": "2025-11-19T16:20:47.325Z",
-    "machine_id": "Press-A",
-    "temperature_c": 136.4,
-    "yield_rate": 0.956,
-    "defect_count": 43
-  },
-  {
-    "id": "RUN-1418",
-    "timestamp": "2025-11-01T05:04:39.374Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 237.9,
-    "yield_rate": 0.745,
-    "defect_count": 255
-  },
-  {
-    "id": "RUN-1419",
-    "timestamp": "2025-11-03T07:46:30.719Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 174.5,
-    "yield_rate": 0.883,
-    "defect_count": 117
-  },
-  {
-    "id": "RUN-1420",
-    "timestamp": "2025-10-03T07:47:51.579Z",
-    "machine_id": "Press-A",
-    "temperature_c": 156.6,
-    "yield_rate": 0.949,
-    "defect_count": 50
-  },
-  {
-    "id": "RUN-1421",
-    "timestamp": "2025-08-30T08:01:35.535Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 239.1,
-    "yield_rate": 0.742,
-    "defect_count": 258
-  },
-  {
-    "id": "RUN-1422",
-    "timestamp": "2025-09-03T17:06:55.995Z",
-    "machine_id": "Press-A",
-    "temperature_c": 132.4,
-    "yield_rate": 0.953,
-    "defect_count": 46
-  },
-  {
-    "id": "RUN-1423",
-    "timestamp": "2025-11-13T21:52:12.928Z",
-    "machine_id": "Press-B",
-    "temperature_c": 156.9,
-    "yield_rate": 0.907,
-    "defect_count": 92
-  },
-  {
-    "id": "RUN-1424",
-    "timestamp": "2025-09-18T23:35:12.926Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 163.1,
-    "yield_rate": 0.892,
-    "defect_count": 107
-  },
-  {
-    "id": "RUN-1425",
-    "timestamp": "2025-11-05T05:23:58.232Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 157.6,
-    "yield_rate": 0.939,
-    "defect_count": 61
-  },
-  {
-    "id": "RUN-1426",
-    "timestamp": "2025-12-01T19:17:06.248Z",
-    "machine_id": "Press-B",
-    "temperature_c": 152.3,
-    "yield_rate": 0.947,
-    "defect_count": 52
-  },
-  {
-    "id": "RUN-1427",
-    "timestamp": "2025-08-15T14:36:28.227Z",
-    "machine_id": "Press-B",
-    "temperature_c": 135.5,
-    "yield_rate": 0.952,
-    "defect_count": 47
-  },
-  {
-    "id": "RUN-1428",
-    "timestamp": "2025-11-02T20:48:08.368Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 169.2,
-    "yield_rate": 0.89,
-    "defect_count": 110
-  },
-  {
-    "id": "RUN-1429",
-    "timestamp": "2025-10-01T15:17:24.938Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 215.6,
+    "temperature_c": 201.6,
     "yield_rate": 0.826,
     "defect_count": 173
   },
   {
-    "id": "RUN-1430",
-    "timestamp": "2025-08-20T23:16:07.843Z",
-    "machine_id": "Press-B",
-    "temperature_c": 127.5,
-    "yield_rate": 0.97,
-    "defect_count": 29
-  },
-  {
-    "id": "RUN-1431",
-    "timestamp": "2025-10-24T07:21:06.812Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 171.9,
-    "yield_rate": 0.905,
-    "defect_count": 94
-  },
-  {
-    "id": "RUN-1432",
-    "timestamp": "2025-11-02T20:49:57.617Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 162.8,
-    "yield_rate": 0.93,
-    "defect_count": 70
-  },
-  {
-    "id": "RUN-1433",
-    "timestamp": "2025-09-25T05:38:19.985Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 153.3,
-    "yield_rate": 0.943,
-    "defect_count": 57
-  },
-  {
-    "id": "RUN-1434",
-    "timestamp": "2025-11-03T06:58:55.206Z",
+    "id": "RUN-1003",
+    "timestamp": "2025-09-16T08:33:25.126Z",
     "machine_id": "Oven-2",
-    "temperature_c": 205,
-    "yield_rate": 0.812,
-    "defect_count": 187
-  },
-  {
-    "id": "RUN-1435",
-    "timestamp": "2025-08-26T21:16:44.372Z",
-    "machine_id": "Press-B",
-    "temperature_c": 150.9,
-    "yield_rate": 0.925,
-    "defect_count": 74
-  },
-  {
-    "id": "RUN-1436",
-    "timestamp": "2025-09-24T21:29:23.583Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 138.9,
-    "yield_rate": 0.949,
-    "defect_count": 50
-  },
-  {
-    "id": "RUN-1437",
-    "timestamp": "2025-08-21T00:36:48.661Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 201.3,
-    "yield_rate": 0.821,
-    "defect_count": 179
-  },
-  {
-    "id": "RUN-1438",
-    "timestamp": "2025-11-05T21:10:14.221Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 139,
-    "yield_rate": 0.986,
-    "defect_count": 14
-  },
-  {
-    "id": "RUN-1439",
-    "timestamp": "2025-11-18T15:16:09.674Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 234.2,
-    "yield_rate": 0.755,
-    "defect_count": 244
-  },
-  {
-    "id": "RUN-1440",
-    "timestamp": "2025-10-13T03:47:51.182Z",
-    "machine_id": "Press-A",
-    "temperature_c": 143.8,
-    "yield_rate": 0.928,
-    "defect_count": 71
-  },
-  {
-    "id": "RUN-1441",
-    "timestamp": "2025-09-11T00:27:28.278Z",
-    "machine_id": "Press-A",
-    "temperature_c": 143.2,
-    "yield_rate": 0.932,
-    "defect_count": 67
-  },
-  {
-    "id": "RUN-1442",
-    "timestamp": "2025-09-06T08:47:31.534Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 163.6,
-    "yield_rate": 0.903,
-    "defect_count": 96
-  },
-  {
-    "id": "RUN-1443",
-    "timestamp": "2025-11-25T20:20:38.337Z",
-    "machine_id": "Press-A",
-    "temperature_c": 127.7,
-    "yield_rate": 0.994,
-    "defect_count": 5
-  },
-  {
-    "id": "RUN-1444",
-    "timestamp": "2025-11-05T05:46:43.963Z",
-    "machine_id": "Press-B",
-    "temperature_c": 134.7,
-    "yield_rate": 0.947,
-    "defect_count": 52
-  },
-  {
-    "id": "RUN-1445",
-    "timestamp": "2025-10-22T00:34:53.297Z",
-    "machine_id": "Press-B",
-    "temperature_c": 125.7,
-    "yield_rate": 0.969,
-    "defect_count": 31
-  },
-  {
-    "id": "RUN-1446",
-    "timestamp": "2025-08-27T02:38:29.537Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 225.3,
-    "yield_rate": 0.779,
-    "defect_count": 221
-  },
-  {
-    "id": "RUN-1447",
-    "timestamp": "2025-12-05T14:17:46.959Z",
-    "machine_id": "Press-B",
-    "temperature_c": 142.4,
-    "yield_rate": 0.934,
-    "defect_count": 65
-  },
-  {
-    "id": "RUN-1448",
-    "timestamp": "2025-08-16T08:53:50.304Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 204.4,
-    "yield_rate": 0.821,
-    "defect_count": 179
-  },
-  {
-    "id": "RUN-1449",
-    "timestamp": "2025-09-02T16:38:22.072Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 211.3,
-    "yield_rate": 0.832,
-    "defect_count": 167
-  },
-  {
-    "id": "RUN-1450",
-    "timestamp": "2025-08-21T18:44:39.744Z",
-    "machine_id": "Press-B",
-    "temperature_c": 157.4,
-    "yield_rate": 0.938,
-    "defect_count": 61
-  },
-  {
-    "id": "RUN-1451",
-    "timestamp": "2025-08-28T07:58:35.517Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 153.4,
-    "yield_rate": 0.914,
-    "defect_count": 85
-  },
-  {
-    "id": "RUN-1452",
-    "timestamp": "2025-08-17T21:35:34.397Z",
-    "machine_id": "Press-B",
-    "temperature_c": 159.1,
-    "yield_rate": 0.935,
-    "defect_count": 64
-  },
-  {
-    "id": "RUN-1453",
-    "timestamp": "2025-10-13T17:39:58.946Z",
-    "machine_id": "Press-A",
-    "temperature_c": 159.6,
-    "yield_rate": 0.916,
-    "defect_count": 84
-  },
-  {
-    "id": "RUN-1454",
-    "timestamp": "2025-10-28T06:33:55.512Z",
-    "machine_id": "Press-A",
-    "temperature_c": 170.6,
-    "yield_rate": 0.897,
-    "defect_count": 103
-  },
-  {
-    "id": "RUN-1455",
-    "timestamp": "2025-08-15T01:54:57.234Z",
-    "machine_id": "Press-B",
-    "temperature_c": 170.4,
-    "yield_rate": 0.892,
-    "defect_count": 108
-  },
-  {
-    "id": "RUN-1456",
-    "timestamp": "2025-08-26T03:56:59.302Z",
-    "machine_id": "Press-B",
-    "temperature_c": 142.5,
-    "yield_rate": 0.952,
-    "defect_count": 47
-  },
-  {
-    "id": "RUN-1457",
-    "timestamp": "2025-10-11T02:16:00.254Z",
-    "machine_id": "Press-A",
-    "temperature_c": 126.5,
-    "yield_rate": 0.974,
-    "defect_count": 25
-  },
-  {
-    "id": "RUN-1458",
-    "timestamp": "2025-11-13T10:27:47.603Z",
-    "machine_id": "Press-A",
-    "temperature_c": 171.6,
-    "yield_rate": 0.896,
-    "defect_count": 104
-  },
-  {
-    "id": "RUN-1459",
-    "timestamp": "2025-08-20T18:19:30.292Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 209.1,
-    "yield_rate": 0.846,
-    "defect_count": 153
-  },
-  {
-    "id": "RUN-1460",
-    "timestamp": "2025-10-02T07:11:47.403Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 136.2,
-    "yield_rate": 0.959,
-    "defect_count": 40
-  },
-  {
-    "id": "RUN-1461",
-    "timestamp": "2025-12-04T14:27:53.151Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 161.8,
-    "yield_rate": 0.936,
-    "defect_count": 64
-  },
-  {
-    "id": "RUN-1462",
-    "timestamp": "2025-08-26T22:58:05.054Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 232.8,
-    "yield_rate": 0.778,
-    "defect_count": 221
-  },
-  {
-    "id": "RUN-1463",
-    "timestamp": "2025-12-05T04:56:53.460Z",
-    "machine_id": "Press-A",
-    "temperature_c": 147.9,
-    "yield_rate": 0.948,
-    "defect_count": 51
-  },
-  {
-    "id": "RUN-1464",
-    "timestamp": "2025-08-15T21:45:19.588Z",
-    "machine_id": "Press-B",
-    "temperature_c": 144.9,
-    "yield_rate": 0.94,
-    "defect_count": 59
-  },
-  {
-    "id": "RUN-1465",
-    "timestamp": "2025-11-07T07:39:24.240Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 233.2,
-    "yield_rate": 0.779,
-    "defect_count": 221
-  },
-  {
-    "id": "RUN-1466",
-    "timestamp": "2025-11-20T07:46:17.765Z",
-    "machine_id": "Press-B",
-    "temperature_c": 135.9,
-    "yield_rate": 0.947,
-    "defect_count": 52
-  },
-  {
-    "id": "RUN-1467",
-    "timestamp": "2025-11-19T20:34:30.386Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 225.4,
-    "yield_rate": 0.811,
-    "defect_count": 189
-  },
-  {
-    "id": "RUN-1468",
-    "timestamp": "2025-12-01T08:41:11.131Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 208.8,
-    "yield_rate": 0.815,
+    "temperature_c": 209.9,
+    "yield_rate": 0.816,
     "defect_count": 184
   },
   {
-    "id": "RUN-1469",
-    "timestamp": "2025-09-17T01:23:26.071Z",
-    "machine_id": "Press-B",
-    "temperature_c": 173.3,
-    "yield_rate": 0.896,
-    "defect_count": 104
+    "id": "RUN-1004",
+    "timestamp": "2025-10-09T22:35:11.532Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 223.2,
+    "yield_rate": 0.81,
+    "defect_count": 190
   },
   {
-    "id": "RUN-1470",
-    "timestamp": "2025-11-17T08:17:22.320Z",
+    "id": "RUN-1005",
+    "timestamp": "2025-09-30T09:34:12.174Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 188.8,
+    "yield_rate": 0.858,
+    "defect_count": 141
+  },
+  {
+    "id": "RUN-1006",
+    "timestamp": "2025-09-15T23:38:01.558Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 246.9,
+    "yield_rate": 0.768,
+    "defect_count": 232
+  },
+  {
+    "id": "RUN-1007",
+    "timestamp": "2025-10-10T02:33:20.752Z",
     "machine_id": "Press-A",
-    "temperature_c": 129.1,
-    "yield_rate": 0.983,
-    "defect_count": 16
-  },
-  {
-    "id": "RUN-1471",
-    "timestamp": "2025-11-01T23:10:41.919Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 196,
-    "yield_rate": 0.845,
-    "defect_count": 154
-  },
-  {
-    "id": "RUN-1472",
-    "timestamp": "2025-09-21T19:05:51.079Z",
-    "machine_id": "Press-A",
-    "temperature_c": 149.6,
-    "yield_rate": 0.943,
-    "defect_count": 56
-  },
-  {
-    "id": "RUN-1473",
-    "timestamp": "2025-09-29T05:49:03.576Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 227.9,
-    "yield_rate": 0.793,
-    "defect_count": 207
-  },
-  {
-    "id": "RUN-1474",
-    "timestamp": "2025-09-02T13:07:04.346Z",
-    "machine_id": "Press-B",
-    "temperature_c": 152.7,
-    "yield_rate": 0.935,
-    "defect_count": 65
-  },
-  {
-    "id": "RUN-1475",
-    "timestamp": "2025-09-20T23:40:44.718Z",
-    "machine_id": "Press-B",
-    "temperature_c": 151.3,
-    "yield_rate": 0.92,
-    "defect_count": 80
-  },
-  {
-    "id": "RUN-1476",
-    "timestamp": "2025-10-18T13:05:29.594Z",
-    "machine_id": "Press-B",
-    "temperature_c": 137.2,
-    "yield_rate": 0.945,
-    "defect_count": 55
-  },
-  {
-    "id": "RUN-1477",
-    "timestamp": "2025-09-10T04:36:36.319Z",
-    "machine_id": "Press-A",
-    "temperature_c": 134,
-    "yield_rate": 0.979,
-    "defect_count": 21
-  },
-  {
-    "id": "RUN-1478",
-    "timestamp": "2025-08-23T14:24:47.408Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 216.1,
-    "yield_rate": 0.819,
-    "defect_count": 180
-  },
-  {
-    "id": "RUN-1479",
-    "timestamp": "2025-09-24T05:28:06.457Z",
-    "machine_id": "Press-B",
-    "temperature_c": 173.9,
-    "yield_rate": 0.899,
-    "defect_count": 101
-  },
-  {
-    "id": "RUN-1480",
-    "timestamp": "2025-09-09T04:48:57.054Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 162.2,
-    "yield_rate": 0.896,
-    "defect_count": 104
-  },
-  {
-    "id": "RUN-1481",
-    "timestamp": "2025-10-27T17:26:46.434Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 239.9,
-    "yield_rate": 0.778,
-    "defect_count": 221
-  },
-  {
-    "id": "RUN-1482",
-    "timestamp": "2025-09-11T04:45:20.696Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 235.5,
-    "yield_rate": 0.784,
-    "defect_count": 215
-  },
-  {
-    "id": "RUN-1483",
-    "timestamp": "2025-11-29T02:53:51.989Z",
-    "machine_id": "Press-B",
-    "temperature_c": 139.7,
-    "yield_rate": 0.94,
-    "defect_count": 59
-  },
-  {
-    "id": "RUN-1484",
-    "timestamp": "2025-09-26T14:33:48.919Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 158.9,
-    "yield_rate": 0.91,
-    "defect_count": 90
-  },
-  {
-    "id": "RUN-1485",
-    "timestamp": "2025-09-12T20:34:29.444Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 150.6,
-    "yield_rate": 0.92,
-    "defect_count": 79
-  },
-  {
-    "id": "RUN-1486",
-    "timestamp": "2025-08-22T15:48:36.752Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 126.6,
-    "yield_rate": 0.967,
-    "defect_count": 33
-  },
-  {
-    "id": "RUN-1487",
-    "timestamp": "2025-09-11T11:39:35.537Z",
-    "machine_id": "Press-B",
-    "temperature_c": 166.7,
-    "yield_rate": 0.911,
-    "defect_count": 88
-  },
-  {
-    "id": "RUN-1488",
-    "timestamp": "2025-09-03T08:54:27.365Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 241.9,
-    "yield_rate": 0.736,
-    "defect_count": 264
-  },
-  {
-    "id": "RUN-1489",
-    "timestamp": "2025-11-20T10:19:57.991Z",
-    "machine_id": "Press-B",
-    "temperature_c": 133.2,
-    "yield_rate": 0.979,
-    "defect_count": 21
-  },
-  {
-    "id": "RUN-1490",
-    "timestamp": "2025-08-12T03:46:48.830Z",
-    "machine_id": "Press-B",
-    "temperature_c": 170.1,
-    "yield_rate": 0.922,
-    "defect_count": 78
-  },
-  {
-    "id": "RUN-1491",
-    "timestamp": "2025-09-03T04:25:29.454Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 200.6,
-    "yield_rate": 0.829,
-    "defect_count": 171
-  },
-  {
-    "id": "RUN-1492",
-    "timestamp": "2025-10-06T23:50:53.646Z",
-    "machine_id": "Oven-2",
-    "temperature_c": 227.4,
-    "yield_rate": 0.769,
-    "defect_count": 231
-  },
-  {
-    "id": "RUN-1493",
-    "timestamp": "2025-09-05T01:44:11.188Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 212.5,
-    "yield_rate": 0.822,
-    "defect_count": 177
-  },
-  {
-    "id": "RUN-1494",
-    "timestamp": "2025-11-12T10:03:36.130Z",
-    "machine_id": "Oven-1",
-    "temperature_c": 234.4,
-    "yield_rate": 0.757,
-    "defect_count": 242
-  },
-  {
-    "id": "RUN-1495",
-    "timestamp": "2025-11-15T18:59:54.448Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 159.3,
-    "yield_rate": 0.92,
-    "defect_count": 80
-  },
-  {
-    "id": "RUN-1496",
-    "timestamp": "2025-10-21T21:16:11.836Z",
-    "machine_id": "Press-A",
-    "temperature_c": 168.5,
-    "yield_rate": 0.886,
-    "defect_count": 113
-  },
-  {
-    "id": "RUN-1497",
-    "timestamp": "2025-10-13T01:11:10.829Z",
-    "machine_id": "Mixer-X",
-    "temperature_c": 135.7,
+    "temperature_c": 121.2,
     "yield_rate": 0.989,
     "defect_count": 11
   },
   {
-    "id": "RUN-1498",
-    "timestamp": "2025-11-20T16:23:21.810Z",
+    "id": "RUN-1008",
+    "timestamp": "2025-09-09T11:38:14.776Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 236.6,
+    "yield_rate": 0.78,
+    "defect_count": 220
+  },
+  {
+    "id": "RUN-1009",
+    "timestamp": "2025-10-03T22:25:46.702Z",
     "machine_id": "Oven-1",
-    "temperature_c": 200.2,
-    "yield_rate": 0.818,
+    "temperature_c": 245.5,
+    "yield_rate": 0.766,
+    "defect_count": 234
+  },
+  {
+    "id": "RUN-1010",
+    "timestamp": "2025-11-18T04:04:01.917Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 184.1,
+    "yield_rate": 0.86,
+    "defect_count": 140
+  },
+  {
+    "id": "RUN-1011",
+    "timestamp": "2025-10-19T16:44:14.671Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 206.6,
+    "yield_rate": 0.854,
+    "defect_count": 146
+  },
+  {
+    "id": "RUN-1012",
+    "timestamp": "2025-08-22T18:03:24.570Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 202.4,
+    "yield_rate": 0.832,
+    "defect_count": 167
+  },
+  {
+    "id": "RUN-1013",
+    "timestamp": "2025-10-05T13:10:35.512Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 206.3,
+    "yield_rate": 0.84,
+    "defect_count": 160
+  },
+  {
+    "id": "RUN-1014",
+    "timestamp": "2025-11-23T00:05:36.929Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 206.9,
+    "yield_rate": 0.832,
+    "defect_count": 168
+  },
+  {
+    "id": "RUN-1015",
+    "timestamp": "2025-10-07T19:17:20.767Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 230.2,
+    "yield_rate": 0.797,
+    "defect_count": 202
+  },
+  {
+    "id": "RUN-1016",
+    "timestamp": "2025-11-28T15:00:08.097Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 245.1,
+    "yield_rate": 0.754,
+    "defect_count": 245
+  },
+  {
+    "id": "RUN-1017",
+    "timestamp": "2025-08-14T23:41:34.021Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 205.2,
+    "yield_rate": 0.822,
+    "defect_count": 178
+  },
+  {
+    "id": "RUN-1018",
+    "timestamp": "2025-10-16T21:26:59.832Z",
+    "machine_id": "Press-B",
+    "temperature_c": 139.3,
+    "yield_rate": 0.937,
+    "defect_count": 63
+  },
+  {
+    "id": "RUN-1019",
+    "timestamp": "2025-09-07T18:08:04.906Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 179,
+    "yield_rate": 0.893,
+    "defect_count": 107
+  },
+  {
+    "id": "RUN-1020",
+    "timestamp": "2025-11-26T07:01:50.719Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 187.2,
+    "yield_rate": 0.872,
+    "defect_count": 127
+  },
+  {
+    "id": "RUN-1021",
+    "timestamp": "2025-10-13T13:23:03.282Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 200.9,
+    "yield_rate": 0.832,
+    "defect_count": 168
+  },
+  {
+    "id": "RUN-1022",
+    "timestamp": "2025-10-21T21:44:14.325Z",
+    "machine_id": "Press-A",
+    "temperature_c": 157.4,
+    "yield_rate": 0.924,
+    "defect_count": 76
+  },
+  {
+    "id": "RUN-1023",
+    "timestamp": "2025-09-15T18:54:05.181Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.5,
+    "yield_rate": 0.777,
+    "defect_count": 222
+  },
+  {
+    "id": "RUN-1024",
+    "timestamp": "2025-09-04T10:49:12.487Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 242.2,
+    "yield_rate": 0.752,
+    "defect_count": 248
+  },
+  {
+    "id": "RUN-1025",
+    "timestamp": "2025-11-17T23:25:38.725Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 204.4,
+    "yield_rate": 0.826,
+    "defect_count": 174
+  },
+  {
+    "id": "RUN-1026",
+    "timestamp": "2025-10-06T23:45:21.366Z",
+    "machine_id": "Press-A",
+    "temperature_c": 170,
+    "yield_rate": 0.903,
+    "defect_count": 97
+  },
+  {
+    "id": "RUN-1027",
+    "timestamp": "2025-09-24T22:07:22.984Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 210.5,
+    "yield_rate": 0.821,
+    "defect_count": 178
+  },
+  {
+    "id": "RUN-1028",
+    "timestamp": "2025-09-14T17:57:11.779Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 163.6,
+    "yield_rate": 0.906,
+    "defect_count": 94
+  },
+  {
+    "id": "RUN-1029",
+    "timestamp": "2025-09-16T08:55:47.861Z",
+    "machine_id": "Press-B",
+    "temperature_c": 136.2,
+    "yield_rate": 0.969,
+    "defect_count": 31
+  },
+  {
+    "id": "RUN-1030",
+    "timestamp": "2025-08-17T17:07:11.055Z",
+    "machine_id": "Press-B",
+    "temperature_c": 148.8,
+    "yield_rate": 0.932,
+    "defect_count": 67
+  },
+  {
+    "id": "RUN-1031",
+    "timestamp": "2025-09-15T02:51:05.300Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 219.8,
+    "yield_rate": 0.81,
+    "defect_count": 189
+  },
+  {
+    "id": "RUN-1032",
+    "timestamp": "2025-11-20T11:21:45.763Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 206,
+    "yield_rate": 0.828,
+    "defect_count": 171
+  },
+  {
+    "id": "RUN-1033",
+    "timestamp": "2025-09-29T11:02:06.612Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 163.5,
+    "yield_rate": 0.926,
+    "defect_count": 73
+  },
+  {
+    "id": "RUN-1034",
+    "timestamp": "2025-09-12T22:26:42.925Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 215.1,
+    "yield_rate": 0.808,
+    "defect_count": 191
+  },
+  {
+    "id": "RUN-1035",
+    "timestamp": "2025-11-30T21:17:08.079Z",
+    "machine_id": "Press-B",
+    "temperature_c": 152.4,
+    "yield_rate": 0.914,
+    "defect_count": 86
+  },
+  {
+    "id": "RUN-1036",
+    "timestamp": "2025-11-17T23:24:06.676Z",
+    "machine_id": "Press-A",
+    "temperature_c": 169.5,
+    "yield_rate": 0.92,
+    "defect_count": 80
+  },
+  {
+    "id": "RUN-1037",
+    "timestamp": "2025-11-09T17:43:00.765Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 160.1,
+    "yield_rate": 0.937,
+    "defect_count": 62
+  },
+  {
+    "id": "RUN-1038",
+    "timestamp": "2025-11-13T05:33:31.098Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 197.8,
+    "yield_rate": 0.863,
+    "defect_count": 137
+  },
+  {
+    "id": "RUN-1039",
+    "timestamp": "2025-10-03T01:29:46.709Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 228,
+    "yield_rate": 0.794,
+    "defect_count": 205
+  },
+  {
+    "id": "RUN-1040",
+    "timestamp": "2025-09-30T08:39:40.739Z",
+    "machine_id": "Press-B",
+    "temperature_c": 151.7,
+    "yield_rate": 0.939,
+    "defect_count": 61
+  },
+  {
+    "id": "RUN-1041",
+    "timestamp": "2025-11-21T00:15:43.500Z",
+    "machine_id": "Press-B",
+    "temperature_c": 156.5,
+    "yield_rate": 0.905,
+    "defect_count": 94
+  },
+  {
+    "id": "RUN-1042",
+    "timestamp": "2025-09-15T01:21:12.409Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 220.8,
+    "yield_rate": 0.826,
+    "defect_count": 174
+  },
+  {
+    "id": "RUN-1043",
+    "timestamp": "2025-09-24T01:30:41.170Z",
+    "machine_id": "Press-B",
+    "temperature_c": 146.7,
+    "yield_rate": 0.953,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1044",
+    "timestamp": "2025-09-07T03:21:35.729Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 229.9,
+    "yield_rate": 0.78,
+    "defect_count": 220
+  },
+  {
+    "id": "RUN-1045",
+    "timestamp": "2025-09-29T20:26:37.504Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 236.6,
+    "yield_rate": 0.772,
+    "defect_count": 227
+  },
+  {
+    "id": "RUN-1046",
+    "timestamp": "2025-08-20T14:33:27.160Z",
+    "machine_id": "Press-A",
+    "temperature_c": 123.1,
+    "yield_rate": 1,
+    "defect_count": 0
+  },
+  {
+    "id": "RUN-1047",
+    "timestamp": "2025-08-26T23:19:26.185Z",
+    "machine_id": "Press-B",
+    "temperature_c": 136,
+    "yield_rate": 0.959,
+    "defect_count": 41
+  },
+  {
+    "id": "RUN-1048",
+    "timestamp": "2025-10-29T16:33:45.753Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 206.2,
+    "yield_rate": 0.845,
+    "defect_count": 155
+  },
+  {
+    "id": "RUN-1049",
+    "timestamp": "2025-10-30T23:50:44.605Z",
+    "machine_id": "Press-A",
+    "temperature_c": 144.9,
+    "yield_rate": 0.933,
+    "defect_count": 66
+  },
+  {
+    "id": "RUN-1050",
+    "timestamp": "2025-10-19T11:33:19.829Z",
+    "machine_id": "Press-A",
+    "temperature_c": 168.9,
+    "yield_rate": 0.885,
+    "defect_count": 114
+  },
+  {
+    "id": "RUN-1051",
+    "timestamp": "2025-08-25T07:45:14.383Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 193.9,
+    "yield_rate": 0.855,
+    "defect_count": 144
+  },
+  {
+    "id": "RUN-1052",
+    "timestamp": "2025-09-10T11:38:59.079Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 226.6,
+    "yield_rate": 0.798,
+    "defect_count": 202
+  },
+  {
+    "id": "RUN-1053",
+    "timestamp": "2025-11-04T01:03:10.274Z",
+    "machine_id": "Press-B",
+    "temperature_c": 131.1,
+    "yield_rate": 0.958,
+    "defect_count": 42
+  },
+  {
+    "id": "RUN-1054",
+    "timestamp": "2025-10-23T23:55:11.127Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 208.1,
+    "yield_rate": 0.812,
+    "defect_count": 187
+  },
+  {
+    "id": "RUN-1055",
+    "timestamp": "2025-12-03T21:09:04.980Z",
+    "machine_id": "Press-A",
+    "temperature_c": 136.8,
+    "yield_rate": 0.959,
+    "defect_count": 41
+  },
+  {
+    "id": "RUN-1056",
+    "timestamp": "2025-09-03T07:45:08.544Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 215.3,
+    "yield_rate": 0.817,
     "defect_count": 182
   },
   {
-    "id": "RUN-1499",
-    "timestamp": "2025-12-01T17:46:24.685Z",
+    "id": "RUN-1057",
+    "timestamp": "2025-09-25T07:09:02.425Z",
+    "machine_id": "Press-B",
+    "temperature_c": 139.6,
+    "yield_rate": 0.958,
+    "defect_count": 42
+  },
+  {
+    "id": "RUN-1058",
+    "timestamp": "2025-11-12T05:10:34.784Z",
     "machine_id": "Press-A",
-    "temperature_c": 142.7,
-    "yield_rate": 0.962,
+    "temperature_c": 141.7,
+    "yield_rate": 0.947,
+    "defect_count": 53
+  },
+  {
+    "id": "RUN-1059",
+    "timestamp": "2025-11-06T07:55:20.463Z",
+    "machine_id": "Press-B",
+    "temperature_c": 139.6,
+    "yield_rate": 0.969,
+    "defect_count": 30
+  },
+  {
+    "id": "RUN-1060",
+    "timestamp": "2025-09-09T08:14:37.073Z",
+    "machine_id": "Press-A",
+    "temperature_c": 158.4,
+    "yield_rate": 0.941,
+    "defect_count": 59
+  },
+  {
+    "id": "RUN-1061",
+    "timestamp": "2025-09-26T02:55:32.180Z",
+    "machine_id": "Press-B",
+    "temperature_c": 152.9,
+    "yield_rate": 0.914,
+    "defect_count": 85
+  },
+  {
+    "id": "RUN-1062",
+    "timestamp": "2025-10-19T05:12:47.921Z",
+    "machine_id": "Press-B",
+    "temperature_c": 142.1,
+    "yield_rate": 0.942,
+    "defect_count": 58
+  },
+  {
+    "id": "RUN-1063",
+    "timestamp": "2025-10-08T10:40:26.947Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 232.5,
+    "yield_rate": 0.779,
+    "defect_count": 221
+  },
+  {
+    "id": "RUN-1064",
+    "timestamp": "2025-11-26T16:22:32.167Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 202.5,
+    "yield_rate": 0.845,
+    "defect_count": 155
+  },
+  {
+    "id": "RUN-1065",
+    "timestamp": "2025-09-01T08:39:42.977Z",
+    "machine_id": "Press-A",
+    "temperature_c": 143.8,
+    "yield_rate": 0.966,
+    "defect_count": 33
+  },
+  {
+    "id": "RUN-1066",
+    "timestamp": "2025-10-17T12:33:20.395Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 182.7,
+    "yield_rate": 0.87,
+    "defect_count": 129
+  },
+  {
+    "id": "RUN-1067",
+    "timestamp": "2025-11-05T22:47:47.200Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 207,
+    "yield_rate": 0.82,
+    "defect_count": 180
+  },
+  {
+    "id": "RUN-1068",
+    "timestamp": "2025-11-27T12:59:29.753Z",
+    "machine_id": "Press-B",
+    "temperature_c": 162.1,
+    "yield_rate": 0.918,
+    "defect_count": 82
+  },
+  {
+    "id": "RUN-1069",
+    "timestamp": "2025-11-15T16:42:28.890Z",
+    "machine_id": "Press-A",
+    "temperature_c": 141.5,
+    "yield_rate": 0.96,
+    "defect_count": 40
+  },
+  {
+    "id": "RUN-1070",
+    "timestamp": "2025-09-29T00:45:37.089Z",
+    "machine_id": "Press-B",
+    "temperature_c": 150.1,
+    "yield_rate": 0.932,
+    "defect_count": 68
+  },
+  {
+    "id": "RUN-1071",
+    "timestamp": "2025-09-16T20:23:47.875Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 205,
+    "yield_rate": 0.839,
+    "defect_count": 161
+  },
+  {
+    "id": "RUN-1072",
+    "timestamp": "2025-11-15T13:24:06.554Z",
+    "machine_id": "Press-B",
+    "temperature_c": 134.6,
+    "yield_rate": 0.953,
+    "defect_count": 47
+  },
+  {
+    "id": "RUN-1073",
+    "timestamp": "2025-12-02T01:47:01.922Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 210.9,
+    "yield_rate": 0.83,
+    "defect_count": 170
+  },
+  {
+    "id": "RUN-1074",
+    "timestamp": "2025-10-15T01:25:30.994Z",
+    "machine_id": "Press-A",
+    "temperature_c": 164.1,
+    "yield_rate": 0.911,
+    "defect_count": 88
+  },
+  {
+    "id": "RUN-1075",
+    "timestamp": "2025-08-15T06:36:41.540Z",
+    "machine_id": "Press-A",
+    "temperature_c": 127.9,
+    "yield_rate": 0.986,
+    "defect_count": 14
+  },
+  {
+    "id": "RUN-1076",
+    "timestamp": "2025-11-23T02:25:04.122Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 225.2,
+    "yield_rate": 0.821,
+    "defect_count": 179
+  },
+  {
+    "id": "RUN-1077",
+    "timestamp": "2025-11-02T02:24:06.707Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 212.6,
+    "yield_rate": 0.828,
+    "defect_count": 171
+  },
+  {
+    "id": "RUN-1078",
+    "timestamp": "2025-08-28T20:07:06.635Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 180.5,
+    "yield_rate": 0.876,
+    "defect_count": 124
+  },
+  {
+    "id": "RUN-1079",
+    "timestamp": "2025-11-18T06:19:05.816Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 230.2,
+    "yield_rate": 0.792,
+    "defect_count": 207
+  },
+  {
+    "id": "RUN-1080",
+    "timestamp": "2025-09-06T00:01:35.906Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 229.6,
+    "yield_rate": 0.79,
+    "defect_count": 209
+  },
+  {
+    "id": "RUN-1081",
+    "timestamp": "2025-10-24T01:02:54.967Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145.9,
+    "yield_rate": 0.95,
+    "defect_count": 50
+  },
+  {
+    "id": "RUN-1082",
+    "timestamp": "2025-09-21T22:38:08.522Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 172.6,
+    "yield_rate": 0.891,
+    "defect_count": 108
+  },
+  {
+    "id": "RUN-1083",
+    "timestamp": "2025-09-16T00:41:15.710Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 202.4,
+    "yield_rate": 0.847,
+    "defect_count": 153
+  },
+  {
+    "id": "RUN-1084",
+    "timestamp": "2025-11-30T03:34:24.278Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 164.6,
+    "yield_rate": 0.912,
+    "defect_count": 87
+  },
+  {
+    "id": "RUN-1085",
+    "timestamp": "2025-10-30T16:14:48.875Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 221.3,
+    "yield_rate": 0.811,
+    "defect_count": 189
+  },
+  {
+    "id": "RUN-1086",
+    "timestamp": "2025-10-12T05:51:12.392Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 248,
+    "yield_rate": 0.77,
+    "defect_count": 230
+  },
+  {
+    "id": "RUN-1087",
+    "timestamp": "2025-10-02T19:37:32.720Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 181.1,
+    "yield_rate": 0.862,
+    "defect_count": 137
+  },
+  {
+    "id": "RUN-1088",
+    "timestamp": "2025-08-26T12:41:44.006Z",
+    "machine_id": "Press-B",
+    "temperature_c": 157.3,
+    "yield_rate": 0.942,
+    "defect_count": 57
+  },
+  {
+    "id": "RUN-1089",
+    "timestamp": "2025-08-13T09:48:07.601Z",
+    "machine_id": "Press-A",
+    "temperature_c": 167.5,
+    "yield_rate": 0.887,
+    "defect_count": 113
+  },
+  {
+    "id": "RUN-1090",
+    "timestamp": "2025-08-27T17:48:44.359Z",
+    "machine_id": "Press-A",
+    "temperature_c": 151.4,
+    "yield_rate": 0.935,
+    "defect_count": 64
+  },
+  {
+    "id": "RUN-1091",
+    "timestamp": "2025-09-03T04:05:01.513Z",
+    "machine_id": "Press-B",
+    "temperature_c": 161.6,
+    "yield_rate": 0.928,
+    "defect_count": 72
+  },
+  {
+    "id": "RUN-1092",
+    "timestamp": "2025-08-20T05:43:47.873Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145.5,
+    "yield_rate": 0.928,
+    "defect_count": 71
+  },
+  {
+    "id": "RUN-1093",
+    "timestamp": "2025-10-20T07:50:42.122Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 190.8,
+    "yield_rate": 0.875,
+    "defect_count": 125
+  },
+  {
+    "id": "RUN-1094",
+    "timestamp": "2025-11-21T18:48:56.880Z",
+    "machine_id": "Press-A",
+    "temperature_c": 140.2,
+    "yield_rate": 0.943,
+    "defect_count": 57
+  },
+  {
+    "id": "RUN-1095",
+    "timestamp": "2025-11-29T12:56:31.279Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 231.4,
+    "yield_rate": 0.781,
+    "defect_count": 218
+  },
+  {
+    "id": "RUN-1096",
+    "timestamp": "2025-09-30T23:15:00.764Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 220.4,
+    "yield_rate": 0.807,
+    "defect_count": 193
+  },
+  {
+    "id": "RUN-1097",
+    "timestamp": "2025-11-02T01:16:03.286Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 247.2,
+    "yield_rate": 0.77,
+    "defect_count": 229
+  },
+  {
+    "id": "RUN-1098",
+    "timestamp": "2025-10-22T04:29:08.168Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.7,
+    "yield_rate": 0.782,
+    "defect_count": 218
+  },
+  {
+    "id": "RUN-1099",
+    "timestamp": "2025-08-18T03:10:40.495Z",
+    "machine_id": "Press-A",
+    "temperature_c": 146.7,
+    "yield_rate": 0.959,
+    "defect_count": 40
+  },
+  {
+    "id": "RUN-1100",
+    "timestamp": "2025-09-05T12:56:15.282Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 249.8,
+    "yield_rate": 0.744,
+    "defect_count": 255
+  },
+  {
+    "id": "RUN-1101",
+    "timestamp": "2025-08-26T15:34:41.609Z",
+    "machine_id": "Press-A",
+    "temperature_c": 164.2,
+    "yield_rate": 0.91,
+    "defect_count": 90
+  },
+  {
+    "id": "RUN-1102",
+    "timestamp": "2025-11-20T13:39:58.720Z",
+    "machine_id": "Press-B",
+    "temperature_c": 153,
+    "yield_rate": 0.923,
+    "defect_count": 77
+  },
+  {
+    "id": "RUN-1103",
+    "timestamp": "2025-08-26T10:50:29.646Z",
+    "machine_id": "Press-B",
+    "temperature_c": 151,
+    "yield_rate": 0.914,
+    "defect_count": 85
+  },
+  {
+    "id": "RUN-1104",
+    "timestamp": "2025-10-07T10:14:40.640Z",
+    "machine_id": "Press-A",
+    "temperature_c": 134.1,
+    "yield_rate": 0.982,
+    "defect_count": 17
+  },
+  {
+    "id": "RUN-1105",
+    "timestamp": "2025-08-20T03:31:56.830Z",
+    "machine_id": "Press-A",
+    "temperature_c": 168.8,
+    "yield_rate": 0.909,
+    "defect_count": 90
+  },
+  {
+    "id": "RUN-1106",
+    "timestamp": "2025-09-06T14:24:07.886Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 238.8,
+    "yield_rate": 0.775,
+    "defect_count": 224
+  },
+  {
+    "id": "RUN-1107",
+    "timestamp": "2025-10-17T18:26:45.643Z",
+    "machine_id": "Press-B",
+    "temperature_c": 162.7,
+    "yield_rate": 0.923,
+    "defect_count": 77
+  },
+  {
+    "id": "RUN-1108",
+    "timestamp": "2025-08-27T06:29:35.404Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 211.9,
+    "yield_rate": 0.815,
+    "defect_count": 184
+  },
+  {
+    "id": "RUN-1109",
+    "timestamp": "2025-11-29T08:50:12.479Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 228.8,
+    "yield_rate": 0.799,
+    "defect_count": 200
+  },
+  {
+    "id": "RUN-1110",
+    "timestamp": "2025-09-08T14:54:12.742Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 185.7,
+    "yield_rate": 0.854,
+    "defect_count": 146
+  },
+  {
+    "id": "RUN-1111",
+    "timestamp": "2025-11-02T06:09:25.640Z",
+    "machine_id": "Press-B",
+    "temperature_c": 131.8,
+    "yield_rate": 0.964,
+    "defect_count": 35
+  },
+  {
+    "id": "RUN-1112",
+    "timestamp": "2025-11-30T22:33:03.384Z",
+    "machine_id": "Press-A",
+    "temperature_c": 125.5,
+    "yield_rate": 0.972,
+    "defect_count": 28
+  },
+  {
+    "id": "RUN-1113",
+    "timestamp": "2025-11-10T09:12:27.646Z",
+    "machine_id": "Press-A",
+    "temperature_c": 128.4,
+    "yield_rate": 0.957,
+    "defect_count": 43
+  },
+  {
+    "id": "RUN-1114",
+    "timestamp": "2025-11-21T05:39:48.731Z",
+    "machine_id": "Press-A",
+    "temperature_c": 142.5,
+    "yield_rate": 0.953,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1115",
+    "timestamp": "2025-11-05T11:57:29.604Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 182.4,
+    "yield_rate": 0.885,
+    "defect_count": 114
+  },
+  {
+    "id": "RUN-1116",
+    "timestamp": "2025-10-26T21:25:07.364Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 206.2,
+    "yield_rate": 0.818,
+    "defect_count": 181
+  },
+  {
+    "id": "RUN-1117",
+    "timestamp": "2025-11-10T01:14:55.439Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 201.3,
+    "yield_rate": 0.84,
+    "defect_count": 159
+  },
+  {
+    "id": "RUN-1118",
+    "timestamp": "2025-09-23T19:57:55.928Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 231.3,
+    "yield_rate": 0.809,
+    "defect_count": 190
+  },
+  {
+    "id": "RUN-1119",
+    "timestamp": "2025-08-20T09:20:45.752Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 184.5,
+    "yield_rate": 0.887,
+    "defect_count": 112
+  },
+  {
+    "id": "RUN-1120",
+    "timestamp": "2025-08-18T18:35:30.195Z",
+    "machine_id": "Press-B",
+    "temperature_c": 127,
+    "yield_rate": 0.985,
+    "defect_count": 14
+  },
+  {
+    "id": "RUN-1121",
+    "timestamp": "2025-11-02T12:41:36.847Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 218.2,
+    "yield_rate": 0.823,
+    "defect_count": 176
+  },
+  {
+    "id": "RUN-1122",
+    "timestamp": "2025-11-09T22:21:13.783Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 225.8,
+    "yield_rate": 0.784,
+    "defect_count": 216
+  },
+  {
+    "id": "RUN-1123",
+    "timestamp": "2025-09-29T23:30:05.420Z",
+    "machine_id": "Press-A",
+    "temperature_c": 142.9,
+    "yield_rate": 0.954,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1124",
+    "timestamp": "2025-08-31T00:26:09.899Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 213.8,
+    "yield_rate": 0.83,
+    "defect_count": 170
+  },
+  {
+    "id": "RUN-1125",
+    "timestamp": "2025-10-26T16:12:53.176Z",
+    "machine_id": "Press-A",
+    "temperature_c": 164,
+    "yield_rate": 0.92,
+    "defect_count": 79
+  },
+  {
+    "id": "RUN-1126",
+    "timestamp": "2025-08-25T19:14:55.453Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 208.4,
+    "yield_rate": 0.824,
+    "defect_count": 175
+  },
+  {
+    "id": "RUN-1127",
+    "timestamp": "2025-11-11T04:56:49.395Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 212.1,
+    "yield_rate": 0.814,
+    "defect_count": 186
+  },
+  {
+    "id": "RUN-1128",
+    "timestamp": "2025-09-03T16:54:54.516Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 226.6,
+    "yield_rate": 0.781,
+    "defect_count": 218
+  },
+  {
+    "id": "RUN-1129",
+    "timestamp": "2025-11-20T06:55:58.770Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 162.4,
+    "yield_rate": 0.918,
+    "defect_count": 82
+  },
+  {
+    "id": "RUN-1130",
+    "timestamp": "2025-09-05T15:21:06.377Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 195.6,
+    "yield_rate": 0.837,
+    "defect_count": 162
+  },
+  {
+    "id": "RUN-1131",
+    "timestamp": "2025-11-24T22:37:33.736Z",
+    "machine_id": "Press-A",
+    "temperature_c": 122.8,
+    "yield_rate": 0.968,
+    "defect_count": 31
+  },
+  {
+    "id": "RUN-1132",
+    "timestamp": "2025-11-25T16:48:46.512Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 242.1,
+    "yield_rate": 0.779,
+    "defect_count": 221
+  },
+  {
+    "id": "RUN-1133",
+    "timestamp": "2025-09-28T07:29:41.675Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 168.4,
+    "yield_rate": 0.907,
+    "defect_count": 92
+  },
+  {
+    "id": "RUN-1134",
+    "timestamp": "2025-09-12T16:25:35.198Z",
+    "machine_id": "Press-A",
+    "temperature_c": 166,
+    "yield_rate": 0.914,
+    "defect_count": 85
+  },
+  {
+    "id": "RUN-1135",
+    "timestamp": "2025-10-17T02:27:38.499Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 236.5,
+    "yield_rate": 0.791,
+    "defect_count": 209
+  },
+  {
+    "id": "RUN-1136",
+    "timestamp": "2025-12-04T20:49:21.568Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 160.9,
+    "yield_rate": 0.908,
+    "defect_count": 91
+  },
+  {
+    "id": "RUN-1137",
+    "timestamp": "2025-11-17T11:26:20.462Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 234.5,
+    "yield_rate": 0.77,
+    "defect_count": 229
+  },
+  {
+    "id": "RUN-1138",
+    "timestamp": "2025-09-26T14:13:16.336Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 217.5,
+    "yield_rate": 0.807,
+    "defect_count": 192
+  },
+  {
+    "id": "RUN-1139",
+    "timestamp": "2025-09-22T02:59:26.680Z",
+    "machine_id": "Press-A",
+    "temperature_c": 123.1,
+    "yield_rate": 0.965,
+    "defect_count": 35
+  },
+  {
+    "id": "RUN-1140",
+    "timestamp": "2025-11-24T21:39:27.317Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 239.6,
+    "yield_rate": 0.773,
+    "defect_count": 227
+  },
+  {
+    "id": "RUN-1141",
+    "timestamp": "2025-09-28T01:46:56.301Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 217.3,
+    "yield_rate": 0.811,
+    "defect_count": 189
+  },
+  {
+    "id": "RUN-1142",
+    "timestamp": "2025-11-19T14:21:53.106Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 232.8,
+    "yield_rate": 0.79,
+    "defect_count": 209
+  },
+  {
+    "id": "RUN-1143",
+    "timestamp": "2025-10-13T01:17:01.074Z",
+    "machine_id": "Press-A",
+    "temperature_c": 120.4,
+    "yield_rate": 0.991,
+    "defect_count": 9
+  },
+  {
+    "id": "RUN-1144",
+    "timestamp": "2025-11-09T14:31:18.890Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 160.5,
+    "yield_rate": 0.898,
+    "defect_count": 101
+  },
+  {
+    "id": "RUN-1145",
+    "timestamp": "2025-11-30T03:31:57.705Z",
+    "machine_id": "Press-A",
+    "temperature_c": 162.6,
+    "yield_rate": 0.908,
+    "defect_count": 92
+  },
+  {
+    "id": "RUN-1146",
+    "timestamp": "2025-10-04T05:40:10.729Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 200.6,
+    "yield_rate": 0.839,
+    "defect_count": 160
+  },
+  {
+    "id": "RUN-1147",
+    "timestamp": "2025-12-01T22:40:32.486Z",
+    "machine_id": "Press-A",
+    "temperature_c": 120.9,
+    "yield_rate": 0.968,
+    "defect_count": 31
+  },
+  {
+    "id": "RUN-1148",
+    "timestamp": "2025-10-07T16:16:32.414Z",
+    "machine_id": "Press-B",
+    "temperature_c": 147.8,
+    "yield_rate": 0.958,
+    "defect_count": 42
+  },
+  {
+    "id": "RUN-1149",
+    "timestamp": "2025-08-28T21:10:31.273Z",
+    "machine_id": "Press-A",
+    "temperature_c": 165.7,
+    "yield_rate": 0.905,
+    "defect_count": 95
+  },
+  {
+    "id": "RUN-1150",
+    "timestamp": "2025-11-28T09:53:07.483Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 193.9,
+    "yield_rate": 0.863,
+    "defect_count": 137
+  },
+  {
+    "id": "RUN-1151",
+    "timestamp": "2025-10-24T00:52:37.361Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 197.6,
+    "yield_rate": 0.834,
+    "defect_count": 165
+  },
+  {
+    "id": "RUN-1152",
+    "timestamp": "2025-09-04T20:32:59.631Z",
+    "machine_id": "Press-B",
+    "temperature_c": 132.5,
+    "yield_rate": 0.973,
+    "defect_count": 27
+  },
+  {
+    "id": "RUN-1153",
+    "timestamp": "2025-09-21T22:27:42.199Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 238.1,
+    "yield_rate": 0.78,
+    "defect_count": 220
+  },
+  {
+    "id": "RUN-1154",
+    "timestamp": "2025-09-20T12:24:55.303Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 163.3,
+    "yield_rate": 0.922,
+    "defect_count": 77
+  },
+  {
+    "id": "RUN-1155",
+    "timestamp": "2025-11-10T20:36:41.063Z",
+    "machine_id": "Press-A",
+    "temperature_c": 137.4,
+    "yield_rate": 0.955,
+    "defect_count": 44
+  },
+  {
+    "id": "RUN-1156",
+    "timestamp": "2025-09-09T20:08:29.347Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 228,
+    "yield_rate": 0.811,
+    "defect_count": 188
+  },
+  {
+    "id": "RUN-1157",
+    "timestamp": "2025-09-29T05:35:23.410Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 246.5,
+    "yield_rate": 0.774,
+    "defect_count": 225
+  },
+  {
+    "id": "RUN-1158",
+    "timestamp": "2025-11-27T10:07:46.022Z",
+    "machine_id": "Press-A",
+    "temperature_c": 130.8,
+    "yield_rate": 0.975,
+    "defect_count": 24
+  },
+  {
+    "id": "RUN-1159",
+    "timestamp": "2025-08-23T05:53:34.267Z",
+    "machine_id": "Press-B",
+    "temperature_c": 166.2,
+    "yield_rate": 0.922,
+    "defect_count": 78
+  },
+  {
+    "id": "RUN-1160",
+    "timestamp": "2025-11-06T19:31:08.948Z",
+    "machine_id": "Press-B",
+    "temperature_c": 152.3,
+    "yield_rate": 0.919,
+    "defect_count": 81
+  },
+  {
+    "id": "RUN-1161",
+    "timestamp": "2025-09-27T03:50:07.963Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 215.8,
+    "yield_rate": 0.814,
+    "defect_count": 185
+  },
+  {
+    "id": "RUN-1162",
+    "timestamp": "2025-10-29T17:40:17.070Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230.1,
+    "yield_rate": 0.799,
+    "defect_count": 200
+  },
+  {
+    "id": "RUN-1163",
+    "timestamp": "2025-08-17T19:08:18.239Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 218.8,
+    "yield_rate": 0.813,
+    "defect_count": 187
+  },
+  {
+    "id": "RUN-1164",
+    "timestamp": "2025-11-26T09:17:36.720Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 247.2,
+    "yield_rate": 0.752,
+    "defect_count": 247
+  },
+  {
+    "id": "RUN-1165",
+    "timestamp": "2025-10-06T15:33:40.417Z",
+    "machine_id": "Press-A",
+    "temperature_c": 126.6,
+    "yield_rate": 0.988,
+    "defect_count": 11
+  },
+  {
+    "id": "RUN-1166",
+    "timestamp": "2025-10-01T00:53:24.736Z",
+    "machine_id": "Press-B",
+    "temperature_c": 165.1,
+    "yield_rate": 0.911,
+    "defect_count": 89
+  },
+  {
+    "id": "RUN-1167",
+    "timestamp": "2025-09-30T19:29:32.732Z",
+    "machine_id": "Press-B",
+    "temperature_c": 131.1,
+    "yield_rate": 0.953,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1168",
+    "timestamp": "2025-11-15T13:10:39.152Z",
+    "machine_id": "Press-B",
+    "temperature_c": 148.2,
+    "yield_rate": 0.923,
+    "defect_count": 77
+  },
+  {
+    "id": "RUN-1169",
+    "timestamp": "2025-11-12T23:56:06.345Z",
+    "machine_id": "Press-B",
+    "temperature_c": 122.3,
+    "yield_rate": 0.989,
+    "defect_count": 11
+  },
+  {
+    "id": "RUN-1170",
+    "timestamp": "2025-11-23T07:17:14.825Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.4,
+    "yield_rate": 0.767,
+    "defect_count": 233
+  },
+  {
+    "id": "RUN-1171",
+    "timestamp": "2025-09-09T14:14:08.959Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 216.3,
+    "yield_rate": 0.826,
+    "defect_count": 174
+  },
+  {
+    "id": "RUN-1172",
+    "timestamp": "2025-11-10T00:26:38.259Z",
+    "machine_id": "Press-B",
+    "temperature_c": 151.9,
+    "yield_rate": 0.921,
+    "defect_count": 79
+  },
+  {
+    "id": "RUN-1173",
+    "timestamp": "2025-09-19T09:16:29.167Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 170.9,
+    "yield_rate": 0.91,
+    "defect_count": 89
+  },
+  {
+    "id": "RUN-1174",
+    "timestamp": "2025-09-02T13:46:14.751Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 215.6,
+    "yield_rate": 0.799,
+    "defect_count": 201
+  },
+  {
+    "id": "RUN-1175",
+    "timestamp": "2025-10-28T17:15:22.417Z",
+    "machine_id": "Press-A",
+    "temperature_c": 136.6,
+    "yield_rate": 0.971,
+    "defect_count": 29
+  },
+  {
+    "id": "RUN-1176",
+    "timestamp": "2025-08-14T01:39:16.512Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 179.8,
+    "yield_rate": 0.892,
+    "defect_count": 107
+  },
+  {
+    "id": "RUN-1177",
+    "timestamp": "2025-09-07T12:25:36.781Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 246.5,
+    "yield_rate": 0.744,
+    "defect_count": 255
+  },
+  {
+    "id": "RUN-1178",
+    "timestamp": "2025-08-30T09:53:25.275Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 217.5,
+    "yield_rate": 0.806,
+    "defect_count": 194
+  },
+  {
+    "id": "RUN-1179",
+    "timestamp": "2025-11-20T20:40:57.817Z",
+    "machine_id": "Press-B",
+    "temperature_c": 128.7,
+    "yield_rate": 0.991,
+    "defect_count": 8
+  },
+  {
+    "id": "RUN-1180",
+    "timestamp": "2025-08-25T09:15:15.256Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 195.7,
+    "yield_rate": 0.872,
+    "defect_count": 128
+  },
+  {
+    "id": "RUN-1181",
+    "timestamp": "2025-11-24T17:01:55.329Z",
+    "machine_id": "Press-A",
+    "temperature_c": 128,
+    "yield_rate": 0.971,
+    "defect_count": 28
+  },
+  {
+    "id": "RUN-1182",
+    "timestamp": "2025-11-28T10:44:10.700Z",
+    "machine_id": "Press-A",
+    "temperature_c": 152.5,
+    "yield_rate": 0.92,
+    "defect_count": 79
+  },
+  {
+    "id": "RUN-1183",
+    "timestamp": "2025-11-16T17:53:36.906Z",
+    "machine_id": "Press-A",
+    "temperature_c": 161.2,
+    "yield_rate": 0.932,
+    "defect_count": 67
+  },
+  {
+    "id": "RUN-1184",
+    "timestamp": "2025-09-10T20:30:38.933Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 212.7,
+    "yield_rate": 0.813,
+    "defect_count": 187
+  },
+  {
+    "id": "RUN-1185",
+    "timestamp": "2025-09-13T17:35:05.889Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 243.1,
+    "yield_rate": 0.774,
+    "defect_count": 226
+  },
+  {
+    "id": "RUN-1186",
+    "timestamp": "2025-08-31T23:35:44.381Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 211.5,
+    "yield_rate": 0.82,
+    "defect_count": 179
+  },
+  {
+    "id": "RUN-1187",
+    "timestamp": "2025-11-07T06:43:58.933Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 227.3,
+    "yield_rate": 0.805,
+    "defect_count": 194
+  },
+  {
+    "id": "RUN-1188",
+    "timestamp": "2025-11-19T16:48:15.919Z",
+    "machine_id": "Press-A",
+    "temperature_c": 157.9,
+    "yield_rate": 0.92,
+    "defect_count": 80
+  },
+  {
+    "id": "RUN-1189",
+    "timestamp": "2025-10-26T13:37:33.279Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230.6,
+    "yield_rate": 0.806,
+    "defect_count": 194
+  },
+  {
+    "id": "RUN-1190",
+    "timestamp": "2025-10-30T23:36:32.465Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 169.1,
+    "yield_rate": 0.91,
+    "defect_count": 89
+  },
+  {
+    "id": "RUN-1191",
+    "timestamp": "2025-09-10T02:46:00.688Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 203.6,
+    "yield_rate": 0.853,
+    "defect_count": 147
+  },
+  {
+    "id": "RUN-1192",
+    "timestamp": "2025-10-31T04:05:53.209Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 171.5,
+    "yield_rate": 0.889,
+    "defect_count": 110
+  },
+  {
+    "id": "RUN-1193",
+    "timestamp": "2025-12-05T06:46:06.334Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 225.9,
+    "yield_rate": 0.802,
+    "defect_count": 197
+  },
+  {
+    "id": "RUN-1194",
+    "timestamp": "2025-11-06T17:09:33.265Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 186.1,
+    "yield_rate": 0.862,
+    "defect_count": 138
+  },
+  {
+    "id": "RUN-1195",
+    "timestamp": "2025-08-21T11:08:06.755Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 200.9,
+    "yield_rate": 0.843,
+    "defect_count": 156
+  },
+  {
+    "id": "RUN-1196",
+    "timestamp": "2025-09-09T14:33:45.840Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 224.4,
+    "yield_rate": 0.795,
+    "defect_count": 204
+  },
+  {
+    "id": "RUN-1197",
+    "timestamp": "2025-10-19T03:41:30.152Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 247.1,
+    "yield_rate": 0.781,
+    "defect_count": 218
+  },
+  {
+    "id": "RUN-1198",
+    "timestamp": "2025-11-11T02:53:36.534Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145,
+    "yield_rate": 0.945,
+    "defect_count": 54
+  },
+  {
+    "id": "RUN-1199",
+    "timestamp": "2025-10-07T20:31:27.145Z",
+    "machine_id": "Press-B",
+    "temperature_c": 139.3,
+    "yield_rate": 0.944,
+    "defect_count": 56
+  },
+  {
+    "id": "RUN-1200",
+    "timestamp": "2025-10-23T04:57:40.710Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 231.4,
+    "yield_rate": 0.801,
+    "defect_count": 198
+  },
+  {
+    "id": "RUN-1201",
+    "timestamp": "2025-11-14T15:35:18.864Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 205.4,
+    "yield_rate": 0.853,
+    "defect_count": 147
+  },
+  {
+    "id": "RUN-1202",
+    "timestamp": "2025-09-21T06:25:08.648Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 246.5,
+    "yield_rate": 0.755,
+    "defect_count": 245
+  },
+  {
+    "id": "RUN-1203",
+    "timestamp": "2025-10-01T17:44:39.956Z",
+    "machine_id": "Press-B",
+    "temperature_c": 130,
+    "yield_rate": 0.963,
+    "defect_count": 36
+  },
+  {
+    "id": "RUN-1204",
+    "timestamp": "2025-10-11T21:37:49.330Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 243.5,
+    "yield_rate": 0.775,
+    "defect_count": 225
+  },
+  {
+    "id": "RUN-1205",
+    "timestamp": "2025-08-15T18:23:03.061Z",
+    "machine_id": "Press-B",
+    "temperature_c": 166.7,
+    "yield_rate": 0.917,
+    "defect_count": 83
+  },
+  {
+    "id": "RUN-1206",
+    "timestamp": "2025-10-05T12:29:58.930Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 223.4,
+    "yield_rate": 0.818,
+    "defect_count": 181
+  },
+  {
+    "id": "RUN-1207",
+    "timestamp": "2025-10-11T17:32:01.082Z",
+    "machine_id": "Press-B",
+    "temperature_c": 151.2,
+    "yield_rate": 0.919,
+    "defect_count": 80
+  },
+  {
+    "id": "RUN-1208",
+    "timestamp": "2025-11-13T10:05:30.988Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 193,
+    "yield_rate": 0.863,
+    "defect_count": 136
+  },
+  {
+    "id": "RUN-1209",
+    "timestamp": "2025-10-12T01:43:15.931Z",
+    "machine_id": "Press-A",
+    "temperature_c": 136.7,
+    "yield_rate": 0.953,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1210",
+    "timestamp": "2025-08-12T23:08:14.759Z",
+    "machine_id": "Press-B",
+    "temperature_c": 130.4,
+    "yield_rate": 0.973,
+    "defect_count": 26
+  },
+  {
+    "id": "RUN-1211",
+    "timestamp": "2025-11-17T01:40:28.258Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 212.5,
+    "yield_rate": 0.82,
+    "defect_count": 179
+  },
+  {
+    "id": "RUN-1212",
+    "timestamp": "2025-11-29T03:19:56.978Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 246.1,
+    "yield_rate": 0.756,
+    "defect_count": 244
+  },
+  {
+    "id": "RUN-1213",
+    "timestamp": "2025-11-12T00:39:11.315Z",
+    "machine_id": "Press-A",
+    "temperature_c": 134.2,
+    "yield_rate": 0.972,
+    "defect_count": 27
+  },
+  {
+    "id": "RUN-1214",
+    "timestamp": "2025-09-15T06:29:32.680Z",
+    "machine_id": "Press-B",
+    "temperature_c": 168.2,
+    "yield_rate": 0.895,
+    "defect_count": 104
+  },
+  {
+    "id": "RUN-1215",
+    "timestamp": "2025-08-20T02:09:06.749Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 220.3,
+    "yield_rate": 0.806,
+    "defect_count": 194
+  },
+  {
+    "id": "RUN-1216",
+    "timestamp": "2025-11-15T08:09:59.660Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 167,
+    "yield_rate": 0.896,
+    "defect_count": 103
+  },
+  {
+    "id": "RUN-1217",
+    "timestamp": "2025-08-13T22:06:43.762Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 194.2,
+    "yield_rate": 0.866,
+    "defect_count": 134
+  },
+  {
+    "id": "RUN-1218",
+    "timestamp": "2025-11-24T02:17:25.511Z",
+    "machine_id": "Press-B",
+    "temperature_c": 126,
+    "yield_rate": 0.979,
+    "defect_count": 20
+  },
+  {
+    "id": "RUN-1219",
+    "timestamp": "2025-09-10T22:47:59.682Z",
+    "machine_id": "Press-B",
+    "temperature_c": 153.3,
+    "yield_rate": 0.95,
+    "defect_count": 50
+  },
+  {
+    "id": "RUN-1220",
+    "timestamp": "2025-10-08T13:37:50.862Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230.5,
+    "yield_rate": 0.8,
+    "defect_count": 200
+  },
+  {
+    "id": "RUN-1221",
+    "timestamp": "2025-11-16T03:16:32.464Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 213.8,
+    "yield_rate": 0.835,
+    "defect_count": 164
+  },
+  {
+    "id": "RUN-1222",
+    "timestamp": "2025-10-29T02:52:59.705Z",
+    "machine_id": "Press-A",
+    "temperature_c": 149.8,
+    "yield_rate": 0.953,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1223",
+    "timestamp": "2025-09-02T11:32:16.823Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 203.9,
+    "yield_rate": 0.842,
+    "defect_count": 157
+  },
+  {
+    "id": "RUN-1224",
+    "timestamp": "2025-08-15T10:55:47.969Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 239,
+    "yield_rate": 0.795,
+    "defect_count": 204
+  },
+  {
+    "id": "RUN-1225",
+    "timestamp": "2025-10-30T21:42:05.778Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145.2,
+    "yield_rate": 0.956,
+    "defect_count": 44
+  },
+  {
+    "id": "RUN-1226",
+    "timestamp": "2025-08-23T03:47:25.169Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 203.2,
+    "yield_rate": 0.849,
+    "defect_count": 151
+  },
+  {
+    "id": "RUN-1227",
+    "timestamp": "2025-09-16T04:16:59.146Z",
+    "machine_id": "Press-B",
+    "temperature_c": 126.5,
+    "yield_rate": 0.996,
+    "defect_count": 3
+  },
+  {
+    "id": "RUN-1228",
+    "timestamp": "2025-11-24T20:37:55.044Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 195.1,
+    "yield_rate": 0.846,
+    "defect_count": 154
+  },
+  {
+    "id": "RUN-1229",
+    "timestamp": "2025-08-31T04:20:02.415Z",
+    "machine_id": "Press-A",
+    "temperature_c": 143.7,
+    "yield_rate": 0.947,
+    "defect_count": 52
+  },
+  {
+    "id": "RUN-1230",
+    "timestamp": "2025-10-02T21:39:22.669Z",
+    "machine_id": "Press-A",
+    "temperature_c": 157.3,
+    "yield_rate": 0.936,
+    "defect_count": 63
+  },
+  {
+    "id": "RUN-1231",
+    "timestamp": "2025-10-10T10:22:51.681Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 211.3,
+    "yield_rate": 0.837,
+    "defect_count": 163
+  },
+  {
+    "id": "RUN-1232",
+    "timestamp": "2025-09-16T23:10:36.870Z",
+    "machine_id": "Press-B",
+    "temperature_c": 131.5,
+    "yield_rate": 0.967,
+    "defect_count": 32
+  },
+  {
+    "id": "RUN-1233",
+    "timestamp": "2025-09-27T12:11:47.403Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 199.9,
+    "yield_rate": 0.834,
+    "defect_count": 166
+  },
+  {
+    "id": "RUN-1234",
+    "timestamp": "2025-10-19T11:28:03.051Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 240.8,
+    "yield_rate": 0.791,
+    "defect_count": 208
+  },
+  {
+    "id": "RUN-1235",
+    "timestamp": "2025-11-09T15:56:56.853Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 221.2,
+    "yield_rate": 0.803,
+    "defect_count": 196
+  },
+  {
+    "id": "RUN-1236",
+    "timestamp": "2025-10-22T06:05:07.969Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 199.2,
+    "yield_rate": 0.833,
+    "defect_count": 167
+  },
+  {
+    "id": "RUN-1237",
+    "timestamp": "2025-11-19T07:42:55.293Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 180,
+    "yield_rate": 0.897,
+    "defect_count": 103
+  },
+  {
+    "id": "RUN-1238",
+    "timestamp": "2025-10-23T08:14:10.348Z",
+    "machine_id": "Press-B",
+    "temperature_c": 143.2,
+    "yield_rate": 0.937,
+    "defect_count": 62
+  },
+  {
+    "id": "RUN-1239",
+    "timestamp": "2025-08-17T00:10:38.074Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 216.7,
+    "yield_rate": 0.815,
+    "defect_count": 185
+  },
+  {
+    "id": "RUN-1240",
+    "timestamp": "2025-11-25T20:36:23.737Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 230.8,
+    "yield_rate": 0.791,
+    "defect_count": 209
+  },
+  {
+    "id": "RUN-1241",
+    "timestamp": "2025-10-31T12:59:05.456Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 216.7,
+    "yield_rate": 0.804,
+    "defect_count": 195
+  },
+  {
+    "id": "RUN-1242",
+    "timestamp": "2025-10-22T09:37:27.585Z",
+    "machine_id": "Press-B",
+    "temperature_c": 125.6,
+    "yield_rate": 0.989,
+    "defect_count": 11
+  },
+  {
+    "id": "RUN-1243",
+    "timestamp": "2025-11-02T18:09:17.890Z",
+    "machine_id": "Press-B",
+    "temperature_c": 145.4,
+    "yield_rate": 0.924,
+    "defect_count": 75
+  },
+  {
+    "id": "RUN-1244",
+    "timestamp": "2025-11-20T17:08:19.880Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 171.5,
+    "yield_rate": 0.88,
+    "defect_count": 119
+  },
+  {
+    "id": "RUN-1245",
+    "timestamp": "2025-11-28T10:56:07.288Z",
+    "machine_id": "Press-B",
+    "temperature_c": 168.5,
+    "yield_rate": 0.905,
+    "defect_count": 95
+  },
+  {
+    "id": "RUN-1246",
+    "timestamp": "2025-12-01T21:32:43.217Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 221,
+    "yield_rate": 0.827,
+    "defect_count": 172
+  },
+  {
+    "id": "RUN-1247",
+    "timestamp": "2025-11-28T11:54:49.094Z",
+    "machine_id": "Press-A",
+    "temperature_c": 124.4,
+    "yield_rate": 0.965,
+    "defect_count": 34
+  },
+  {
+    "id": "RUN-1248",
+    "timestamp": "2025-10-16T09:05:08.357Z",
+    "machine_id": "Press-A",
+    "temperature_c": 155.2,
+    "yield_rate": 0.913,
+    "defect_count": 87
+  },
+  {
+    "id": "RUN-1249",
+    "timestamp": "2025-11-30T15:41:40.443Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 236.3,
+    "yield_rate": 0.775,
+    "defect_count": 225
+  },
+  {
+    "id": "RUN-1250",
+    "timestamp": "2025-08-16T15:30:14.228Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 181,
+    "yield_rate": 0.893,
+    "defect_count": 106
+  },
+  {
+    "id": "RUN-1251",
+    "timestamp": "2025-09-22T00:07:12.760Z",
+    "machine_id": "Press-B",
+    "temperature_c": 152.5,
+    "yield_rate": 0.93,
+    "defect_count": 70
+  },
+  {
+    "id": "RUN-1252",
+    "timestamp": "2025-12-04T22:44:58.669Z",
+    "machine_id": "Press-A",
+    "temperature_c": 130.8,
+    "yield_rate": 0.96,
+    "defect_count": 39
+  },
+  {
+    "id": "RUN-1253",
+    "timestamp": "2025-08-29T01:43:52.862Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 212.8,
+    "yield_rate": 0.81,
+    "defect_count": 189
+  },
+  {
+    "id": "RUN-1254",
+    "timestamp": "2025-08-30T06:31:00.974Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 239.3,
+    "yield_rate": 0.764,
+    "defect_count": 235
+  },
+  {
+    "id": "RUN-1255",
+    "timestamp": "2025-09-30T21:50:34.258Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 228.8,
+    "yield_rate": 0.801,
+    "defect_count": 198
+  },
+  {
+    "id": "RUN-1256",
+    "timestamp": "2025-09-04T12:33:08.864Z",
+    "machine_id": "Press-B",
+    "temperature_c": 144.4,
+    "yield_rate": 0.933,
+    "defect_count": 66
+  },
+  {
+    "id": "RUN-1257",
+    "timestamp": "2025-11-09T15:23:16.080Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 193.4,
+    "yield_rate": 0.87,
+    "defect_count": 130
+  },
+  {
+    "id": "RUN-1258",
+    "timestamp": "2025-08-23T17:26:56.408Z",
+    "machine_id": "Press-B",
+    "temperature_c": 120.9,
+    "yield_rate": 0.991,
+    "defect_count": 9
+  },
+  {
+    "id": "RUN-1259",
+    "timestamp": "2025-11-06T04:18:04.147Z",
+    "machine_id": "Press-B",
+    "temperature_c": 159.1,
+    "yield_rate": 0.906,
+    "defect_count": 93
+  },
+  {
+    "id": "RUN-1260",
+    "timestamp": "2025-09-02T23:26:25.287Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 242.9,
+    "yield_rate": 0.769,
+    "defect_count": 231
+  },
+  {
+    "id": "RUN-1261",
+    "timestamp": "2025-11-12T21:00:07.673Z",
+    "machine_id": "Press-B",
+    "temperature_c": 137.6,
+    "yield_rate": 0.959,
+    "defect_count": 41
+  },
+  {
+    "id": "RUN-1262",
+    "timestamp": "2025-11-13T18:44:39.583Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 245.3,
+    "yield_rate": 0.763,
+    "defect_count": 236
+  },
+  {
+    "id": "RUN-1263",
+    "timestamp": "2025-09-20T02:11:11.475Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 172.2,
+    "yield_rate": 0.881,
+    "defect_count": 119
+  },
+  {
+    "id": "RUN-1264",
+    "timestamp": "2025-11-11T07:36:07.899Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230.7,
+    "yield_rate": 0.784,
+    "defect_count": 215
+  },
+  {
+    "id": "RUN-1265",
+    "timestamp": "2025-08-15T07:17:41.393Z",
+    "machine_id": "Press-B",
+    "temperature_c": 139.6,
+    "yield_rate": 0.936,
+    "defect_count": 63
+  },
+  {
+    "id": "RUN-1266",
+    "timestamp": "2025-09-29T02:14:39.574Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 237.3,
+    "yield_rate": 0.798,
+    "defect_count": 202
+  },
+  {
+    "id": "RUN-1267",
+    "timestamp": "2025-11-19T04:25:53.236Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 206,
+    "yield_rate": 0.839,
+    "defect_count": 161
+  },
+  {
+    "id": "RUN-1268",
+    "timestamp": "2025-09-14T06:42:14.129Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 207.7,
+    "yield_rate": 0.836,
+    "defect_count": 163
+  },
+  {
+    "id": "RUN-1269",
+    "timestamp": "2025-09-22T20:51:17.983Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 207.3,
+    "yield_rate": 0.82,
+    "defect_count": 180
+  },
+  {
+    "id": "RUN-1270",
+    "timestamp": "2025-08-16T04:44:23.305Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 233.4,
+    "yield_rate": 0.794,
+    "defect_count": 206
+  },
+  {
+    "id": "RUN-1271",
+    "timestamp": "2025-12-03T18:04:19.025Z",
+    "machine_id": "Press-A",
+    "temperature_c": 168.3,
+    "yield_rate": 0.894,
+    "defect_count": 105
+  },
+  {
+    "id": "RUN-1272",
+    "timestamp": "2025-11-01T04:12:44.817Z",
+    "machine_id": "Press-B",
+    "temperature_c": 147.7,
+    "yield_rate": 0.945,
+    "defect_count": 54
+  },
+  {
+    "id": "RUN-1273",
+    "timestamp": "2025-11-28T03:03:32.700Z",
+    "machine_id": "Press-A",
+    "temperature_c": 152.4,
+    "yield_rate": 0.923,
+    "defect_count": 77
+  },
+  {
+    "id": "RUN-1274",
+    "timestamp": "2025-10-26T10:45:30.084Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 228.6,
+    "yield_rate": 0.778,
+    "defect_count": 221
+  },
+  {
+    "id": "RUN-1275",
+    "timestamp": "2025-08-14T04:15:51.191Z",
+    "machine_id": "Press-A",
+    "temperature_c": 160.8,
+    "yield_rate": 0.913,
+    "defect_count": 87
+  },
+  {
+    "id": "RUN-1276",
+    "timestamp": "2025-09-13T08:37:58.652Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 220.5,
+    "yield_rate": 0.795,
+    "defect_count": 205
+  },
+  {
+    "id": "RUN-1277",
+    "timestamp": "2025-11-29T06:29:25.082Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 206.1,
+    "yield_rate": 0.839,
+    "defect_count": 161
+  },
+  {
+    "id": "RUN-1278",
+    "timestamp": "2025-11-17T04:10:21.097Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 165.4,
+    "yield_rate": 0.926,
+    "defect_count": 74
+  },
+  {
+    "id": "RUN-1279",
+    "timestamp": "2025-11-09T10:17:28.898Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 231.5,
+    "yield_rate": 0.792,
+    "defect_count": 208
+  },
+  {
+    "id": "RUN-1280",
+    "timestamp": "2025-08-31T03:49:46.920Z",
+    "machine_id": "Press-A",
+    "temperature_c": 141.8,
+    "yield_rate": 0.95,
+    "defect_count": 50
+  },
+  {
+    "id": "RUN-1281",
+    "timestamp": "2025-11-28T03:27:34.834Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 214.2,
+    "yield_rate": 0.817,
+    "defect_count": 183
+  },
+  {
+    "id": "RUN-1282",
+    "timestamp": "2025-09-15T05:35:51.338Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 217.3,
+    "yield_rate": 0.82,
+    "defect_count": 179
+  },
+  {
+    "id": "RUN-1283",
+    "timestamp": "2025-11-19T15:07:08.761Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 222.2,
+    "yield_rate": 0.797,
+    "defect_count": 203
+  },
+  {
+    "id": "RUN-1284",
+    "timestamp": "2025-11-17T17:11:55.558Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 174.3,
+    "yield_rate": 0.9,
+    "defect_count": 99
+  },
+  {
+    "id": "RUN-1285",
+    "timestamp": "2025-10-04T06:42:44.975Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 202.5,
+    "yield_rate": 0.856,
+    "defect_count": 144
+  },
+  {
+    "id": "RUN-1286",
+    "timestamp": "2025-08-18T03:23:08.269Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 217.5,
+    "yield_rate": 0.831,
+    "defect_count": 168
+  },
+  {
+    "id": "RUN-1287",
+    "timestamp": "2025-10-15T19:05:42.263Z",
+    "machine_id": "Press-A",
+    "temperature_c": 162.3,
+    "yield_rate": 0.924,
+    "defect_count": 76
+  },
+  {
+    "id": "RUN-1288",
+    "timestamp": "2025-11-26T05:49:15.860Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 232.5,
+    "yield_rate": 0.792,
+    "defect_count": 208
+  },
+  {
+    "id": "RUN-1289",
+    "timestamp": "2025-12-01T20:27:28.792Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 211.4,
+    "yield_rate": 0.823,
+    "defect_count": 177
+  },
+  {
+    "id": "RUN-1290",
+    "timestamp": "2025-11-28T10:59:12.634Z",
+    "machine_id": "Press-B",
+    "temperature_c": 138.5,
+    "yield_rate": 0.963,
+    "defect_count": 37
+  },
+  {
+    "id": "RUN-1291",
+    "timestamp": "2025-11-19T02:17:16.566Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 228.9,
+    "yield_rate": 0.787,
+    "defect_count": 213
+  },
+  {
+    "id": "RUN-1292",
+    "timestamp": "2025-10-19T04:56:11.704Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 220.1,
+    "yield_rate": 0.792,
+    "defect_count": 207
+  },
+  {
+    "id": "RUN-1293",
+    "timestamp": "2025-11-21T18:16:26.623Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 234.4,
+    "yield_rate": 0.801,
+    "defect_count": 198
+  },
+  {
+    "id": "RUN-1294",
+    "timestamp": "2025-11-28T06:04:42.021Z",
+    "machine_id": "Press-A",
+    "temperature_c": 130.1,
+    "yield_rate": 0.961,
     "defect_count": 38
+  },
+  {
+    "id": "RUN-1295",
+    "timestamp": "2025-11-14T04:42:06.117Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 167.6,
+    "yield_rate": 0.9,
+    "defect_count": 99
+  },
+  {
+    "id": "RUN-1296",
+    "timestamp": "2025-10-26T06:09:06.340Z",
+    "machine_id": "Press-B",
+    "temperature_c": 122.5,
+    "yield_rate": 0.968,
+    "defect_count": 31
+  },
+  {
+    "id": "RUN-1297",
+    "timestamp": "2025-08-22T04:31:33.973Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 235.8,
+    "yield_rate": 0.782,
+    "defect_count": 217
+  },
+  {
+    "id": "RUN-1298",
+    "timestamp": "2025-10-13T23:42:57.947Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.4,
+    "yield_rate": 0.798,
+    "defect_count": 201
+  },
+  {
+    "id": "RUN-1299",
+    "timestamp": "2025-12-05T11:08:37.873Z",
+    "machine_id": "Press-A",
+    "temperature_c": 130.7,
+    "yield_rate": 0.973,
+    "defect_count": 27
+  },
+  {
+    "id": "RUN-1300",
+    "timestamp": "2025-09-26T18:17:00.045Z",
+    "machine_id": "Press-B",
+    "temperature_c": 135.9,
+    "yield_rate": 0.966,
+    "defect_count": 34
+  },
+  {
+    "id": "RUN-1301",
+    "timestamp": "2025-10-16T23:51:14.340Z",
+    "machine_id": "Press-A",
+    "temperature_c": 124.7,
+    "yield_rate": 0.977,
+    "defect_count": 23
+  },
+  {
+    "id": "RUN-1302",
+    "timestamp": "2025-08-29T00:43:25.440Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 244.8,
+    "yield_rate": 0.771,
+    "defect_count": 229
+  },
+  {
+    "id": "RUN-1303",
+    "timestamp": "2025-10-02T09:07:52.363Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 202.4,
+    "yield_rate": 0.83,
+    "defect_count": 170
+  },
+  {
+    "id": "RUN-1304",
+    "timestamp": "2025-08-19T07:03:38.841Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 227.5,
+    "yield_rate": 0.793,
+    "defect_count": 207
+  },
+  {
+    "id": "RUN-1305",
+    "timestamp": "2025-11-03T23:57:43.560Z",
+    "machine_id": "Press-A",
+    "temperature_c": 150.5,
+    "yield_rate": 0.939,
+    "defect_count": 60
+  },
+  {
+    "id": "RUN-1306",
+    "timestamp": "2025-11-10T18:39:42.336Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 181.1,
+    "yield_rate": 0.884,
+    "defect_count": 115
+  },
+  {
+    "id": "RUN-1307",
+    "timestamp": "2025-09-25T14:39:06.519Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 162.3,
+    "yield_rate": 0.908,
+    "defect_count": 92
+  },
+  {
+    "id": "RUN-1308",
+    "timestamp": "2025-08-13T23:50:28.176Z",
+    "machine_id": "Press-A",
+    "temperature_c": 132.9,
+    "yield_rate": 0.978,
+    "defect_count": 22
+  },
+  {
+    "id": "RUN-1309",
+    "timestamp": "2025-11-27T17:10:31.810Z",
+    "machine_id": "Press-B",
+    "temperature_c": 121.4,
+    "yield_rate": 0.98,
+    "defect_count": 19
+  },
+  {
+    "id": "RUN-1310",
+    "timestamp": "2025-10-19T10:13:00.399Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 238.5,
+    "yield_rate": 0.795,
+    "defect_count": 204
+  },
+  {
+    "id": "RUN-1311",
+    "timestamp": "2025-10-11T07:28:42.834Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 204.8,
+    "yield_rate": 0.835,
+    "defect_count": 164
+  },
+  {
+    "id": "RUN-1312",
+    "timestamp": "2025-11-25T01:30:47.772Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 191.4,
+    "yield_rate": 0.858,
+    "defect_count": 141
+  },
+  {
+    "id": "RUN-1313",
+    "timestamp": "2025-11-11T06:18:21.198Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 173.8,
+    "yield_rate": 0.907,
+    "defect_count": 92
+  },
+  {
+    "id": "RUN-1314",
+    "timestamp": "2025-08-23T18:27:07.805Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 217.8,
+    "yield_rate": 0.805,
+    "defect_count": 195
+  },
+  {
+    "id": "RUN-1315",
+    "timestamp": "2025-09-11T20:30:39.513Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.8,
+    "yield_rate": 0.79,
+    "defect_count": 210
+  },
+  {
+    "id": "RUN-1316",
+    "timestamp": "2025-11-20T02:09:04.876Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 181.6,
+    "yield_rate": 0.881,
+    "defect_count": 119
+  },
+  {
+    "id": "RUN-1317",
+    "timestamp": "2025-09-13T05:32:18.391Z",
+    "machine_id": "Press-B",
+    "temperature_c": 155.4,
+    "yield_rate": 0.911,
+    "defect_count": 89
+  },
+  {
+    "id": "RUN-1318",
+    "timestamp": "2025-08-17T00:10:26.447Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 199.4,
+    "yield_rate": 0.853,
+    "defect_count": 147
+  },
+  {
+    "id": "RUN-1319",
+    "timestamp": "2025-10-26T06:26:34.380Z",
+    "machine_id": "Press-A",
+    "temperature_c": 169.7,
+    "yield_rate": 0.91,
+    "defect_count": 90
+  },
+  {
+    "id": "RUN-1320",
+    "timestamp": "2025-11-26T11:13:29.453Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 195.8,
+    "yield_rate": 0.871,
+    "defect_count": 129
+  },
+  {
+    "id": "RUN-1321",
+    "timestamp": "2025-10-13T08:33:24.145Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 205.6,
+    "yield_rate": 0.839,
+    "defect_count": 160
+  },
+  {
+    "id": "RUN-1322",
+    "timestamp": "2025-09-22T18:32:07.435Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 223.4,
+    "yield_rate": 0.813,
+    "defect_count": 186
+  },
+  {
+    "id": "RUN-1323",
+    "timestamp": "2025-08-27T12:43:55.298Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 169.2,
+    "yield_rate": 0.886,
+    "defect_count": 113
+  },
+  {
+    "id": "RUN-1324",
+    "timestamp": "2025-10-05T20:08:29.497Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230.9,
+    "yield_rate": 0.8,
+    "defect_count": 200
+  },
+  {
+    "id": "RUN-1325",
+    "timestamp": "2025-09-30T05:01:26.445Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 196.9,
+    "yield_rate": 0.869,
+    "defect_count": 130
+  },
+  {
+    "id": "RUN-1326",
+    "timestamp": "2025-10-15T10:43:42.801Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145.7,
+    "yield_rate": 0.957,
+    "defect_count": 43
+  },
+  {
+    "id": "RUN-1327",
+    "timestamp": "2025-11-05T18:43:52.774Z",
+    "machine_id": "Press-B",
+    "temperature_c": 148.8,
+    "yield_rate": 0.932,
+    "defect_count": 67
+  },
+  {
+    "id": "RUN-1328",
+    "timestamp": "2025-08-17T16:03:09.646Z",
+    "machine_id": "Press-A",
+    "temperature_c": 161.3,
+    "yield_rate": 0.916,
+    "defect_count": 84
+  },
+  {
+    "id": "RUN-1329",
+    "timestamp": "2025-09-10T11:38:53.306Z",
+    "machine_id": "Press-A",
+    "temperature_c": 162.9,
+    "yield_rate": 0.904,
+    "defect_count": 96
+  },
+  {
+    "id": "RUN-1330",
+    "timestamp": "2025-10-03T23:14:14.513Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 191.7,
+    "yield_rate": 0.862,
+    "defect_count": 138
+  },
+  {
+    "id": "RUN-1331",
+    "timestamp": "2025-11-18T16:11:39.072Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 223.3,
+    "yield_rate": 0.811,
+    "defect_count": 188
+  },
+  {
+    "id": "RUN-1332",
+    "timestamp": "2025-09-26T13:42:33.200Z",
+    "machine_id": "Press-B",
+    "temperature_c": 151,
+    "yield_rate": 0.942,
+    "defect_count": 58
+  },
+  {
+    "id": "RUN-1333",
+    "timestamp": "2025-10-27T08:17:13.042Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 213.8,
+    "yield_rate": 0.829,
+    "defect_count": 170
+  },
+  {
+    "id": "RUN-1334",
+    "timestamp": "2025-11-25T15:37:54.899Z",
+    "machine_id": "Press-A",
+    "temperature_c": 143.5,
+    "yield_rate": 0.951,
+    "defect_count": 49
+  },
+  {
+    "id": "RUN-1335",
+    "timestamp": "2025-10-28T15:26:38.561Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 234.2,
+    "yield_rate": 0.789,
+    "defect_count": 211
+  },
+  {
+    "id": "RUN-1336",
+    "timestamp": "2025-12-05T02:00:15.009Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 249.6,
+    "yield_rate": 0.75,
+    "defect_count": 249
+  },
+  {
+    "id": "RUN-1337",
+    "timestamp": "2025-11-14T02:16:52.066Z",
+    "machine_id": "Press-B",
+    "temperature_c": 131.1,
+    "yield_rate": 0.961,
+    "defect_count": 38
+  },
+  {
+    "id": "RUN-1338",
+    "timestamp": "2025-11-01T12:22:30.975Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 196.7,
+    "yield_rate": 0.854,
+    "defect_count": 145
+  },
+  {
+    "id": "RUN-1339",
+    "timestamp": "2025-10-12T16:02:14.447Z",
+    "machine_id": "Press-B",
+    "temperature_c": 122.9,
+    "yield_rate": 0.992,
+    "defect_count": 7
+  },
+  {
+    "id": "RUN-1340",
+    "timestamp": "2025-09-02T00:10:32.700Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 188.8,
+    "yield_rate": 0.864,
+    "defect_count": 136
+  },
+  {
+    "id": "RUN-1341",
+    "timestamp": "2025-11-08T11:34:23.072Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 211.1,
+    "yield_rate": 0.807,
+    "defect_count": 193
+  },
+  {
+    "id": "RUN-1342",
+    "timestamp": "2025-09-13T20:35:54.068Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 230.2,
+    "yield_rate": 0.792,
+    "defect_count": 207
+  },
+  {
+    "id": "RUN-1343",
+    "timestamp": "2025-08-20T00:22:21.822Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 186.9,
+    "yield_rate": 0.875,
+    "defect_count": 125
+  },
+  {
+    "id": "RUN-1344",
+    "timestamp": "2025-10-14T00:38:56.721Z",
+    "machine_id": "Press-A",
+    "temperature_c": 159.5,
+    "yield_rate": 0.902,
+    "defect_count": 97
+  },
+  {
+    "id": "RUN-1345",
+    "timestamp": "2025-08-22T20:39:24.910Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 223.6,
+    "yield_rate": 0.823,
+    "defect_count": 177
+  },
+  {
+    "id": "RUN-1346",
+    "timestamp": "2025-10-14T21:25:06.098Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 219.3,
+    "yield_rate": 0.812,
+    "defect_count": 188
+  },
+  {
+    "id": "RUN-1347",
+    "timestamp": "2025-11-28T13:51:47.558Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 194.3,
+    "yield_rate": 0.844,
+    "defect_count": 156
+  },
+  {
+    "id": "RUN-1348",
+    "timestamp": "2025-10-21T08:35:07.486Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 231,
+    "yield_rate": 0.779,
+    "defect_count": 220
+  },
+  {
+    "id": "RUN-1349",
+    "timestamp": "2025-09-30T06:15:37.542Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 210,
+    "yield_rate": 0.824,
+    "defect_count": 175
+  },
+  {
+    "id": "RUN-1350",
+    "timestamp": "2025-10-29T15:29:35.269Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 164.7,
+    "yield_rate": 0.923,
+    "defect_count": 76
+  },
+  {
+    "id": "RUN-1351",
+    "timestamp": "2025-11-24T21:06:09.657Z",
+    "machine_id": "Press-A",
+    "temperature_c": 136.3,
+    "yield_rate": 0.947,
+    "defect_count": 52
+  },
+  {
+    "id": "RUN-1352",
+    "timestamp": "2025-09-22T16:26:11.108Z",
+    "machine_id": "Press-A",
+    "temperature_c": 160.8,
+    "yield_rate": 0.91,
+    "defect_count": 89
+  },
+  {
+    "id": "RUN-1353",
+    "timestamp": "2025-11-07T09:35:36.158Z",
+    "machine_id": "Press-A",
+    "temperature_c": 157.1,
+    "yield_rate": 0.926,
+    "defect_count": 74
+  },
+  {
+    "id": "RUN-1354",
+    "timestamp": "2025-10-31T13:08:56.783Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 176.9,
+    "yield_rate": 0.877,
+    "defect_count": 123
+  },
+  {
+    "id": "RUN-1355",
+    "timestamp": "2025-11-12T15:29:44.060Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 199.1,
+    "yield_rate": 0.862,
+    "defect_count": 138
+  },
+  {
+    "id": "RUN-1356",
+    "timestamp": "2025-11-18T07:45:02.134Z",
+    "machine_id": "Press-A",
+    "temperature_c": 149.2,
+    "yield_rate": 0.937,
+    "defect_count": 63
+  },
+  {
+    "id": "RUN-1357",
+    "timestamp": "2025-08-19T04:25:26.633Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 211.5,
+    "yield_rate": 0.823,
+    "defect_count": 176
+  },
+  {
+    "id": "RUN-1358",
+    "timestamp": "2025-10-22T08:21:48.094Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 208.7,
+    "yield_rate": 0.832,
+    "defect_count": 167
+  },
+  {
+    "id": "RUN-1359",
+    "timestamp": "2025-10-21T06:16:14.773Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145.3,
+    "yield_rate": 0.93,
+    "defect_count": 69
+  },
+  {
+    "id": "RUN-1360",
+    "timestamp": "2025-10-27T10:31:38.379Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 246.9,
+    "yield_rate": 0.755,
+    "defect_count": 244
+  },
+  {
+    "id": "RUN-1361",
+    "timestamp": "2025-09-06T08:30:38.629Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 218.9,
+    "yield_rate": 0.822,
+    "defect_count": 178
+  },
+  {
+    "id": "RUN-1362",
+    "timestamp": "2025-10-12T06:20:59.414Z",
+    "machine_id": "Press-B",
+    "temperature_c": 123.2,
+    "yield_rate": 0.976,
+    "defect_count": 24
+  },
+  {
+    "id": "RUN-1363",
+    "timestamp": "2025-11-11T06:07:10.540Z",
+    "machine_id": "Press-A",
+    "temperature_c": 135.2,
+    "yield_rate": 0.952,
+    "defect_count": 48
+  },
+  {
+    "id": "RUN-1364",
+    "timestamp": "2025-09-29T00:03:32.857Z",
+    "machine_id": "Press-A",
+    "temperature_c": 163.3,
+    "yield_rate": 0.919,
+    "defect_count": 80
+  },
+  {
+    "id": "RUN-1365",
+    "timestamp": "2025-08-29T08:52:01.831Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 179.1,
+    "yield_rate": 0.885,
+    "defect_count": 115
+  },
+  {
+    "id": "RUN-1366",
+    "timestamp": "2025-09-04T19:48:28.249Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 226.1,
+    "yield_rate": 0.793,
+    "defect_count": 206
+  },
+  {
+    "id": "RUN-1367",
+    "timestamp": "2025-09-10T10:50:04.299Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 166,
+    "yield_rate": 0.909,
+    "defect_count": 91
+  },
+  {
+    "id": "RUN-1368",
+    "timestamp": "2025-08-20T17:45:19.134Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 248.8,
+    "yield_rate": 0.74,
+    "defect_count": 259
+  },
+  {
+    "id": "RUN-1369",
+    "timestamp": "2025-08-29T05:47:51.966Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 243.6,
+    "yield_rate": 0.77,
+    "defect_count": 230
+  },
+  {
+    "id": "RUN-1370",
+    "timestamp": "2025-11-09T01:05:33.122Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 189.8,
+    "yield_rate": 0.854,
+    "defect_count": 145
+  },
+  {
+    "id": "RUN-1371",
+    "timestamp": "2025-08-27T00:27:48.203Z",
+    "machine_id": "Press-A",
+    "temperature_c": 125,
+    "yield_rate": 0.971,
+    "defect_count": 29
+  },
+  {
+    "id": "RUN-1372",
+    "timestamp": "2025-10-07T05:29:37.658Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 241.4,
+    "yield_rate": 0.771,
+    "defect_count": 229
+  },
+  {
+    "id": "RUN-1373",
+    "timestamp": "2025-10-02T23:42:38.531Z",
+    "machine_id": "Press-B",
+    "temperature_c": 167.9,
+    "yield_rate": 0.912,
+    "defect_count": 87
+  },
+  {
+    "id": "RUN-1374",
+    "timestamp": "2025-10-06T18:22:16.125Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 221.3,
+    "yield_rate": 0.809,
+    "defect_count": 191
+  },
+  {
+    "id": "RUN-1375",
+    "timestamp": "2025-10-05T21:22:50.116Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 196.8,
+    "yield_rate": 0.87,
+    "defect_count": 129
+  },
+  {
+    "id": "RUN-1376",
+    "timestamp": "2025-10-15T21:28:48.134Z",
+    "machine_id": "Press-A",
+    "temperature_c": 148.2,
+    "yield_rate": 0.934,
+    "defect_count": 66
+  },
+  {
+    "id": "RUN-1377",
+    "timestamp": "2025-10-20T12:31:32.800Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 231.3,
+    "yield_rate": 0.773,
+    "defect_count": 227
+  },
+  {
+    "id": "RUN-1378",
+    "timestamp": "2025-11-11T16:40:34.384Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 176.7,
+    "yield_rate": 0.875,
+    "defect_count": 124
+  },
+  {
+    "id": "RUN-1379",
+    "timestamp": "2025-11-24T06:16:33.113Z",
+    "machine_id": "Press-A",
+    "temperature_c": 126.4,
+    "yield_rate": 0.992,
+    "defect_count": 7
+  },
+  {
+    "id": "RUN-1380",
+    "timestamp": "2025-11-15T08:48:50.246Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 201.9,
+    "yield_rate": 0.838,
+    "defect_count": 161
+  },
+  {
+    "id": "RUN-1381",
+    "timestamp": "2025-11-05T17:36:57.899Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 202.9,
+    "yield_rate": 0.858,
+    "defect_count": 142
+  },
+  {
+    "id": "RUN-1382",
+    "timestamp": "2025-10-11T05:18:48.714Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 219.2,
+    "yield_rate": 0.798,
+    "defect_count": 202
+  },
+  {
+    "id": "RUN-1383",
+    "timestamp": "2025-11-19T12:37:41.492Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 214.7,
+    "yield_rate": 0.808,
+    "defect_count": 192
+  },
+  {
+    "id": "RUN-1384",
+    "timestamp": "2025-09-05T11:50:34.669Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 178,
+    "yield_rate": 0.873,
+    "defect_count": 126
+  },
+  {
+    "id": "RUN-1385",
+    "timestamp": "2025-10-29T11:28:12.329Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 191,
+    "yield_rate": 0.86,
+    "defect_count": 139
+  },
+  {
+    "id": "RUN-1386",
+    "timestamp": "2025-08-19T13:19:20.206Z",
+    "machine_id": "Press-B",
+    "temperature_c": 126.1,
+    "yield_rate": 0.997,
+    "defect_count": 2
+  },
+  {
+    "id": "RUN-1387",
+    "timestamp": "2025-10-18T10:16:27.225Z",
+    "machine_id": "Press-A",
+    "temperature_c": 164.4,
+    "yield_rate": 0.926,
+    "defect_count": 74
+  },
+  {
+    "id": "RUN-1388",
+    "timestamp": "2025-12-01T13:09:52.676Z",
+    "machine_id": "Press-A",
+    "temperature_c": 157,
+    "yield_rate": 0.935,
+    "defect_count": 65
+  },
+  {
+    "id": "RUN-1389",
+    "timestamp": "2025-09-11T14:36:38.586Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 229.8,
+    "yield_rate": 0.803,
+    "defect_count": 196
+  },
+  {
+    "id": "RUN-1390",
+    "timestamp": "2025-10-09T19:12:10.987Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.7,
+    "yield_rate": 0.79,
+    "defect_count": 209
+  },
+  {
+    "id": "RUN-1391",
+    "timestamp": "2025-09-17T23:54:05.060Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 241.7,
+    "yield_rate": 0.79,
+    "defect_count": 209
+  },
+  {
+    "id": "RUN-1392",
+    "timestamp": "2025-09-04T13:16:39.601Z",
+    "machine_id": "Press-B",
+    "temperature_c": 161.5,
+    "yield_rate": 0.917,
+    "defect_count": 83
+  },
+  {
+    "id": "RUN-1393",
+    "timestamp": "2025-09-16T19:57:19.497Z",
+    "machine_id": "Press-B",
+    "temperature_c": 166.1,
+    "yield_rate": 0.919,
+    "defect_count": 81
+  },
+  {
+    "id": "RUN-1394",
+    "timestamp": "2025-08-14T22:14:34.297Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 171,
+    "yield_rate": 0.894,
+    "defect_count": 106
+  },
+  {
+    "id": "RUN-1395",
+    "timestamp": "2025-09-03T10:24:30.041Z",
+    "machine_id": "Press-A",
+    "temperature_c": 158.7,
+    "yield_rate": 0.91,
+    "defect_count": 90
+  },
+  {
+    "id": "RUN-1396",
+    "timestamp": "2025-11-29T12:15:18.012Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 245,
+    "yield_rate": 0.764,
+    "defect_count": 236
+  },
+  {
+    "id": "RUN-1397",
+    "timestamp": "2025-08-30T12:14:51.401Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 196.3,
+    "yield_rate": 0.851,
+    "defect_count": 148
+  },
+  {
+    "id": "RUN-1398",
+    "timestamp": "2025-08-29T11:35:21.343Z",
+    "machine_id": "Press-B",
+    "temperature_c": 154.7,
+    "yield_rate": 0.937,
+    "defect_count": 63
+  },
+  {
+    "id": "RUN-1399",
+    "timestamp": "2025-08-24T16:37:24.009Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 231.4,
+    "yield_rate": 0.772,
+    "defect_count": 228
+  },
+  {
+    "id": "RUN-1400",
+    "timestamp": "2025-10-20T10:24:10.246Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 242.4,
+    "yield_rate": 0.765,
+    "defect_count": 235
+  },
+  {
+    "id": "RUN-1401",
+    "timestamp": "2025-11-16T20:07:56.969Z",
+    "machine_id": "Press-A",
+    "temperature_c": 144.8,
+    "yield_rate": 0.948,
+    "defect_count": 52
+  },
+  {
+    "id": "RUN-1402",
+    "timestamp": "2025-08-21T22:23:07.120Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 247.6,
+    "yield_rate": 0.759,
+    "defect_count": 241
+  },
+  {
+    "id": "RUN-1403",
+    "timestamp": "2025-09-27T17:15:55.526Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 208.5,
+    "yield_rate": 0.836,
+    "defect_count": 163
+  },
+  {
+    "id": "RUN-1404",
+    "timestamp": "2025-08-26T12:43:13.106Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 237.4,
+    "yield_rate": 0.788,
+    "defect_count": 212
+  },
+  {
+    "id": "RUN-1405",
+    "timestamp": "2025-10-21T00:34:58.131Z",
+    "machine_id": "Press-A",
+    "temperature_c": 132.2,
+    "yield_rate": 0.972,
+    "defect_count": 28
+  },
+  {
+    "id": "RUN-1406",
+    "timestamp": "2025-11-01T00:51:29.300Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 201.9,
+    "yield_rate": 0.845,
+    "defect_count": 154
+  },
+  {
+    "id": "RUN-1407",
+    "timestamp": "2025-11-13T21:15:14.646Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 229.6,
+    "yield_rate": 0.778,
+    "defect_count": 222
+  },
+  {
+    "id": "RUN-1408",
+    "timestamp": "2025-10-28T09:10:52.937Z",
+    "machine_id": "Press-A",
+    "temperature_c": 160.5,
+    "yield_rate": 0.922,
+    "defect_count": 78
+  },
+  {
+    "id": "RUN-1409",
+    "timestamp": "2025-09-19T09:19:00.566Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 213.9,
+    "yield_rate": 0.83,
+    "defect_count": 169
+  },
+  {
+    "id": "RUN-1410",
+    "timestamp": "2025-10-27T16:14:32.125Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 183.7,
+    "yield_rate": 0.866,
+    "defect_count": 134
+  },
+  {
+    "id": "RUN-1411",
+    "timestamp": "2025-09-25T08:49:08.200Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 241.2,
+    "yield_rate": 0.757,
+    "defect_count": 242
+  },
+  {
+    "id": "RUN-1412",
+    "timestamp": "2025-08-21T04:37:23.531Z",
+    "machine_id": "Press-A",
+    "temperature_c": 125.1,
+    "yield_rate": 0.991,
+    "defect_count": 8
+  },
+  {
+    "id": "RUN-1413",
+    "timestamp": "2025-09-18T00:22:12.131Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 237,
+    "yield_rate": 0.774,
+    "defect_count": 226
+  },
+  {
+    "id": "RUN-1414",
+    "timestamp": "2025-09-10T13:27:28.613Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 246,
+    "yield_rate": 0.779,
+    "defect_count": 220
+  },
+  {
+    "id": "RUN-1415",
+    "timestamp": "2025-09-02T10:41:37.343Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 226.4,
+    "yield_rate": 0.792,
+    "defect_count": 208
+  },
+  {
+    "id": "RUN-1416",
+    "timestamp": "2025-10-03T01:53:21.457Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 241.2,
+    "yield_rate": 0.79,
+    "defect_count": 210
+  },
+  {
+    "id": "RUN-1417",
+    "timestamp": "2025-11-05T22:32:44.492Z",
+    "machine_id": "Press-A",
+    "temperature_c": 159,
+    "yield_rate": 0.902,
+    "defect_count": 98
+  },
+  {
+    "id": "RUN-1418",
+    "timestamp": "2025-11-08T23:25:12.502Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 192.6,
+    "yield_rate": 0.862,
+    "defect_count": 138
+  },
+  {
+    "id": "RUN-1419",
+    "timestamp": "2025-11-06T02:21:47.142Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 183,
+    "yield_rate": 0.873,
+    "defect_count": 126
+  },
+  {
+    "id": "RUN-1420",
+    "timestamp": "2025-11-21T09:36:16.213Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 221,
+    "yield_rate": 0.797,
+    "defect_count": 202
+  },
+  {
+    "id": "RUN-1421",
+    "timestamp": "2025-09-20T04:08:15.736Z",
+    "machine_id": "Press-B",
+    "temperature_c": 144.6,
+    "yield_rate": 0.965,
+    "defect_count": 34
+  },
+  {
+    "id": "RUN-1422",
+    "timestamp": "2025-12-01T04:00:02.285Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 245.2,
+    "yield_rate": 0.754,
+    "defect_count": 246
+  },
+  {
+    "id": "RUN-1423",
+    "timestamp": "2025-08-31T17:45:21.801Z",
+    "machine_id": "Press-A",
+    "temperature_c": 129.6,
+    "yield_rate": 0.97,
+    "defect_count": 29
+  },
+  {
+    "id": "RUN-1424",
+    "timestamp": "2025-09-09T15:19:47.218Z",
+    "machine_id": "Press-B",
+    "temperature_c": 165.9,
+    "yield_rate": 0.915,
+    "defect_count": 85
+  },
+  {
+    "id": "RUN-1425",
+    "timestamp": "2025-10-18T16:23:54.608Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 234,
+    "yield_rate": 0.784,
+    "defect_count": 216
+  },
+  {
+    "id": "RUN-1426",
+    "timestamp": "2025-12-01T17:21:13.585Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 238.9,
+    "yield_rate": 0.775,
+    "defect_count": 224
+  },
+  {
+    "id": "RUN-1427",
+    "timestamp": "2025-10-15T15:32:28.640Z",
+    "machine_id": "Press-B",
+    "temperature_c": 135.1,
+    "yield_rate": 0.946,
+    "defect_count": 53
+  },
+  {
+    "id": "RUN-1428",
+    "timestamp": "2025-10-06T22:58:50.859Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 238.9,
+    "yield_rate": 0.776,
+    "defect_count": 223
+  },
+  {
+    "id": "RUN-1429",
+    "timestamp": "2025-09-19T07:20:45.497Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 245.4,
+    "yield_rate": 0.757,
+    "defect_count": 242
+  },
+  {
+    "id": "RUN-1430",
+    "timestamp": "2025-11-15T08:42:19.080Z",
+    "machine_id": "Press-A",
+    "temperature_c": 164.8,
+    "yield_rate": 0.916,
+    "defect_count": 83
+  },
+  {
+    "id": "RUN-1431",
+    "timestamp": "2025-09-17T03:37:04.834Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 204.6,
+    "yield_rate": 0.854,
+    "defect_count": 145
+  },
+  {
+    "id": "RUN-1432",
+    "timestamp": "2025-08-25T04:51:10.148Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 209.3,
+    "yield_rate": 0.837,
+    "defect_count": 162
+  },
+  {
+    "id": "RUN-1433",
+    "timestamp": "2025-10-28T04:38:00.367Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 204.4,
+    "yield_rate": 0.854,
+    "defect_count": 146
+  },
+  {
+    "id": "RUN-1434",
+    "timestamp": "2025-10-07T21:49:16.992Z",
+    "machine_id": "Press-A",
+    "temperature_c": 145.7,
+    "yield_rate": 0.943,
+    "defect_count": 56
+  },
+  {
+    "id": "RUN-1435",
+    "timestamp": "2025-08-25T13:17:17.309Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 213.1,
+    "yield_rate": 0.804,
+    "defect_count": 195
+  },
+  {
+    "id": "RUN-1436",
+    "timestamp": "2025-10-06T02:32:28.380Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 171.6,
+    "yield_rate": 0.898,
+    "defect_count": 101
+  },
+  {
+    "id": "RUN-1437",
+    "timestamp": "2025-09-03T16:34:37.296Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 170.4,
+    "yield_rate": 0.902,
+    "defect_count": 97
+  },
+  {
+    "id": "RUN-1438",
+    "timestamp": "2025-12-02T22:06:04.932Z",
+    "machine_id": "Press-B",
+    "temperature_c": 147.2,
+    "yield_rate": 0.934,
+    "defect_count": 65
+  },
+  {
+    "id": "RUN-1439",
+    "timestamp": "2025-11-01T00:08:57.591Z",
+    "machine_id": "Press-A",
+    "temperature_c": 163.1,
+    "yield_rate": 0.893,
+    "defect_count": 107
+  },
+  {
+    "id": "RUN-1440",
+    "timestamp": "2025-09-05T13:57:24.845Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 214.6,
+    "yield_rate": 0.81,
+    "defect_count": 189
+  },
+  {
+    "id": "RUN-1441",
+    "timestamp": "2025-09-17T10:33:20.782Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 174.1,
+    "yield_rate": 0.875,
+    "defect_count": 124
+  },
+  {
+    "id": "RUN-1442",
+    "timestamp": "2025-09-12T22:24:12.133Z",
+    "machine_id": "Press-B",
+    "temperature_c": 160.3,
+    "yield_rate": 0.907,
+    "defect_count": 92
+  },
+  {
+    "id": "RUN-1443",
+    "timestamp": "2025-08-14T07:31:42.143Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 193.2,
+    "yield_rate": 0.866,
+    "defect_count": 133
+  },
+  {
+    "id": "RUN-1444",
+    "timestamp": "2025-11-05T09:20:07.599Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 191.4,
+    "yield_rate": 0.872,
+    "defect_count": 127
+  },
+  {
+    "id": "RUN-1445",
+    "timestamp": "2025-12-02T12:23:06.325Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230,
+    "yield_rate": 0.795,
+    "defect_count": 204
+  },
+  {
+    "id": "RUN-1446",
+    "timestamp": "2025-12-01T08:19:13.087Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 230.7,
+    "yield_rate": 0.782,
+    "defect_count": 218
+  },
+  {
+    "id": "RUN-1447",
+    "timestamp": "2025-09-27T17:50:58.204Z",
+    "machine_id": "Press-A",
+    "temperature_c": 128.4,
+    "yield_rate": 0.969,
+    "defect_count": 30
+  },
+  {
+    "id": "RUN-1448",
+    "timestamp": "2025-11-05T08:13:47.079Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 208.1,
+    "yield_rate": 0.85,
+    "defect_count": 150
+  },
+  {
+    "id": "RUN-1449",
+    "timestamp": "2025-11-16T18:25:11.030Z",
+    "machine_id": "Press-B",
+    "temperature_c": 161.1,
+    "yield_rate": 0.928,
+    "defect_count": 71
+  },
+  {
+    "id": "RUN-1450",
+    "timestamp": "2025-09-07T10:19:41.506Z",
+    "machine_id": "Press-A",
+    "temperature_c": 141.2,
+    "yield_rate": 0.946,
+    "defect_count": 54
+  },
+  {
+    "id": "RUN-1451",
+    "timestamp": "2025-11-08T09:45:32.168Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 203.1,
+    "yield_rate": 0.837,
+    "defect_count": 163
+  },
+  {
+    "id": "RUN-1452",
+    "timestamp": "2025-09-20T13:14:00.043Z",
+    "machine_id": "Press-A",
+    "temperature_c": 125,
+    "yield_rate": 0.983,
+    "defect_count": 16
+  },
+  {
+    "id": "RUN-1453",
+    "timestamp": "2025-10-24T00:39:42.091Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 229.3,
+    "yield_rate": 0.78,
+    "defect_count": 220
+  },
+  {
+    "id": "RUN-1454",
+    "timestamp": "2025-10-27T14:27:36.178Z",
+    "machine_id": "Press-B",
+    "temperature_c": 159.8,
+    "yield_rate": 0.902,
+    "defect_count": 97
+  },
+  {
+    "id": "RUN-1455",
+    "timestamp": "2025-09-19T00:41:44.469Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 180.9,
+    "yield_rate": 0.883,
+    "defect_count": 117
+  },
+  {
+    "id": "RUN-1456",
+    "timestamp": "2025-10-03T10:39:12.834Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 215,
+    "yield_rate": 0.828,
+    "defect_count": 172
+  },
+  {
+    "id": "RUN-1457",
+    "timestamp": "2025-10-20T09:10:01.810Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 235.3,
+    "yield_rate": 0.79,
+    "defect_count": 210
+  },
+  {
+    "id": "RUN-1458",
+    "timestamp": "2025-11-18T05:04:34.838Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 182.2,
+    "yield_rate": 0.882,
+    "defect_count": 118
+  },
+  {
+    "id": "RUN-1459",
+    "timestamp": "2025-11-19T10:55:58.060Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 219.1,
+    "yield_rate": 0.794,
+    "defect_count": 206
+  },
+  {
+    "id": "RUN-1460",
+    "timestamp": "2025-11-06T13:21:32.954Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 228.2,
+    "yield_rate": 0.803,
+    "defect_count": 197
+  },
+  {
+    "id": "RUN-1461",
+    "timestamp": "2025-10-29T12:47:13.313Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 230.7,
+    "yield_rate": 0.79,
+    "defect_count": 210
+  },
+  {
+    "id": "RUN-1462",
+    "timestamp": "2025-09-04T14:36:12.618Z",
+    "machine_id": "Press-A",
+    "temperature_c": 156.5,
+    "yield_rate": 0.939,
+    "defect_count": 61
+  },
+  {
+    "id": "RUN-1463",
+    "timestamp": "2025-08-28T19:29:33.670Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 175.6,
+    "yield_rate": 0.882,
+    "defect_count": 117
+  },
+  {
+    "id": "RUN-1464",
+    "timestamp": "2025-11-15T11:27:10.512Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 229.7,
+    "yield_rate": 0.79,
+    "defect_count": 210
+  },
+  {
+    "id": "RUN-1465",
+    "timestamp": "2025-08-22T18:25:19.463Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 208.8,
+    "yield_rate": 0.837,
+    "defect_count": 163
+  },
+  {
+    "id": "RUN-1466",
+    "timestamp": "2025-11-15T04:27:28.925Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 236.5,
+    "yield_rate": 0.766,
+    "defect_count": 234
+  },
+  {
+    "id": "RUN-1467",
+    "timestamp": "2025-08-20T02:56:55.256Z",
+    "machine_id": "Press-B",
+    "temperature_c": 152.5,
+    "yield_rate": 0.949,
+    "defect_count": 51
+  },
+  {
+    "id": "RUN-1468",
+    "timestamp": "2025-10-06T03:46:59.220Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 197,
+    "yield_rate": 0.87,
+    "defect_count": 130
+  },
+  {
+    "id": "RUN-1469",
+    "timestamp": "2025-10-18T09:29:38.160Z",
+    "machine_id": "Press-B",
+    "temperature_c": 140.1,
+    "yield_rate": 0.967,
+    "defect_count": 32
+  },
+  {
+    "id": "RUN-1470",
+    "timestamp": "2025-11-04T18:06:19.080Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 239,
+    "yield_rate": 0.762,
+    "defect_count": 238
+  },
+  {
+    "id": "RUN-1471",
+    "timestamp": "2025-09-07T23:02:33.427Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 232.8,
+    "yield_rate": 0.797,
+    "defect_count": 202
+  },
+  {
+    "id": "RUN-1472",
+    "timestamp": "2025-11-22T09:56:42.623Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 215.6,
+    "yield_rate": 0.809,
+    "defect_count": 190
+  },
+  {
+    "id": "RUN-1473",
+    "timestamp": "2025-08-26T12:53:16.926Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 249.3,
+    "yield_rate": 0.757,
+    "defect_count": 243
+  },
+  {
+    "id": "RUN-1474",
+    "timestamp": "2025-10-06T15:35:05.502Z",
+    "machine_id": "Press-B",
+    "temperature_c": 150.7,
+    "yield_rate": 0.94,
+    "defect_count": 59
+  },
+  {
+    "id": "RUN-1475",
+    "timestamp": "2025-10-12T17:35:01.185Z",
+    "machine_id": "Press-B",
+    "temperature_c": 144.2,
+    "yield_rate": 0.93,
+    "defect_count": 70
+  },
+  {
+    "id": "RUN-1476",
+    "timestamp": "2025-09-26T06:54:45.861Z",
+    "machine_id": "Press-A",
+    "temperature_c": 169.9,
+    "yield_rate": 0.881,
+    "defect_count": 118
+  },
+  {
+    "id": "RUN-1477",
+    "timestamp": "2025-08-25T18:45:24.061Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 231.6,
+    "yield_rate": 0.788,
+    "defect_count": 211
+  },
+  {
+    "id": "RUN-1478",
+    "timestamp": "2025-10-26T18:25:10.564Z",
+    "machine_id": "Press-B",
+    "temperature_c": 169,
+    "yield_rate": 0.883,
+    "defect_count": 117
+  },
+  {
+    "id": "RUN-1479",
+    "timestamp": "2025-08-26T06:16:20.983Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 239.2,
+    "yield_rate": 0.777,
+    "defect_count": 222
+  },
+  {
+    "id": "RUN-1480",
+    "timestamp": "2025-09-02T18:26:11.103Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 226.2,
+    "yield_rate": 0.803,
+    "defect_count": 197
+  },
+  {
+    "id": "RUN-1481",
+    "timestamp": "2025-09-13T19:10:33.347Z",
+    "machine_id": "Press-B",
+    "temperature_c": 140.3,
+    "yield_rate": 0.956,
+    "defect_count": 43
+  },
+  {
+    "id": "RUN-1482",
+    "timestamp": "2025-11-24T00:46:27.769Z",
+    "machine_id": "Press-A",
+    "temperature_c": 133.8,
+    "yield_rate": 0.968,
+    "defect_count": 31
+  },
+  {
+    "id": "RUN-1483",
+    "timestamp": "2025-08-24T04:43:27.220Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 235.4,
+    "yield_rate": 0.771,
+    "defect_count": 229
+  },
+  {
+    "id": "RUN-1484",
+    "timestamp": "2025-11-13T04:14:18.014Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 203.7,
+    "yield_rate": 0.837,
+    "defect_count": 163
+  },
+  {
+    "id": "RUN-1485",
+    "timestamp": "2025-11-24T05:04:35.367Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 205.3,
+    "yield_rate": 0.851,
+    "defect_count": 149
+  },
+  {
+    "id": "RUN-1486",
+    "timestamp": "2025-09-28T20:50:13.233Z",
+    "machine_id": "Press-B",
+    "temperature_c": 124.3,
+    "yield_rate": 0.997,
+    "defect_count": 3
+  },
+  {
+    "id": "RUN-1487",
+    "timestamp": "2025-10-21T08:09:18.174Z",
+    "machine_id": "Press-B",
+    "temperature_c": 136.8,
+    "yield_rate": 0.954,
+    "defect_count": 46
+  },
+  {
+    "id": "RUN-1488",
+    "timestamp": "2025-12-02T14:51:31.120Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 245.3,
+    "yield_rate": 0.775,
+    "defect_count": 224
+  },
+  {
+    "id": "RUN-1489",
+    "timestamp": "2025-11-28T07:09:21.506Z",
+    "machine_id": "Press-A",
+    "temperature_c": 130.2,
+    "yield_rate": 0.976,
+    "defect_count": 24
+  },
+  {
+    "id": "RUN-1490",
+    "timestamp": "2025-10-01T23:40:30.754Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 233.5,
+    "yield_rate": 0.794,
+    "defect_count": 205
+  },
+  {
+    "id": "RUN-1491",
+    "timestamp": "2025-11-29T07:27:23.667Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 240,
+    "yield_rate": 0.78,
+    "defect_count": 219
+  },
+  {
+    "id": "RUN-1492",
+    "timestamp": "2025-11-20T04:09:26.665Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 244.4,
+    "yield_rate": 0.764,
+    "defect_count": 235
+  },
+  {
+    "id": "RUN-1493",
+    "timestamp": "2025-11-20T00:08:52.403Z",
+    "machine_id": "Press-A",
+    "temperature_c": 131.2,
+    "yield_rate": 0.953,
+    "defect_count": 47
+  },
+  {
+    "id": "RUN-1494",
+    "timestamp": "2025-11-28T03:41:51.867Z",
+    "machine_id": "Oven-2",
+    "temperature_c": 219.4,
+    "yield_rate": 0.799,
+    "defect_count": 201
+  },
+  {
+    "id": "RUN-1495",
+    "timestamp": "2025-08-16T00:04:37.314Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 230.9,
+    "yield_rate": 0.786,
+    "defect_count": 214
+  },
+  {
+    "id": "RUN-1496",
+    "timestamp": "2025-09-14T08:11:46.001Z",
+    "machine_id": "Mixer-X",
+    "temperature_c": 172.2,
+    "yield_rate": 0.88,
+    "defect_count": 120
+  },
+  {
+    "id": "RUN-1497",
+    "timestamp": "2025-09-05T06:03:27.723Z",
+    "machine_id": "Press-A",
+    "temperature_c": 139.7,
+    "yield_rate": 0.944,
+    "defect_count": 55
+  },
+  {
+    "id": "RUN-1498",
+    "timestamp": "2025-08-12T05:28:41.597Z",
+    "machine_id": "Oven-1",
+    "temperature_c": 243.2,
+    "yield_rate": 0.765,
+    "defect_count": 234
+  },
+  {
+    "id": "RUN-1499",
+    "timestamp": "2025-09-09T13:49:34.885Z",
+    "machine_id": "Press-B",
+    "temperature_c": 137.6,
+    "yield_rate": 0.945,
+    "defect_count": 54
   }
 ]
